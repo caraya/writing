@@ -1,0 +1,862 @@
+<article xmlns='http://docbook.org/ns/docbook'
+	xmlns:xlink='http://www.w3.org/1999/xlink'
+	xmlns:xi='http://www.w3.org/2001/XInclude'>
+	<info>
+		<title>
+			New Possibilities and Challenges Using Wimba Classroom
+		</title>
+		<author>
+			<personname>
+				<firstname>Carlos</firstname>
+				<surname>Araya</surname>
+				<othername role='mi'>E.</othername>
+			</personname>
+		</author>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>2008-12-22</date>
+				<revremark>Initial version</revremark>
+			</revision>
+		</revhistory>
+	</info>
+
+	<sect1 id="intro">
+		<title>Looking forward</title>
+		<para>
+			I recently got a chance to play with a Wimba Classroom 5.1
+			server using our current delivery system. I have to admit
+			that I was impressed with the quality and performance of the
+			video, a derivative of the Theora open source codec, itself
+			a derivative of the propietary On2Vp6 code which was later
+			open sourced.
+		</para>
+		<para></para>
+	</sect1>
+	<sect1 id="current">
+		<title>The way things currently work</title>
+		<para></para>
+	</sect1>
+	<sect1 id="multimodal">
+		<title>Delivering the content in different ways</title>
+		<para></para>
+	</sect1>
+	<sect1 id="integrated">
+		<title>Integrating Wimba more tightly with other tools</title>
+		<para></para>
+	</sect1>
+	<sect1 id="hits">
+		<title>The good things about Live Classroom</title>
+		<para></para>
+	</sect1>
+	<sect1 id="misses">
+		<title>Room for improvement</title>
+		<para></para>
+	</sect1>
+	<sect1 id="competition">
+		<title>Other tools for synchronous delivery</title>
+		<para></para>
+	</sect1>
+	<bibliography id="bibliography">
+		<title>Further Reading</title>
+		<para />
+		<bibliodiv>
+			<title>eLearning and Distance Learning</title>
+			<para></para>
+			<bibliomixed xreflabel='Brandon 2007'
+				xml:id='brandon 2007'>
+				<bibliomset relation='book'>
+					<editor>Brandon, B. (Editor)</editor>
+					(2007)
+					<title role='book'>
+						The eLearning Guild's Handbook of eLearning
+						Strategy.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Santa Rosa, CA.
+					<publishername>The eLearning Guild.</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Cleary 2007' xml:id='Cleary 2007'>
+				<bibliomset relation='book'>
+					<editor>Cleary, J.</editor>
+					(2007)
+					<title role='book'>
+						E-Learning 101: An Introduction to E-Learning,
+						Learning Tools and Technologies.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Sunnyvale, CA.
+					<publishername>
+						Brandon Hall Research.
+					</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Horizon' xml:id='Horizon'>
+				<bibliomset relation='book'>
+					Horizon Team
+					<title role="book">
+						Challenges in Implementing Distance Learning
+						Programs
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://horizon.unc.edu/projects/resources/44items.html">
+						http://horizon.unc.edu/projects/resources/44items.html
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>IMS, SCORM and Learning Objects</title>
+			<para></para>
+			<bibliomixed xreflabel='ADL' xml:id='ADL'>
+				<bibliomset relation='book'>
+					Advanced Distributed Learning
+					<title role="book">ADL Website</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://www.adl.org/">
+						http://www.adl.org
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='IEEE' xml:id='IEEE'>
+				<bibliomset relation='book'>
+					IEEE Learning Technology Standards Committee (LTSC)
+					<title role='book'>
+						IEEE 1484.12.1-2002, 15 July 2002, Draft
+						Standard for Learning Object Metadata
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://peek.snurl.com/23drs">
+						http://peek.snurl.com/23drs
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Nichani' xml:id='Nichani'>
+				<bibliomset relation='book'>
+					Nichani, M.
+					<title role='book'>
+						LCMS = LMS + CMS [RLOs] - How does this effect
+						the learner? The instructional designer?
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href=" http://www.elearningpost.com/articles/archives/lcms_lms_cms_rlos/">
+						http://www.elearningpost.com/articles/archives/lcms_lms_cms_rlos/
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Ostyn 2007' xml:id='Ostyn 2007'>
+				<bibliomset relation='book'>
+					Ostyn, C. (2007)
+					<title role='book'>
+						In the Eye of the SCORM: An introduction to
+						SCORM 2004 for Content Developers
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://www.ostyn.com/standards/docs/Eye_Of_The_SCORM_draft.pdf">
+						http://www.ostyn.com/standards/docs/Eye_Of_The_SCORM_draft.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='SCORM' xml:id='SCORM'>
+				<bibliomset relation='book'>
+					<title role='book'>The SCORM Blog</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://www.scormblog.com/">
+						http://www.scormblog.com/
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Shepherd' xml:id='Shepherd'>
+				<bibliomset relation='book'>
+					Shepherd, C.
+					<title role='book'>Objects of Interest</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://www.fastrak-consulting.co.uk/tactix/features/objects/objects.htm">
+						http://www.fastrak-consulting.co.uk/tactix/features/objects/objects.htm
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Wiley 1999' xml:id='Wiley 1999'>
+				<bibliomset relation='book'>
+					Wiley, D. A. (1999)
+					<title role='book'>
+						The Post-LEGO Learning Object
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://opencontent.org/docs/post-lego.pdf">
+						http://opencontent.org/docs/post-lego.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Wiley 2000' xml:id='Wiley 2000'>
+				<bibliomset relation='book'>
+					Wiley, D. A. (2000)
+					<title role="book">
+						Connecting learning objects to instructional
+						design theory: A definition, a metaphor, and a
+						taxonomy
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://reusability.org/read/chapters/wiley.doc">
+						http://reusability.org/read/chapters/wiley.doc
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Instructional Design</title>
+			<para></para>
+			<bibliomixed xreflabel='Buffington 2003'
+				xml:id='Buffington 2003'>
+				<bibliomset relation='book'>
+					Buffington, J. (2003)
+					<title role="book">
+						Learning communities as an instructional model.
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					In
+					<editor>M. Orey (Ed.)</editor>
+					<title>
+						Emerging perspectives on learning, teaching, and
+						technology
+					</title>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://projects.coe.uga.edu/epltt/index.php?title=Learning_Communities_as_an_Instructional_Model">
+						http://projects.coe.uga.edu/epltt/index.php?title=Learning_Communities_as_an_Instructional_Model
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Forehand' xml:id='forehand'>
+				<bibliomset relation='book'>
+					Forehand, M. (2005)
+					<title role="book">
+						Bloom's taxonomy: Original and revised.
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					In
+					<editor>M. Orey (Ed.)</editor>
+					<title>
+						Emerging perspectives on learning, teaching, and
+						technology
+					</title>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://projects.coe.uga.edu/epltt/index.php?title=Bloom%27s_Taxonomy">
+						http://projects.coe.uga.edu/epltt/index.php?title=Bloom%27s_Taxonomy
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Galloway' xml:id='galloway'>
+				<bibliomset relation='book'>
+					Galloway, C. M. (2001)
+					<title role="book">
+						Vygotsky's Constructionism.
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					In
+					<editor>M. Orey (Ed.)</editor>
+					<title>
+						Emerging perspectives on learning, teaching, and
+						technology
+					</title>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://projects.coe.uga.edu/epltt/index.php?title=Vygotsky%27s_constructivism">
+						http://projects.coe.uga.edu/epltt/index.php?title=Vygotsky%27s_constructivism
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Kaufman &amp; Watkins'
+				xml:id='Kaufman &amp; Watkins'>
+				<bibliomset relation='book'>
+					Kaufman, R. &amp; Watkins, R. (2000)
+					<title role="book">
+						Getting Serious About Results and Payoffs: We
+						are what we say, do, and deliver.
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://www.ispi.org/services/Glossary/Kaufman_Watkin.pdf">
+						http://www.ispi.org/services/Glossary/Kaufman_Watkin.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Tripp &amp; Bichelmeyer'
+				xml:id='Tripp &amp; Bichelmeyer'>
+				Tripp, S. D., &amp; Bichelmeyer, B. (1990).
+				<bibliomset relation='article'>
+					Rapid Prototyping: An alternative instructional
+					design strategy
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>
+						Educational Technology Research and Development
+					</title>
+					<volumenum>38</volumenum>
+					<issuenum>(1)</issuenum>
+					.
+					<artpagenums>31 - 44</artpagenums>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Waters &amp; Gibbons'
+				xml:id='Waters &amp; Gibbons'>
+				<bibliomset relation='book'>
+					Waters, S. &amp; Gibbons, A. (2004)
+					<title role="book">
+						Design Languages, Notation Systems, and
+						Instructional Technology: A Case Study
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>
+						Educational Technology Research and Development
+					</title>
+					<volumenum>52</volumenum>
+					<issuenum>(2)</issuenum>
+					.
+					<artpagenums>57 - 68</artpagenums>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Learning Management Systems</title>
+			<para></para>
+			<bibliomixed xreflabel="About Moodle"
+				xmlid="about moodle">
+				Moodle.org
+				<bibliomset relation="book">
+					<title role="book">About Moodle</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation="book">
+					Retrieved 3/20/2008 from
+					<link
+						xlink:href="http://docs.moodle.org/en/About_Moodle">
+						http://docs.moodle.org/en/About_Moodle
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Munoz &amp; VanDuzer'
+				xml:id='munoz &amp; vanduzer'>
+				Munoz, K &amp; Van Duzer, J. (2005)
+				<bibliomset relation='book'>
+					<title role="book">
+						Blackboard vs. Moodle: A Comparison of
+						Satisfaction with Online Teaching and Learning
+						Tools
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://www.humboldt.edu/~jdv1/moodle/all.htm">
+						http://www.humboldt.edu/~jdv1/moodle/all.htm
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='SFSU ETAC' xml:id='sfsu'>
+				San Francisco State University Educatonal Technology
+				Advisory Committee (2006)
+				<bibliomset relation='book'>
+					<title role="book">
+						ETAC Report: Viability of an Exclusive
+						iLearn-based LMS Environment
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link xlink:href="http://snurl.com/23drh">
+						http://snurl.com/23drh
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Moodlerooms' xml:id='moodlerooms'>
+				Moodlerooms.com
+				<bibliomset relation='book'>
+					<title role="book">What is Moodlerooms</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://www.moodlerooms.com/what-is-moodlerooms.html">
+						http://www.moodlerooms.com/what-is-moodlerooms.html
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Generational Research</title>
+			<para></para>
+			<bibliomixed xreflabel='Bedroom Study'
+				xml:id='Bedroom Study'>
+				<bibliomset relation='book'>
+					The Bedroom Study
+					<title role="book">
+						The Bedroom Study Web site
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://www.thebedroomstudy.com/">
+						http://www.thebedroomstudy.com/
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Reeves 2008' xml:id='reeves 2008'>
+				<bibliomset relation='book'>
+					<title role='book'>
+						Do Generational Differences Matter in
+						Instructional Design?
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://it.coe.uga.edu/itforum/Paper104/ReevesITForumJan08.pdf">
+						http://it.coe.uga.edu/itforum/Paper104/ReevesITForumJan08.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Research Methods</title>
+			<para></para>
+			<bibliomixed xreflabel='Randolph 2007'
+				xml:id='Randolph 2007'>
+				<bibliomset relation='book'>
+					Randolph, J. J. (2007).
+					<title role='book'>
+						Multidisciplinary methods in educational
+						technology research and development
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://snurl.com/237qt">
+						http://snurl.com/237qt
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Watkins &amp; Schlosser (2003)'
+				xml:id='Watkins &amp; Schlosser (2003)'>
+				Watkins R. &amp; Schlosser, C. (2003).
+				<bibliomset relation='article'>
+					<title>
+						Conceptualizing Educational Research in Distance
+						Educations
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>
+						The Quarterly Review of Distance Education
+					</title>
+					<volumenum>4</volumenum>
+					<issuenum>(3)</issuenum>
+					.
+					<artpagenums>331 - 341</artpagenums>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Multimedia, Web 2.0 and Related Technologies</title>
+			<para></para>
+			<bibliomixed xreflabel='NMC &amp; Educause 2008'
+				xml:id='NMC &amp; Educause 2008'>
+				<bibliomset relation='book'>
+					New Media Consortium &amp; Educause Learning
+					Initiative
+					<title role='book'>
+						The Horizon Report: 2008 Edition
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://www.nmc.org/pdf/2008-Horizon-Report.pdf">
+						http://www.nmc.org/pdf/2008-Horizon-Report.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Mader 2006' xml:id='Mader 2006'>
+				<bibliomset relation='book'>
+					Mader, S (Editor) (2006).
+					<title role='book'>Using Wiki in Education.</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://www.wikiineducation.com">
+						http://www.wikiineducation.com
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Riismandel 2008'
+				xml:id='Riismandel 2008'>
+				<bibliomset relation='book'>
+					Riismandel, P (2008)
+					<title role='book'>
+						How to manage video content in higher education.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Streaming Media Magazine Industry Sourcebook 2008
+					<pagenums>pp. 160 - 165</pagenums>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Silver 2008' xml:id='Silver 2008'>
+				<bibliomset relation='book'>
+					Silver, D. (2008)
+					<title role='book'>
+						History, Hype, and Hope: An Afterward
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>First Monday</title>
+					<volumenum>13</volumenum>
+					<issuenum>(3)</issuenum>
+					. Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2143/1950">
+						http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2143/1950
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Sun 2008' xml:id='Sun 2008'>
+				<bibliomset relation='book'>
+					Sun Services (2008)
+					<title role='book'>
+						Current Reality And Future Vistion: Open Virtual
+						Worlds
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://snurl.com/23dn5">
+						http://snurl.com/23dn5
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Stevenson 2007'
+				xml:id='Stevenson 2007'>
+				<bibliomset relation='book'>
+					Stevenson (2007)
+					<title role='book'>
+						Tool, tutor, environment or resource: Exploring
+						metaphors for digital technology and pedagogy
+						using activity theory
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Computers &amp; Education.
+					doi:10.1016/j.compedu.2007.09.001
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Managing Technology And Change</title>
+			<para></para>
+			<bibliomixed xreflabel='Berkum 2005' xml:id='Berkum'>
+				<bibliomset relation='book'>
+					Berkum, S. (2005)
+					<title role='book'>
+						The art of project management
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Sebastopol, CA.
+					<publishername>
+						O'Reilly and Associates
+					</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Lopp 2007' xml:id='Lopp 2007'>
+				<bibliomset relation='book'>
+					Lopp, M (2007)
+					<title role='book'>
+						Managing Humans: Biting and humorous takes of a
+						software engineering manager.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Berkeley, CA.
+					<publishername>Apress.</publishername>
+					Most (if not all) chapters can also be found online
+					at:
+					<link xlink:href="http://www.randsinrepose.com/">
+						http://www.randsinrepose.com/
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='PMI 2004' xml:id='PMI 2004'>
+				<bibliomset relation='book'>
+					Project Management Institute (2004)
+					<title role='book'>
+						A Guide To The Project Management Body Of
+						Knowledge (PMBOK Guide) Third Edition
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Newton Square, PA.
+					<publishername>
+						Project Management Institute
+					</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Webster' xml:id='Webster'>
+				<bibliomset relation='book'>
+					Webster, B. F.
+					<title role='book'>
+						The Art of 'Ware [version 2.0]
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 4/15/2008 from:
+					<link
+						xlink:href="http://and-still-i-persist.com/?page_id=236">
+						http://and-still-i-persist.com/?page_id=236
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+	</bibliography>
+	<glossary id="glossary-of-terms">
+		<title>Glossary</title>
+
+		<para>
+			The following list provides brief definitions of the terms
+			used throughout this document
+		</para>
+		<glossentry xml:id="addie">
+			<glossterm>ADDIE</glossterm>
+			<glossdef>
+				<para>
+					Instructional design model consisting of five steps:
+					Analysis, Design, Development, Impmentation and
+					Evaluation.
+				</para>
+				<para>
+					ADDIE is a Instructional design method, more
+					particularly a Instructional systems design model.
+					<emphasis>
+						Source:
+						<link
+							xlink:href="http://edutechwiki.unige.ch/en/ADDIE">
+							http://edutechwiki.unige.ch/en/ADDIE
+						</link>
+					</emphasis>
+				</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="xml">
+			<glossterm>eXtensible Markup Language</glossterm>
+			<acronym>XML</acronym>
+			<glossdef>
+				<para>
+					A markup language developed by the World Wide Web
+					Consortium as a complement or replacement for HTML.
+					XML is widely used in the bussines world as an
+					information exchange format. In the education work
+					it has primarily been used for description of
+					information in SCORM and IMS specifications.
+				</para>
+				<glossseealso otherterm="xml">XML</glossseealso>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="ims">
+			<glossterm>IMS</glossterm>
+			<glossdef>
+				<para>
+					In 1997, IMS came into existence as a project within
+					the National Learning Infrastructure Initiative of
+					EDUCAUSE. While IMS got its start with a focus on
+					higher education, the specifications published to
+					date as well as ongoing projects address
+					requirements in a wide range of learning contexts,
+					including of course K-12 schools and corporate and
+					government training.
+				</para>
+				<para>
+					The scope for IMS specifications, broadly defined as
+					"distributed learning," includes both online and
+					off-line settings, taking place synchronously
+					(real-time) or asynchronously. This means that the
+					learning contexts benefitting from IMS
+					specifications include Internet-specific
+					environments (such as web-based course management
+					systems) as well as learning situations that involve
+					off-line electronic resources (such as a learner
+					accessing learning resources on a CD-ROM). The
+					learners may be in a traditional educational
+					environment (school classroom, university), in a
+					corporate or government training setting, or at
+					home. For example, the IMS Learning Resources
+					Meta-data Specification (
+					<link
+						xlink:href="http://www.imsglobal.org/metadata">
+						http://www.imsglobal.org/metadata
+					</link>
+					), benefits the learner looking for information with
+					a meta-data aware search tool both when the search
+					is of web-based resources and when she or he is
+					searching through a CD-ROM or DVD-ROM encyclopedia
+					in their computer at home. Content developers who
+					have implemented the IMS Learning Resources
+					Meta-data Specification will have made it much
+					easier for the people doing the search to find the
+					resources they want in a much more efficient way,
+					since meta-data allows users to be much more
+					specific in the search terms they can specify.
+				</para>
+				<para>
+					<emphasis>Source: IMS/GLC Website</emphasis>
+				</para>
+			</glossdef>
+			<glosssee otherterm="ims-consortium" />
+		</glossentry>
+		<glossentry xml:id="ims-consortium">
+			<glossterm>IMS Global Learning Consortium</glossterm>
+			<glossdef>
+				<para>
+					IMS GLC is a global, nonprofit, member association
+					that provides leadership in shaping and growing the
+					learning and educational technology industries
+					through collaborative support of standards,
+					innovation, best practice and recognition of
+					superior learning impact.
+				</para>
+				<para>
+					IMS GLC represents more than 100 Contributing
+					Members, Subscriber organizations and Common
+					Cartridge Alliance participants. These participant
+					organizations come from every sector of the global
+					learning community. They include hardware and
+					software vendors, educational institutions,
+					publishers, government agencies, systems
+					integrators, multimedia content providers, and other
+					consortia. IMS provides a neutral forum in which
+					members work together to advocate the use of
+					technology to support and transform education and
+					learning.
+				</para>
+				<para>
+					<emphasis>Source: IMS/GLC Website</emphasis>
+				</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="JIT Training">
+			<glossterm>Just In Time Training</glossterm>
+			<acronym>JIT</acronym>
+			<glossdef>
+				<para>
+					Training that is delivered as needed to the
+					participant rather than scheduled in advance. Just
+					In Time Training is primarily used in Performance
+					Improvement to correct a problem that needs specific
+					instruction for its resoilution
+				</para>
+				<para>
+					Producing or conveying only the items that are
+					needed by the next process when they are needed and
+					in the quantity needed. Can even be used between
+					facilities or companies.
+				</para>
+				<para>
+					<emphasis>Source: Lean Advisors</emphasis>
+				</para>
+			</glossdef>
+		</glossentry>
+
+		<glossentry xml:id="lms">
+			<glossterm>Learning Management System</glossterm>
+			<acronym>LMS</acronym>
+			<glossdef>
+				<para>Some reasonable definition here.</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="moodle">
+			<glossterm>Moodle</glossterm>
+			<glossdef>
+				<para>
+					Some interesting definition of MOODLE goes here
+				</para>
+				<glossseealso otherterm="lms">LMS</glossseealso>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="OS">
+			<glossterm>Open Source</glossterm>
+			<glossdef>
+				<para>Some reasonable definition here.</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="scorm">
+			<glossterm>Shareable Conntent Reference Model</glossterm>
+			<acronym>SCORM</acronym>
+			<glossdef>
+				<para>Some reasonable definition here.</para>
+			</glossdef>
+		</glossentry>
+		<glossentry>
+			<glossterm>XML</glossterm>
+			<glosssee otherterm="xml" />
+		</glossentry>
+		<glossentry>
+			<glossterm>Wimba</glossterm>
+			<glosssee otherterm="xml" />
+		</glossentry>
+	</glossary>
+</article>

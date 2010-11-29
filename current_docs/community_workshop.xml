@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns="http://docbook.org/ns/docbook" 
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="5.0" 
+   class="journalarticle" >
+   <info>
+      <title>Community Building on your Online Course</title>
+      <author>
+         <personname>
+            <firstname>Carlos</firstname>
+            <surname>Araya</surname>
+         </personname>
+      </author>
+      <authorinitials>cal</authorinitials>
+      <revhistory>
+         <revision>
+            <revnumber>0.1</revnumber>
+            <date>2006-07-18</date>
+            <revremark>First draft for review.</revremark>
+         </revision>
+      </revhistory>
+   </info>
+   <sect1 id="intro">
+      <title>Introduction</title>
+
+      <para>Welcome to <citetitle>Community Building on your Online Course</citetitle>.  The workshop will explore  </para>
+      <sect2 id="audience">
+         <title>Audience</title>
+         <para></para>
+         <para/>
+      </sect2>
+      <sect2 id="WhatVersion">
+         <title>What Version of WebCT?</title>
+         <para></para>
+      </sect2>
+      <sect2 id="objectives">
+         <title>Objectives</title>
+         <para>After the completion of this workshop participants will be able to:</para>
+         <itemizedlist>
+            <listitem>
+               <para></para>
+            </listitem>
+            <listitem>
+               <para></para>
+            </listitem>
+            <listitem>
+               <para></para>
+            </listitem>
+            <listitem>
+               <para></para>
+            </listitem>
+            <listitem>
+               <para></para>
+            </listitem>
+<!-- 
+      <listitem><para></para></listitem>
+      <listitem><para></para></listitem>
+-->
+         </itemizedlist>
+      </sect2>
+   </sect1>
+
+   <sect1 id="overview">
+      <title></title>
+      <para></para>
+
+      <blockquote>
+         <para></para>
+      </blockquote>
+
+      <blockquote>
+         <para></para>
+      </blockquote>
+
+      <!-- Sample Blockquote
+   
+   <blockquote>
+   <para></para>
+   </blockquote>
+   
+-->
+
+      <para>
+         <procedure>
+            <title>An Example Procedure</title>
+            <step>
+               <para>A Step</para>
+            </step>
+            <step>
+               <para>Another Step</para>
+               <substeps>
+                  <step>
+                     <para>Substeps can be nested indefinitely deep.</para>
+                  </step>
+               </substeps>
+            </step>
+            <step>
+               <para>A Final Step</para>
+            </step>
+         </procedure>
+      </para>
+   </sect1>
+
+   <sect1 id="vistaoverview">
+      <title>Learning Objects in Vista</title>
+      <para/>
+   </sect1>
+
+
+   <bibliography id="bibliography">
+      <title>Bibliography</title>
+
+ <!-- <bibliomixed>
+         <anchor xml:id="CELT2006"/>
+         <bibliomset relation="website">CELT (2006). <title role="website">CELT Reusable Learning
+               Objects FAQs</title>. </bibliomset>
+         <bibliomset relation="website"> [online] <link
+               xlink:href="http://www.rlo-cetl.ac.uk/faqs.htm"
+            >http://www.rlo-cetl.ac.uk/faqs.htm</link>. Last Accessed 6/28/2006.</bibliomset>. 
+      </bibliomixed>
+ -->     
+      
+<!-- 
+      <bibliomixed>
+         <anchor xml:id="Walsh1993"/>
+         <bibliomset relation="article">Walsh, Norman (1993). <title role="article">Introduction to
+               Cascading Style Sheets</title>. </bibliomset>
+         <bibliomset relation="journal">
+            <title>The World Wide Web Journal</title>
+            <volumenum>2</volumenum><issuenum>1</issuenum>. <publishername>O'Reilly &amp;
+               Associates, Inc.</publishername> and The World Wide Web Consortium. Winter,  1996</bibliomset>. 
+      </bibliomixed>
+-->
+<!--
+   <bibliomixed>
+         <anchor xml:id="Wiley2000"/>
+         <bibliomset relation="author">Wiley, D. A (2000). <title role="chapter">Connecting learning objects to instructional design theory: A definition, a metaphor, and a taxonomy. </title></bibliomset>
+         <bibliomset relation="website">in <editor>D. A Wiley (Ed)</editor>. <title><citetitle>The Instructional Use of Learning Objects</citetitle></title> [online] <link xlink:href="http://reusability.org/read/chapters/wiley.doc">http://reusability.org/read/chapters/wiley.doc</link>. Last Accessed 6/28/2006.</bibliomset>. 
+      </bibliomixed>
+   </bibliography>
+ -->      
+</article>

@@ -1,0 +1,119 @@
+<article xmlns='http://docbook.org/ns/docbook'
+	xmlns:xlink='http://www.w3.org/1999/xlink'
+	xmlns:xi='http://www.w3.org/2001/XInclude' type="report">
+	<title>Tool Accessibility</title>
+	<subtitle>
+		Defining a standard way to test tools for accessibility
+	</subtitle>
+	<para></para>
+	<sect1 id="tool-accessibility-intro">
+		<title>Introduction</title>
+		<para>
+			While there has been an emphasis in web accessibility for
+			websites and the retrofitting of existing web content there
+			hasn't been a consistent effort to test content creation
+			tools for their creation of accessible content and how
+			accessible the tools themselves are.
+		</para>
+		<para>
+			This project seeks to address these issues by providing both
+			a methodology and a selection of tools to test. It also
+			seeks to create awareness regarding testing methodologies
+			and how they can be applied to evaluating technology.
+		</para>
+	</sect1>
+	<sect1 id="problem-statement">
+		<title>Problem Statement</title>
+		<para>
+			Each California State University campus uses it own set of
+			tools to develop content for their online delivery. In the
+			past it was ok to use an HTML editor such as Adobe
+			DreamWeaver to create content. Now faculty want immediate
+			results and don't care as much about the underlying
+			technology that allows to create content but want the
+			content to be created with minimal effort and maximum
+			results.
+		</para>
+		<para>
+			Students expectations have also evolved over the years.
+			Where it was OK to just convert a Word Document to HTML now
+			students want better quality on their instructional
+			materials.
+		</para>
+		<para>
+			There are several tools available to help faculty in
+			developing content both for their LMS content as well as for
+			their web-based content. A sample of the tools is listed
+			below:
+		</para>
+		<informaltable xml:id="list-of-tools-aaccessibility" rules="all"
+			frame="box">
+			<tbody>
+				<tr>
+					<td>
+						<emphasis role="strong">Name of Tool</emphasis>
+					</td>
+					<td>
+						<emphasis role="strong">Website</emphasis>
+					</td>
+				</tr>
+				<tr>
+					<td>Softchalk</td>
+					<td>http://www.softchalk.com</td>
+				</tr>
+				<tr>
+					<td>Lectora</td>
+					<td>http://www.trivantis.com</td>
+				</tr>
+				<tr>
+					<td>ReadyGo</td>
+					<td>http://www.readygo.com</td>
+				</tr>
+				<tr>
+					<td>Articulate</td>
+					<td>http://www.articulate.com</td>
+				</tr>
+				<tr>
+					<td>ToolBox</td>
+					<td>http://www.toolbox.com</td>
+				</tr>
+				<tr>
+					<td>Smart Builder</td>
+					<td>http://www.suddenlysmart.com</td>
+				</tr>
+				<tr>
+					<td>Adobe Captivate</td>
+					<td>http://www.adobe.com/products/captivate/</td>
+				</tr>
+				<tr>
+					<td>Camtasia</td>
+					<td>http://www.techsmith.com/camtasia.asp</td>
+				</tr>
+			</tbody>
+		</informaltable>
+		<para>
+			I am not aware at this time whether any studies beyond the
+			vendors' claims of compliance that confirm or refute the
+			vendors claims. This project seeks to provide an initial
+			knowledge base regarding content creation tools
+			accessibility and as a springboard for Universities to
+			select their tools knowing that they produce accessible
+			content
+		</para>
+	</sect1>
+	<sect1 id="accessibility-methodology">
+		<title>Methodology</title>
+		<para>
+			To avoid upsetting the balance in individual campuses the
+			team will conduct a survey to determine which, if any,
+			authoring tools are being used by each. This will provide an
+			initial list of tools to evaluate.
+		</para>
+	</sect1>
+	<sect1 id="results">
+		<title>Results</title>
+	</sect1>
+	<sect1 id="conclusions">
+		<title>Conclusions</title>
+	</sect1>
+</article>

@@ -1,0 +1,7086 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<records>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>31</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					31
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							American Educational Research Association,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Ethical Standards of AERA [Revised on 2000]
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2000
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.aera.net/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=222
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://AERAEthicalStandards-2958209281/AERAEthicalStandards.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>32</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					32
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Association of Internet Researchers,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Ethical decision-making and Internet research
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							01/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://AOIRethics-0894722305/AOIRethics.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>35</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					35
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Richard A. Bartle
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Designing Virtual Worlds
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2003
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Indianapolis, Indiana
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					New Riders
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>59</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					59
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Joshua Berman
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy S. Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Turing Game: Exploring Identity in an Online
+						Environment
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Convergence
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Convergence
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					83 - 102
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					7
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					3
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2001
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://convergence-tg-01-2622826503/convergence-tg-01.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>106</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					106
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Barbara Bichelmeyer
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Elizabeth Boling
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Andrew Gibbons
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Barbara Grabowski
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Janette Hill
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Russ Osguthorpe
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Richard Schwier
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Walter Wager
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Assessing the field of instructional technology:
+						What is the state of the field?
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Annual Convention of the Association for
+						Educational Communications and Technology
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							November 14
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Dallas, TX
+				</style>
+			</pub-location>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://stateofid02-2027520263/stateofid02.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>51</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					51
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Judith V. Boettcher
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Designing for the Virtual Interactive Classroom
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Campus Technology
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Campus Technology
+					</style>
+				</full-title>
+			</periodical>
+			<number>
+				<style face="normal" font="default" size="100%">
+					5/1/2005
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>37</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					37
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Identity Workshop: Emergent Social And
+						Psychological Phenomena In Text-Based Virtual
+						Reality
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1992
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							ftp://ftp.cc.gatech.edu/pub/people/asb/papers/identityworkshop.rtf
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://identity-workshop-2372122881/identity-workshop.rtf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>90</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					90
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Proceedings">10</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Bruckman, Amy
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Gender Swapping on the Internet
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						INET &apos;93
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1993
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Reston, VA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					The Internet Society
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://gender-swapping-3894749445/gender-swapping.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>95</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					95
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Programming for Fun: MUDs as a Context for
+						Collaborative Learning
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1994
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/27/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.cc.gatech.edu/%7Easb/papers/necc94.rtf
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://necc94-0122547461/necc94.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>4</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					4
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						MOOSE Crossing: Construction, Community, and
+						Learning in a Networked Virtual World for Kids
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1997
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT
+				</style>
+			</publisher>
+			<work-type>
+				<style face="normal" font="default" size="100%">
+					Doctoral Dissertation
+				</style>
+			</work-type>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://moose-crossing-entire-2186867200/moose-crossing-entire.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>58</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					58
+				</key>
+			</foreign-keys>
+			<ref-type name="Magazine Article">19</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Day After Net Day: Approaches to Educational
+						Use of the Internet
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Convergence
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Convergence
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					24 - 46
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					5
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					1
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1999
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://convergence-day-after-3042169863/convergence-day-after.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>87</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					87
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Bruckman, Amy
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Studying the Amateur Artist: A Perspective on
+						Disguising Data Collected in Human Subjects
+						Research on the Interne
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Ethics and Information Technology
+					</style>
+				</secondary-title>
+			</titles>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					217 - 231
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					4
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					3
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.nyu.edu/projects/nissenbaum/ethics_bru_full.html
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+			<access-date>
+				<style face="normal" font="default" size="100%">
+					1/27/2008
+				</style>
+			</access-date>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>22</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					22
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Sasha Barab
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Rob Kling
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							James Gray
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Co-Evolution of Technological Design and
+						Pedagogy in an Online Learning Community
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Designing Virtual Communities in the Service of
+						Learning
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2003
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Cambridge University Press
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://bruckman-co-evolution-0886683648/bruckman-co-evolution.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>23</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					23
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						A New Perspective on “Community” and its
+						Implications for Computer-Mediated Communication
+						Systems
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						CHI 2006
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2006
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Montreal, Quebec
+				</style>
+			</pub-location>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://bruckman-community-chi06-1021005056/bruckman-community-chi06.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>24</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					24
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Teaching Students to Study Online Communities
+						Ethically
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Journal of Information Ethics
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Journal of Information Ethics
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					82 - 89
+				</style>
+			</pages>
+			<number>
+				<style face="normal" font="default" size="100%">
+					Fall 2006
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2006
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://bruckman-information-ethics06-3336520960/bruckman-information-ethics06.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>3</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					3
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Carlos Jensen
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Austina DeBonte
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Gender and Programming Achievement in a CSCL
+						Environment
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						CSCL 2002
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Boulder, CO
+				</style>
+			</pub-location>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://63-2069256960/63.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>38</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					38
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mitchell Resnick
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The MediaMOO Project: Constructionism and
+						Professional Community.
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1995
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.cc.gatech.edu/~asb/papers/convergence.html
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://The_MediaMOO_Pr-0443111937/The_MediaMOO_Project_Constructionism_and_Professional_Community.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>56</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					56
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Michael J. Bugeja
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Second Thoughts About Second Life
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						The Chronicle of Higher Education
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						The Chronicle of Higher Education
+					</style>
+				</full-title>
+			</periodical>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2007
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://chronicle.com/jobs/news/2007/09/2007091401c/careers.html
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>52</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					52
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Paul J. Camp
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							James M. Hudson
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Russell B. Keldorph
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Scott Lewis
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Elizabeth D. Mynatt
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Supporting Communication and Collaboration
+						Practices in Safety-Critical Situations
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2000
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://chi00-0773210624/chi00.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>39</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					39
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Book">44</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Allison Cavanagh
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Behaviour in Public? : Ethics in Online
+						Ethnography
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Cybbersociology Magazine
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Cybbersociology Magazine
+					</style>
+				</full-title>
+			</periodical>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1999
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.socio.demon.co.uk/magazine/6/cavanagh.html
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>94</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					94
+				</key>
+			</foreign-keys>
+			<ref-type name="Web Page">12</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Tom Coates
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Native to a Web of Data
+					</style>
+				</title>
+			</titles>
+			<number>
+				<style face="normal" font="default" size="100%">
+					1/27/2008
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2006
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.plasticbag.org/files/native/
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://native_to_a_web_of_data-3778744581/native_to_a_web_of_data.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>40</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					40
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Wesley Cooper
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Information Technology and Internet Culture
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						The Journal of Virtual Environments
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						The Journal of Virtual Environments
+					</style>
+				</full-title>
+			</periodical>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.brandeis.edu/pubs/jove/HTML/V6/iculture.html
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>41</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					41
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Pavel Curtis
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Mudding: Social Phenomena in Text-Based Virtual
+						Realities.
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1992
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.ibiblio.org/pub/academic/communications/papers/muds/muds/Mudding-Social-Phenomena.txt
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>42</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					42
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Pavel Curtis
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							David A. Nichols
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						MUDs Grow Up: Social Virtual Reality in the Real
+						World
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1993
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.ibiblio.org/pub/academic/communications/papers/muds/muds/MUDs-Grow-Up.txt
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>16</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					16
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Chris Dede
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Diane Ketelhut
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Brian Nelson
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Design-Based Research on Gender, Class, Race,
+						and Ethnicity in a Multi-User Virtual
+						Environment
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						AERA 2004
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					San Diego, CA
+				</style>
+			</pub-location>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://AERADede04-2814599936/AERADede04.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>25</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					25
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Peter J. Denning
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Mastering the Mess
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Communications of The ACM
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Communications of The ACM
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					21 - 25
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					50
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					4
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2007
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://cacmApr07-3611475713/cacmApr07.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>30</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					30
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Julian Dibbell
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						My Tiny Life: Crime and Passion in a Virtual
+						World
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1999
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					New York
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Owl Books
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>69</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					69
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Donath, Judith
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Peter Kollock
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Michael Smith
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Identity and deception in the virtual community
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Communities in Cyberspace
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1998
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					London
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Routledge
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://IdentityDeception-2843115783/IdentityDeception.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>43</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					43
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Judith Donath
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Peter Kollock
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mark Smith
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Identity and deception in the virtual community
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Communities in Cyberspace
+					</style>
+				</secondary-title>
+			</titles>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					29 - 59
+				</style>
+			</pages>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1999
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					London
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Routledge
+				</style>
+			</publisher>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://smg.media.mit.edu/people/Judith/Identity/IdentityDeception.html
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://IdentityDeception-2809487361/IdentityDeception.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>21</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					21
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Donath, Judith
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Ken Goldberg
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Being Real
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						The Robot In The Garden: Telerobotics and
+						Telepistemology in the Age of the Internet
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2000
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT Press
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://beingreal-3520076544/beingreal.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>77</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					77
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Judith Donath
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							M. Beynon
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							C.L. Nehaniv
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							K. Dautenhahn
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Mediated Faces
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Cognitive Technology: Instruments of
+						Mind&#xD;Proceedings of the 4th International
+						Conference
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2001
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					New York
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Springer
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://MediatedFaces.CT2001-0143982855/MediatedFaces.CT2001.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>20</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					20
+				</key>
+			</foreign-keys>
+			<ref-type name="Magazine Article">19</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Judith Donath
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Virtually Trustworthy
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Science
+					</style>
+				</secondary-title>
+			</titles>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					317
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					53 - 54
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2007
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							6 July 2007:
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://53-1070469888/53.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>103</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					103
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Donath, Judith
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							danah boyd
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Public Displays of Affection
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						BT Technology Journal
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						BT Technology Journal
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					71 - 82
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					22
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					4
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://PublicDisplays-3082064645/PublicDisplays.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>71</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					71
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Judith S. Donath
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Inhabiting the virtual city: The design of
+						social environments for electronic communities
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1997
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT
+				</style>
+			</publisher>
+			<work-type>
+				<style face="normal" font="default" size="100%">
+					PhD Dissertation
+				</style>
+			</work-type>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://Inhabiting_the_virtual_city-4001026055/Inhabiting_the_virtual_city.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>78</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					78
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							MIchael Esisenberg
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Mindstuff: Educational Technology Beyond the
+						Computer
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Convergence
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Convergence
+					</style>
+				</full-title>
+			</periodical>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2003
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/14/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://Mindstuff-2189203464/Mindstuff.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>14</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					14
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Aaron Falbel
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Friskolen 70: An Ethnographically Informed
+						Inquiry Into the Social Context of Learning
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1989
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT
+				</style>
+			</publisher>
+			<work-type>
+				<style face="normal" font="default" size="100%">
+					Doctoral Dissertation
+				</style>
+			</work-type>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://22092250-3820574976/22092250.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>45</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					45
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Tari Lin Fanderclai
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Lynn Cherny
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Elizabeth Reba Weise
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Like magic, only real
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Wired Women: Gender and New Realities in
+						Cyberspace
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1996
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Seatle
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Seal Press
+				</style>
+			</publisher>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://web.nwe.ufl.edu/%7Etari/magic.html
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>80</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					80
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							F. Randall Farmer
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Habitat Anecdotes and other boastings
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1988
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://anecdotes-2290823176/anecdotes.rtf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>83</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					83
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							F. Randall Farmer
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Cyberspace: Getting There From Here
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1989
+					</style>
+				</year>
+			</dates>
+			<work-type>
+				<style face="normal" font="default" size="100%">
+					Article
+				</style>
+			</work-type>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://getthere-0630244360/getthere.rtf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>81</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					81
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							F. Randall Farmer
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Carl Eugene Loeffler
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Social Dimensions of Habitat&apos;s Citizenry
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Virtual Reality: A Survey of Technology and
+						Culture
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1993
+					</style>
+				</year>
+			</dates>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Van Nostrand Rheinhold
+				</style>
+			</publisher>
+			<work-type>
+				<style face="normal" font="default" size="100%">
+					Online Article
+				</style>
+			</work-type>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://citizenry-2660040968/citizenry.rtf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>62</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					62
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Andrew Rocco Tresolini Fiore
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						ROMANTIC REGRESSIONS: An Analysis of Behavior in
+						Online Dating Systems
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT
+				</style>
+			</publisher>
+			<work-type>
+				<style face="normal" font="default" size="100%">
+					Master&apos;s Thesis
+				</style>
+			</work-type>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://fiore_thesis_final-0241528583/fiore_thesis_final.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>55</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					55
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Andrew T. Fiore
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Jeana Frost
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Judith S. Donath
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						“Scientists, designers seek same for good
+						conversation”: A Workshop on Online Dating
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://chi2004_personals_workshop-2132731648/chi2004_personals_workshop.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>98</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					98
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Gerhard Fischer
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							F. deCindio
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							D. Schuler
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Social Creativity: Turning Barriers into
+						Opportunities for Collaborative Design
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Proceedings of the Participatory Design
+						Conference (PDC’04)
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Palo Alto, CA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					CPSR
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://pd04-final-submit-0544140805/pd04-final-submit.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>27</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					27
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Clifford Geertz
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Interpretation of Cultures
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1973
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					New York
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Basic Books
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>63</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					63
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Proceedings">10</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Scott A. Golder
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Judith Donath
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Social Roles In Electronic Communities
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Internet Research 5.0
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Brighton, England
+				</style>
+			</pub-location>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://golder2004-3680968455/golder2004.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>46</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					46
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Dene Grigar
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							John F. Barber
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Cynthia Haynes
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Jan Rune Holmevik
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Defending your life in MOOspace
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						High Wired: On the Design, Use, and Theory of
+						Educational MOOs
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2001
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Ann Arbor
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					University of Michigan Press
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>57</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					57
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Proceedings">10</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mark Guzdial
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Pete Ludovice
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Matthew Realff
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Tom Morley
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Karen Carroll
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						When Collaboration Doesn&apos;t Work
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						International Conference of the Learning
+						Sciences
+					</style>
+				</secondary-title>
+				<tertiary-title>
+					<style face="normal" font="default" size="100%">
+						Proceedings of the International Conference of
+						the Learning Sciences.
+					</style>
+				</tertiary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Lawrence Erlbaum Associates
+				</style>
+			</publisher>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://home.cc.gatech.edu/csl/uploads/6/CMCI-ICLS-final.pdf
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://CMCI-ICLS-final-3474898176/CMCI-ICLS-final.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>18</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					18
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							High Tech Center Training Unit of the
+							California Community Colleges,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Alternate Media Workflow Strategies for PDF
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2007
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cupertino, CA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					High Tech Center Training Unit of the California
+					Community Colleges
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://Alt Media Workflow Strategies
+							for PDF-2663880704/Alt Media Workflow
+							Strategies for PDF.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>64</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					64
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Michelle Iva Hlubinka
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Behind The Screens: Digital Storytelling as a
+						Tool for Reflective Practice
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2003
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT
+				</style>
+			</publisher>
+			<work-type>
+				<style face="normal" font="default" size="100%">
+					Master&apos;s Thesis
+				</style>
+			</work-type>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://hlubinka-ms-3311997959/hlubinka-ms.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>53</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					53
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							James M. Hudson
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Effects of CMC on Student Participation Patterns
+						in a Foreign Language Learning Environment
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2001
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://chi01-2249715200/chi01.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>67</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					67
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							James M. Hudson
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						“Go Away”: Participant Objections to Being
+						Studied and the Ethics of Chatroom Research
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						The Information Society
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						The Information Society
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					127 – 139
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					20
+				</style>
+			</volume>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>65</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					65
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Proceedings">10</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							James M. Hudson
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Using Empirical Data to Reason about Internet
+						Research Ethics
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						European Conference on Computer-Supported
+						Cooperative Work (ECSCW)
+					</style>
+				</secondary-title>
+			</titles>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					287 - 306
+				</style>
+			</pages>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://hudson-bruckman-ecscw05-0124587015/hudson-bruckman-ecscw05.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>26</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					26
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							James M. Hudson
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy S. Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						IRC Francais: The Creation of an Internet-Based
+						SLA Community
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Computer Assisted Language Learning
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Computer Assisted Language Learning
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					109 - 134
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					15
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					2
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://call02-0927265281/call02.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>66</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					66
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							James M. Hudson
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Amy S. Bruckman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Bystander Effect: A Lens for Understanding
+						Patterns of Participation
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						The Journal of Learning Sciences
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						The Journal of Learning Sciences
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					165 – 195
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					13
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					2
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://hudson-bruckman-jls04-3882784519/hudson-bruckman-jls04.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>54</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					54
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							James M. Hudson
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Jim Christensen
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Wendy A. Kellogg
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Thomas Erickson
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						“I’d Be Overwhelmed, But It’s Just One More
+						Thing to Do:” Availability and Interruption in
+						Research Management
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://chi02-2249875200/chi02.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>74</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					74
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Henry Jenkins
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Katie Clinton
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Ravi Purushotma
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Alice J. Robison
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Margaret Weigel
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Confronting the Challenges of Participatory
+						Culture: Media Education for the 21st Century
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2006
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/13/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://digitallearning.macfound.org/site/c.enJLKQNlFiG/b.2108773/apps/nl/content2.asp?content_id={CD911571-0240-4714-A93B-1D0C07C7B6C1}&amp;notoc=1
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://JENKINS_WHITE_PAPER-3649272071/JENKINS_WHITE_PAPER.PDF
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>70</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					70
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Steven G. Jones
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							K. Ann Kenninger
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Wesley Shumar
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Building, Buying, or Being There: Imagining
+						Online Community
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Building Learning Communities: Learning and
+						Change in Cyberspace
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Cambridge University Press
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://Imagining Online
+							Community-1215895303/Imagining Online
+							Community.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>76</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					76
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Kyratso G. Karahalios
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Social Catalysts: enhancing communication in
+						mediated spaces
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT
+				</style>
+			</publisher>
+			<work-type>
+				<style face="normal" font="default" size="100%">
+					PhD Dissertation
+				</style>
+			</work-type>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://kk-dissertation-2223953671/kk-dissertation.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>17</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					17
+				</key>
+			</foreign-keys>
+			<ref-type name="Magazine Article">19</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Alan C. Kay
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Computers, Networks and Education
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Scientific American
+					</style>
+				</secondary-title>
+			</titles>
+			<number>
+				<style face="normal" font="default" size="100%">
+					September, 1991
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1991
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://alan-kay-0382027776/alan-kay.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>15</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					15
+				</key>
+			</foreign-keys>
+			<ref-type name="Magazine Article">19</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Marie Lasseter
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Michael Rogers
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Creating Flexible E-Learning Through the Use of
+						Learning Objects
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						EDUCAUSE Quarterly
+					</style>
+				</secondary-title>
+			</titles>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					27
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					4
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://USG_Learning_Objects-1287687168/USG_Learning_Objects.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>7</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					7
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Library Technology Reports,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Defining the Challenge
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</full-title>
+			</periodical>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					May - June, 2005
+				</style>
+			</volume>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://17297352-1575205120/17297352.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>8</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					8
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Library Technology Reports,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Integration of Libraries and Course-Management
+						Systems
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</full-title>
+			</periodical>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					May - June, 2005
+				</style>
+			</volume>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://17297354-0162697216/17297354.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>10</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					10
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Library Technology Reports,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Introduction
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</full-title>
+			</periodical>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					November - December, 2005
+				</style>
+			</volume>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://19318389-3971194880/19318389.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>11</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					11
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Library Technology Reports,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						General Resources
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</full-title>
+			</periodical>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					November - December, 2005
+				</style>
+			</volume>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://19318390-0095751168/19318390.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>12</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					12
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Library Technology Reports,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Suggested Sources and Resources
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Library Technology Reports
+					</style>
+				</full-title>
+			</periodical>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					January - February, 2006
+				</style>
+			</volume>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2006
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://19973695-0766944768/19973695.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>34</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					34
+				</key>
+			</foreign-keys>
+			<ref-type name="Edited Book">28</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Peter Ludlow
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Edward Barrett
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						High Noon on the Electronic Frontier
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Digital Communication
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1996
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT Press
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>47</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					47
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Annette N. Markham
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Life Online: Researching Real Experience in
+						Virtual Space
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Walnut Creek, CA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Altamira Press
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>82</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					82
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Chip Morningstar
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						How To Deconstruct Almost Anything: My
+						Postmodern Adventure
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1993
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://deconstr-2408562696/deconstr.rtf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>79</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					79
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Chip Morningstar
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Randall Farmer
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Michael Benedikt
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Lessons of Lucasfilm’s Habitat
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Cyberspace: First Steps
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1990
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT Press
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://lessons-1669913096/lessons.rtf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>105</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					105
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Helen Nissenbaum
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							N. Elkin-Koren
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							N. W. Netanel
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						New Research Norms For A New Medium
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						The commodification of Information
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Springer
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://research_norms-3988407301/research_norms.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>19</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					19
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Matthew Pittinsky
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Networked Learning Environment: Stepping
+						Beyond Courses to a More Expansive Online
+						Learning Experience
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Washington, DC
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Blackboard
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://Bb_Whitepaper_NLE-0030039808/Bb_Whitepaper_NLE.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>96</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					96
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mimi M. Recker
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							David A. Wiley
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						A non-authoritative educational metadata
+						ontology for filtering and recommending learning
+						objects
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Journal of Interactive Learning Environments
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Journal of Interactive Learning Environments
+					</style>
+				</full-title>
+			</periodical>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2000
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/28/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://non-authoritative-1029481477/non-authoritative.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>49</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					49
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Book">44</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Elizabeth M. Reid
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Electropolis: Communication and Community On
+						Internet Relay Chat
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1991
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.aluluei.com/electropolis.htm
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>48</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					48
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Book">44</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Elizabeth M. Reid
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Cultural Formations in Text-Based Virtual
+						Realities
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1994
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.aluluei.com/cult-form.htm
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>36</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					36
+				</key>
+			</foreign-keys>
+			<ref-type name="Edited Book">28</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							K. Ann Renninger
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Wesley Shumar
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Building Virtual Communities: Learning and
+						Change in Cyberspace
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Cambridge University Press
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>5</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					5
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mitchell Resnick
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Computers And Mud
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Digital Dialogues: Technology and the Hand
+					</style>
+				</secondary-title>
+				<tertiary-title>
+					<style face="normal" font="default" size="100%">
+						Haystack Monograph Series
+					</style>
+				</tertiary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://mud-2036996608/mud.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>101</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					101
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Resnick, Mitchel
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Dorothy G. Singer
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Roberta Michnick Golinkoff
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Kathy Hirsh-Pasek
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Computer as Paint Brush:Technology, Play, and
+						the Creative Society
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Play = Learning: How play motivates and enhances
+						children&apos;s cognitive and social-emotional
+						growth
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2006
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Oxford
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Oxford University Press
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://playlearn-handout-0193267461/playlearn-handout.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>75</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					75
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Proceedings">10</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Resnick, Mitchel
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						All I Really Need to Know (About Creative
+						Thinking) I Learned (By Studying How Children
+						Learn) in Kindergarten
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						CHI 2007
+					</style>
+				</secondary-title>
+				<tertiary-title>
+					<style face="normal" font="default" size="100%">
+						Proceedings of the 6th ACM SIGCHI conference on
+						Creativity &amp; cognition
+					</style>
+				</tertiary-title>
+			</titles>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					1 - 6
+				</style>
+			</pages>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2007
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Washington DC
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Association of Computing Machinery
+				</style>
+			</publisher>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://web.media.mit.edu/~mres/papers/kindergarten-learning-approach.pdf
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://kindergarten-learning-approach-3817578503/kindergarten-learning-approach.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>99</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					99
+				</key>
+			</foreign-keys>
+			<ref-type name="Magazine Article">19</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Resnick, Mitchel
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Bruckman, Amy
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Martin, Fred
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Pianos not stereos: Creating Computational
+						Construction Kits
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Interactions
+					</style>
+				</secondary-title>
+			</titles>
+			<number>
+				<style face="normal" font="default" size="100%">
+					September - October
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1996
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://pianos-4285717765/pianos.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>68</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					68
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Proceedings">10</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mitchel Resnick
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Brian Silverman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Some Reflections on Designing Construction Kits
+						for Kids
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Interaction Design and Children conference
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Boulder, CO
+				</style>
+			</pub-location>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://IDC-2005-0242508551/IDC-2005.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>92</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					92
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Reusable Learning,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Reusable Design Guidelines
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/27/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.reusability.org/
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://guidelines-v3.1.1-0741000197/guidelines-v3.1.1.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>50</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					50
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Book">44</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Howard Rheingold
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Virtual Community: Homesteading on the
+						Electronic Frontier
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1998
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/10/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.rheingold.com/vc/book/
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>102</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					102
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Jochen Rick
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Pianos not orchestras
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						CSCL 2002
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							January 7 - 11, 2002
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Boulder, CO
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					ACM
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://PNO-CSCL2002-short-1888912645/PNO-CSCL2002-short.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>60</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					60
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Jochen Rick
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mark Guzdial
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Karen Carroll
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Lissa Holloway-Attaway
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Brandy Walker
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Using collaborative websites to improve
+						education in a cost-effective manner
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2001
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://CoWeb-Mellon-chapter-v3-1230757127/CoWeb-Mellon-chapter-v3.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>93</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					93
+				</key>
+			</foreign-keys>
+			<ref-type name="Electronic Article">43</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Richard A. Schwier
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Katy Campbell
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Richard Kenny
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Instructional Designers’ Observations about
+						Identity, Communities of Practice, and Change
+						Agency
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2003
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							1/27/2008
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://homepage.mac.com/richard.schwier/schwier.ca/books.html
+						</style>
+					</url>
+				</related-urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://idcop04-3744702213/idcop04.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>86</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					86
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Richard A. Schwier
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mary E. Dykes
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Struggle for Community and Content in
+						Virtual Learning Communities
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Ed-Media 2004 Conference
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+				<pub-dates>
+					<date>
+						<style face="normal" font="default"
+							size="100%">
+							June 25, 2004
+						</style>
+					</date>
+				</pub-dates>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Lugano, Switzerland
+				</style>
+			</pub-location>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://contentvlc04-0940844293/contentvlc04.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>72</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					72
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Elad Segev
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Niv Ahituv
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Karine Barzilai-Nahon
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Mapping Diversities and Tracing Trends of
+						Cultural Homogeneity/Heterogeneity in Cyberspace
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Journal of Computer-Mediated Communication
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Journal of Computer-Mediated Communication
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					1269 - 1297
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					12
+				</style>
+			</volume>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2007
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://j.1083-6101.2007.00373.x-3162321415/j.1083-6101.2007.00373.x.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>100</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					100
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Susanne Seitinger
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Elisabeth Sylvan
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Oren Zuckerman
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Marko Popovic
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Orit Zuckerman
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						A New Playground Experience: Going Digital?
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						CHI 2006
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2006
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Montreal, Quebeck
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					ACM
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://playground_seitinger_sylvan_zuckerman-2339790341/playground_seitinger_sylvan_zuckerman.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>97</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					97
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Wesley Shumar
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							K Ann Renninger
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Wesley Shumar
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							K Ann Renninger
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						On Conceptualizing Community
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Building Learning Communities: Learning and
+						Change in Cyberspace
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2002
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambrige
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Cambridge University Press
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://On Conceptualizing
+							Community-3932631813/On Conceptualizing
+							Community.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>44</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					44
+				</key>
+			</foreign-keys>
+			<ref-type name="Book Section">5</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Anna Duval Smith
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Peter Kollock
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Mark Smith
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Problems of conflict management in virtual
+						communities
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Communities in Cyberspace
+					</style>
+				</secondary-title>
+			</titles>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					134 - 166
+				</style>
+			</pages>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1999
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					London
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Routledge
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>104</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					104
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Socially-Responsive Research Group,
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Creating a Socially-Responsive Play Space for
+						Learning: Something for Boys and Girls
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Annual Meeting of the American Educational
+						Research Association
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2004
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					San Diego, CA
+				</style>
+			</pub-location>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://QAgender29-2427905541/QAgender29.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>89</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					89
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Martin Tessmer
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Environment Analysis: A Neglected Stage of
+						Instructional Design
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Educational Technology Research and Development
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Educational Technology Research and Development
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					55 - 64
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					38
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					1
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1990
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://fulltext-environment-2619510277/fulltext-environment.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>6</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					6
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							The eLearning Guild,
+						</style>
+					</author>
+				</authors>
+				<secondary-authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Bill Brandon
+						</style>
+					</author>
+				</secondary-authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The eLearning Guild&apos;s Handbook on
+						e-Learning Strategy
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2007
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Santa Rosa, CA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					The eLearning Guild
+				</style>
+			</publisher>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://100107strategy_ebooknew-1759427328/100107strategy_ebooknew.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>88</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					88
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Steven D Tripp
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Barbara Bichelmeyer
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Rapid Prototyping: An alternative instructional
+						design strategy
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Educational Technology Research and Development
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Educational Technology Research and Development
+					</style>
+				</full-title>
+			</periodical>
+			<pages>
+				<style face="normal" font="default" size="100%">
+					31 - 44
+				</style>
+			</pages>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					38
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					1
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1990
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://fulltext-2250059781/fulltext.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>84</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					84
+				</key>
+			</foreign-keys>
+			<ref-type name="Unpublished Work">34</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Tomoko Tsuchiya
+						</style>
+					</author>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							F. Randall Farmer
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Oracle Layza&apos;s Tales from Fujitsu Habitat
+					</style>
+				</title>
+				<short-title>
+					<style face="normal" font="default" size="100%">
+						Article
+					</style>
+				</short-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1990
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://layza-1100403208/layza.rtf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>29</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					29
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Sherry Turkle
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Life on the Screen: Identity in the Age of the
+						Internet
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						1997
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					New York
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					Simon &amp; Schuster
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>28</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					28
+				</key>
+			</foreign-keys>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Sherry Turkle
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						The Second Self: Computers and the Human Spirit
+						, Twentieth Anniversary Edition
+					</style>
+				</title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<pub-location>
+				<style face="normal" font="default" size="100%">
+					Cambridge, MA
+				</style>
+			</pub-location>
+			<publisher>
+				<style face="normal" font="default" size="100%">
+					MIT Press
+				</style>
+			</publisher>
+			<urls></urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>73</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					73
+				</key>
+			</foreign-keys>
+			<ref-type name="Conference Paper">47</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Charles F. Urbanowicz
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						TEACHING AS THEATRE ONCE AGAIN: DARWIN IN THE
+						CLASSROOM (AND BEYOND).
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Hawai&apos;i International Conference on Arts
+						and Humanities
+					</style>
+				</secondary-title>
+			</titles>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2003
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<pdf-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							internal-pdf://Jan2003Hawai&apos;iDarwin-1602233607/Jan2003Hawai&apos;iDarwin.pdf
+						</style>
+					</url>
+				</pdf-urls>
+			</urls>
+		</record>
+		<record>
+			<database name="Research.enl"
+				path="C:\Documents and Settings\Carlos\My Documents\Books, Articles and Papers\Research.enl">
+				Research.enl
+			</database>
+			<source-app name="EndNote" version="10.0">
+				EndNote
+			</source-app>
+			<rec-number>61</rec-number>
+			<foreign-keys>
+				<key app="EN"
+					db-id="09vz0wef8e52wfefa5x5ext70r9fete2twsr">
+					61
+				</key>
+			</foreign-keys>
+			<ref-type name="Journal Article">17</ref-type>
+			<contributors>
+				<authors>
+					<author>
+						<style face="normal" font="default"
+							size="100%">
+							Kay Wijekumar
+						</style>
+					</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>
+					<style face="normal" font="default" size="100%">
+						Creating Effective Web-Based Learning
+						Environments: Relevant Research and Practice
+					</style>
+				</title>
+				<secondary-title>
+					<style face="normal" font="default" size="100%">
+						Innovate
+					</style>
+				</secondary-title>
+			</titles>
+			<periodical>
+				<full-title>
+					<style face="normal" font="default" size="100%">
+						Innovate
+					</style>
+				</full-title>
+			</periodical>
+			<volume>
+				<style face="normal" font="default" size="100%">
+					1
+				</style>
+			</volume>
+			<number>
+				<style face="normal" font="default" size="100%">
+					5
+				</style>
+			</number>
+			<dates>
+				<year>
+					<style face="normal" font="default" size="100%">
+						2005
+					</style>
+				</year>
+			</dates>
+			<urls>
+				<related-urls>
+					<url>
+						<style face="normal" font="default"
+							size="100%">
+							http://www.innovateonline.info/index.php?view=article&amp;id=26
+						</style>
+					</url>
+				</related-urls>
+			</urls>
+		</record>
+	</records>
+</xml>
