@@ -1,0 +1,33 @@
+<project name="writing" default="html-single" basedir=".">
+    <description>
+        Ant build file to create differeent versions of my short and not-so-short stories
+    </description>
+  <!-- set global properties for this build -->
+  <property name="dist"  location="stories"/>
+
+  <target name="init">
+    <!-- Create the time stamp -->
+    <echo message="Generating timestamp"/>
+    <tstamp/>
+    <!-- Create the build directory structure used by compile -->
+    <echo message="Creating Directory to store resulting files"/>
+    <mkdir dir="${dist}-{tstamp}"/>
+  </target>
+
+  <target name="html-single" depends="init"
+        description="Create single HTML document " >
+  <!-- Creates single HTML document using Saxon -->
+  	<java classname="saxon.jar">
+  		<arg value="-o stories.html"/>
+  		<arg value="stories-db5.xml"/>
+  		<arg value="carlos.xsl"/>
+  	</java>  
+  </target>
+
+  <target name="clean"
+        description="clean up" >
+    <!-- Delete the ${build} and ${dist} directory trees -->
+    <delete dir="${build}"/>
+    <delete dir="${dist}"/>
+  </target>
+</project>

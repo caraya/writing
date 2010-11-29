@@ -1,0 +1,137 @@
+BODY { 
+    background: #ffffe0; 
+    color: black;
+    font-family: Arial CE, Arial, Helvetica, sans-serif;
+    font-size: 12pt }
+
+H1, H2, H3, H4, H5, H6 {
+    font-family: Arial CE, Arial, Helvetica, sans-serif;
+    /* font-family: Garamond, Palatino, Times New Roman, Times, serif; */
+    color: navy;
+    font-weigth: bold;
+    }
+    
+H1 {
+    font-size: 30pt;
+    text-align: center;
+    }    
+    
+H2 {
+    font-size: 20pt;
+    }    
+
+A {
+    text-decoration: none
+    }
+
+A:link {
+	color: blue;
+	}
+A:visited {
+    	color: #0000B0;
+	}
+    
+A:hover {
+    text-decoration: underline;
+    color: red;
+    }    
+    
+.navbar {
+    font-size: 8pt;
+    text-align: center;
+    margin: 5pt;
+    }    
+
+.copy {
+    font-size: 8pt;
+    text-align: center;
+    margin: 5pt;
+    }    
+
+.time {
+    font-size: 8pt;
+    font-style: italic;
+    text-align: left;
+    margin: 5pt;
+    }    
+
+.titlepage .title, .titlepage .subtitle, 
+.titlepage .author, .titlepage .address { text-align: center }
+
+.sect1 .titlepage .title, .section .titlepage .subtitle { text-align: left }
+.sect2 .titlepage .author, .section .titlepage .address { text-align: left }
+.article .bibliography .titlepage .title { text-align: left }
+
+
+/*
+TH { background: #80FFFF }
+TD { background: #C0FFFF }
+*/
+
+/*
+TH { background: #FFFFA0 }
+TD { background: #FFFFC0 }
+*/
+
+.Picture TH, .Picture TD { background: #FFFFFF }
+.Picture { padding: 8px }
+
+.question TD, .answer TD, .toc TD, .qandadiv TD { font-size: 11pt } 
+
+
+VAR { font-style: italic; font-family: Arial CE, Arial, Helvetica, sans-serif }
+
+DFN { font-style: italic; font-weight: bold }
+
+CODE, TT { font-weight: bold;
+       font-family: Arial CE, Arial, Helvetica, sans-serif }
+
+TABLE { 
+    /* background-color: #FFFFC0; */
+    /* font-size: 80%; */
+    /* text-align: center; */
+    font-family: Arial CE, Arial, Helvetica, sans-serif;
+	}
+	
+CAPTION { 
+    font-size: 120%;
+	font-weight: bold;
+	}	
+	  
+PRE { 
+    font-weight: bold;
+    font-family: Courier New CE, Courier New, monospace;
+    margin-left: 30px;
+    }
+
+PRE VAR {
+    font-style: italic; 
+    font-family: Courier New CE, Courier New, monospace;
+    }
+
+KBD { 
+    font-family: Arial CE, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    }	
+    
+DT {
+    font-weight: bold;
+    margin-top: 6pt;
+    }    
+    
+.footercopy { font-size: 9px;
+	      padding-left: 10%;
+	      padding-right: 10%;
+	      border-top-width: 1px;
+	      border-top-style: solid;
+	      border-top-color: gray }
+
+.programlisting, 
+.programlistingco, 
+.screen { background-color: #e0e0e0; 
+          padding: 5pt;
+          margin: 5pt}
+
+
+
+
