@@ -1,0 +1,5162 @@
+<book xmlns='http://docbook.org/ns/docbook'
+	xmlns:xlink='http://www.w3.org/1999/xlink'
+	xmlns:xi='http://www.w3.org/2001/XInclude'>
+	<info>
+		<title>Distance Learning and Future Technologies</title>
+		<subtitle>Where we are and how we got there</subtitle>
+		<author>
+			<personname>
+				<firstname>Carlos</firstname>
+				<surname>Araya</surname>
+			</personname>
+			<!-- 
+				<affiliation>
+				<jobtitle>Information Technology Consultant</jobtitle>
+				<orgname>California State University, Chico</orgname>
+				<orgdiv>Academic Technologies</orgdiv>
+				</affiliation>
+			-->
+		</author>
+		<legalnotice>
+			<para>(C) 2008 Carlos Araya</para>
+			<para>
+				The views and opinions expressed in the following pages
+				are those of the author and do not necessarily represent
+				those of the staff at CSU, Chico or the California State
+				University System
+			</para>
+			<para>
+				Where the author was aware of an existing copyright
+				claim the name of the trademark has been capitalized. No
+				infringement is intended by the use of the trademarked
+				names.
+			</para>
+		</legalnotice>
+	</info>
+	<preface id="book-intro">
+		<title>Introduction</title>
+		<para>
+			What started as an inquiry regarding the adoption, use and
+			support for Synchronous Distance Learning Programs evolved,
+			to me, into an exploration of the people and the tools that
+			we use to deliver Distance Learning, both Synchronous and
+			Asynchronous and where the technology and people are going
+			in this Brave New World.
+		</para>
+		<para>
+			Even though I have been working on Distance Learning for 10
+			years I had never really realized the breadth and depth
+			necessary for online courses, training workshops to be
+			delivered successfully. From accessibility expert who ensure
+			that the content is usable by all students, to the
+			instructional designers and trainers who make sure that
+			faculty are up to speed with the tools they are going to
+			use, to the system administrators who make sure that the
+			system is reliable and doesn't crash when you least expect
+			it.
+		</para>
+		<para>
+			That's why I decided to go for breadth first and then, if
+			possible, go for depth. There is too much to cover in order
+			to really understand Distance Learning to really go much in
+			depth about it. I hope that I have done justice to the
+			material I have covered.
+		</para>
+		<para>Carlos</para>
+		<sect1 id="book-thanks">
+			<title>Acknowledgements</title>
+			<para>
+				Even though there is one name in this report there are
+				several people who have helped tremendously in the
+				development of the content and ideas on this survey
+			</para>
+			<para>
+				The people who worked with me in DLT Classroom Support
+				at CSU, Chico: Buzz, Stephen, Gene and the student
+				assistant. You make it fun and challenging and
+				intellectually stimulating to work in the support team.
+			</para>
+			<para>
+				Edits and additional items were added to this report
+				during the Collaboration 2008 Conference in Salt Lake
+				City, Utah and CATS 2008 in Rhonert Park, California.
+				Both conferences have been very intellectually
+				stimulating environments with people who are brilliant
+				at what they do.
+			</para>
+		</sect1>
+	</preface>
+	<part id="survey-related">
+		<title>Survey Report and Related Documents</title>
+		<partintro>
+			<para>
+				The survey described below was commissioned by CSU,
+				Chico as an environmental scan for Distance Learning
+				tools and support models. as indicated in the report
+				introduction, CSU, Chico is starting to look at new
+				technologies and methods to support Distance Learning
+				programs.
+			</para>
+			<para>
+				The purpose of the survey is not to interpret the data
+				but to raises questions and issues for future research
+				and discussion. We are too early in the research process
+				to be able to draw any substantive conclusions at this
+				point of the process. However it is useful to know what
+				other schools are doing and have contact information to
+				pursue further questions or for additional research.
+			</para>
+		</partintro>
+		<chapter id="survey">
+			<title>Survey Report</title>
+			<sect1 id="intro">
+				<title>Introduction and Rationale</title>
+				<para>
+					No one wants to work in a vacuum. CSU, Chico has
+					used the same basic technology setup to deliver
+					synchronous online instruction since 2000 when the
+					satellite program was transitioned to an online
+					format. In the mean time technology has progressed
+					at an accelerated rate... where in 2000 there were a
+					few vendors now there are several. Tools have been
+					developed to both support and augment the
+					synchronous tools used.
+				</para>
+				<para>
+					The survey grew up of a need to evaluate what other
+					schools are doing in terms of synchronous distance
+					learning tools and how these tools are being
+					supported by the campuses. Whatever the reasons for
+					having skipped a technological generation are; now
+					CSU, Chico needs to play catch up. The information
+					gathered in this survey will inform later steps and
+					stages in our new Distance Learning tools selection
+					process, support models and procedures and,
+					eventually, lead to a model that will take CSU,
+					Chico to a leadership position in Distance Learning.
+				</para>
+				<sect2 id="survey-thanks">
+					<title>Acknowledgements</title>
+					<para>
+						Even though there is one name in this report
+						there are several people who have helped
+						tremendously in the development of the content
+						and ideas on this survey
+					</para>
+					<para>
+						The people who work with me in DLT Classroom
+						Support: Buzz, Stephen, Gene and the student
+						assistant. You make it fun and challenging and
+						intellectually stimulating to work in the
+						support team.
+					</para>
+					<para>
+						To the Wimba Support Team: Laura, Scott, Ann,
+						Jan. Thanks for the feedback and for the
+						intellectually stimulating conversations.
+					</para>
+					<para>
+						Edits and additional items were added to this
+						report during the Collaboration 2008 Conference
+						in Salt Lake City, Utah. It has been a very
+						intellectually stimulating environment with
+						people who are brilliant at what they do
+					</para>
+				</sect2>
+			</sect1>
+
+			<sect1 id="methodology">
+				<title>Methodology and Survey Development</title>
+				<para>
+					When developing the methodology it was decided that
+					a survey was the best tool to conduct this project.
+					Because surveys are static instruments it was also
+					decided to request contact information for potential
+					follow up questions. The survey will certainly
+					generate more questions than the data can answer. It
+					has been made clear from the beginning to
+					participants that, while their personally
+					identifying information would be kept confidential,
+					the researcher will contact those institutions whose
+					information has generated new research questions.
+				</para>
+
+				<para>
+					The survey was broken into 4 distinct areas:
+				</para>
+
+				<orderedlist>
+					<listitem>
+						<para>
+							Informed Consent as required by the
+							University's Human Subject Review Committee
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Demographics about the respondent and their
+							institution
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Demographics about the respondent
+							institution's Synchronous and Asynchronous
+							courses, LMS Integration and the way in
+							which the software used for Distance
+							Learning was selected
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Specific information about the respondent's
+							Synchronous Distance Learning Software and
+							its support model for both faculty and
+							students
+						</para>
+					</listitem>
+				</orderedlist>
+
+				<para>
+					Once the author had an initial version of the survey
+					it was reviewed by several members of Academic
+					Technologies and after several meetings the final
+					version of the survey was completed and submitted to
+					Human Subjects for review and approval. See
+					<xref linkend="Lessons" />
+					for some of the lessons learned in the development
+					and administration of the survey instrument.
+				</para>
+
+				<para>
+					When the survey instrument was developed then the
+					team had to decide how to deliver the instrument.
+					The author briefly considered creating a PDF and
+					sending it via email to potential respondents
+					allowing them to self-select for completion of the
+					survey. This was deemed impractical due to the
+					number of responses expected. The Center for
+					Excellence in Teaching and Learning (CELT) owns a
+					license for Survey Monkey (
+					<link xlink:href="http://www.surveymonkey.com" />
+					). Since the technology is available and it makes
+					the collection of data more manageable it was
+					decided to use Survey Monkey to administer the
+					survey and collect the results.
+				</para>
+
+				<para>
+					The survey was originally sent to 5 lists with 2
+					additional groups (Community College Users and
+					Community College Distance Learning Coordinators)
+					being added later when the survey was forwarded to
+					community college users and Distance Learning
+					Coordinators. These additional groups of respondent
+					explain the high percentage of respondents from
+					Community Colleges.
+				</para>
+
+				<para>
+					The survey was sent originally to the following
+					lists:
+				</para>
+
+				<orderedlist>
+					<listitem>
+						<para>
+							<link
+								xlink:href="http://it.coe.uga.edu/itforum/">
+								IT Forum:
+							</link>
+							A list for instructional designers and
+							people who work developing instruction, both
+							in education and corporate settings.
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<link xlink:href="http://cats.cdl.edu/">
+								Community of Academic Technology Staff:
+							</link>
+							A community for people who work in academic
+							technologies, initially across the
+							California State University System and now
+							open for membership
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<link xlink:href="http://www.nmc.org/">
+								New Media Center Technology Advisory
+								Board (TAB):
+							</link>
+							Members-Only list for knowledge sharing
+							among the members of the New Media Center
+							Consortium
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<link
+								xlink:href="http://www.educause.edu">
+								Educause:
+							</link>
+							General Member list for Educause
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							<link
+								xlink:href="http://lcin.wordpress.com/">
+								LCIN Steering Committee:
+							</link>
+							<acronym>LCIN</acronym>
+							(Leading Campuses International Network) is
+							a group of former WebCT Institute program
+							members who have regrouped under the name
+							LCIN for the purpose of "Advancing effective
+							use of course technologies by connecting
+							people with good ideas…" (taken from LCIN
+							website)
+						</para>
+					</listitem>
+				</orderedlist>
+
+				<para>
+					The variety of groups the survey was sent to was
+					deliberate. The team wanted to ensure responses that
+					were as varied as possible. As mentioned above, when
+					the chance was offered to have the survey forwarded
+					to Community College users it was deemed a good
+					opportunity to expand the base of respondents and to
+					gather information towards future research.
+				</para>
+
+				<sect2 id="future" xml:id="Lessons">
+					<title>Lessons Learned</title>
+					<para>
+						No matter how careful you are in developing a
+						survey there are always things that could have
+						been done different to improve the survey's
+						overall response rate.
+					</para>
+					<para>Some of the specific issues include:</para>
+
+					<sect3 id="clarification">
+						<title>
+							Clarification about the voluntary nature of
+							the survey
+						</title>
+						<para>
+							For some of the respondents from the
+							community colleges in particular there was a
+							perception that they were required to
+							complete the survey whether it applied to
+							them or not. Some of the feedback seems to
+							indicate that they were required to complete
+							the survey regardless of what the informed
+							consent statement indicates.
+						</para>
+						<para>
+							This may have had to do with the fact that
+							for this particular group the survey
+							originated from the Community College's
+							Chancellors office and not directly from the
+							authors of the survey and therefore carried
+							a more authoritative message to those who
+							received it
+						</para>
+						<para>
+							Future surveys should clearly indicate and
+							request people who forward the survey
+							indicate that participation in the survey is
+							strictly voluntary.
+						</para>
+					</sect3>
+					<sect3 id="clarity">
+						<title>
+							Survey Clarity and Specific Language in
+							Instructions
+						</title>
+						<para>
+							As clear as we thought we had made the
+							survey there was still a lot of confusion as
+							to who the target audience was and who
+							should answer the survey. Some people passed
+							it over to their Distance Learning
+							coordinators and others completed the survey
+							as best as they could.
+						</para>
+						<para>
+							Even among the Community College's Distance
+							Learning Coordinators there was confusion as
+							to what information the survey sought to
+							gather. There was an email where a Distance
+							Learning Coordinator who indicated that the
+							answers just provided were of no use as
+							survey material because the coordinator had
+							not realized that were were requesting
+							information about synchronous Distance
+							Learning and his program was fully
+							asynchronous. While not a generalized
+							comment it calls into question the clarity
+							of the instructions provided with the
+							survey.
+						</para>
+						<para>
+							Our expectation when developing the survey
+							was that people who received it but were not
+							able to answer it would pass it along to
+							whoever they thought would be able to
+							complete it for their institution. This was
+							not the case which probably accounts for the
+							number of faculty who completed the survey.
+							See
+							<xref linkend="user-distribution" />
+							for respondents' role within their
+							institutions.
+						</para>
+
+					</sect3>
+
+					<sect3 id="wording">
+						<title>
+							Question Wording and Stating Quantities
+						</title>
+						<para>
+							In addition to the question about the
+							clarity of the instructions there was some
+							feedback regarding the wording of some of
+							the questions, in particular those that
+							requested distinction between synchronous
+							and asynchronous Distance Learning courses.
+						</para>
+						<para>
+							Where we ask number of courses that are
+							synchronous and asynchronous Distance
+							Learning courses it may have been better to
+							use percentages rather than number of
+							courses to eliminate part of the confusion
+							created by the wording of the questions.
+						</para>
+						<para>
+							We also assumed a level of understanding
+							from our audience in terms of what the
+							objectives of the survey were. There was a
+							lot of confusion and it was clear in
+							comments and direct feedback that this was
+							not always the case
+						</para>
+					</sect3>
+				</sect2>
+			</sect1>
+
+			<sect1 id="analysis">
+				<title>Analysis</title>
+				<para>
+					The following pages present a question by question
+					analysis of the survey, along with preliminary
+					observations and comments about each individual
+					question, along with responses marked as "other"
+					that are interesting and that may merit additional
+					research or analysis.
+				</para>
+
+				<para>
+					<emphasis role="strong">
+						There was a total of 250 responses with a 52%
+						completion rate of 130 complete responses.
+					</emphasis>
+				</para>
+				<sect2 id="respondents-institution">
+					<title>Respondent's institution</title>
+					<table xml:id="question1" rules="all" frame="box">
+						<caption>Respondent's Institution</caption>
+						<thead>
+							<tr>
+								<td>
+									1. Which best defines your
+									institution?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Community College</td>
+							</tr>
+							<tr>
+								<td>State College/University</td>
+							</tr>
+							<tr>
+								<td>Research University</td>
+							</tr>
+							<tr>
+								<td>Trade School</td>
+							</tr>
+							<tr>
+								<td>Online University</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+							</tr>
+						</tbody>
+					</table>
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 1 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 1 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q1graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						1:
+					</para>
+
+					<informaltable xml:id="distribution-q1" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>
+									<emphasis role="strong" />
+								</td>
+								<td>
+									<emphasis role="strong">
+										Responses
+									</emphasis>
+								</td>
+							</tr>
+							<tr>
+								<td>Community College</td>
+								<td>100</td>
+							</tr>
+							<tr>
+								<td>State College/University</td>
+								<td>60</td>
+							</tr>
+							<tr>
+								<td>Research University</td>
+								<td>44</td>
+							</tr>
+							<tr>
+								<td>Trade School</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>Online University</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td>28</td>
+							</tr>
+						</tbody>
+					</informaltable>
+
+				</sect2>
+
+				<sect2 id="respondents-" xml:id="user-distribution">
+					<title>Respondent's within institution</title>
+					<table xml:id="question2" rules="all" frame="box">
+						<caption>
+							Defining User's Role within their
+							institution
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									2. Which best defines your at your
+									institution?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Administrator</td>
+							</tr>
+							<tr>
+								<td>Director</td>
+							</tr>
+							<tr>
+								<td>Manager</td>
+							</tr>
+							<tr>
+								<td>Supervisor</td>
+							</tr>
+							<tr>
+								<td>Technology Staff</td>
+							</tr>
+							<tr>
+								<td>Faculty</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 2 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 2 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q2graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						2:
+					</para>
+
+					<informaltable xml:id="distribution-q2" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>
+									<emphasis role="strong" />
+								</td>
+								<td>
+									<emphasis role="strong">
+										Responses
+									</emphasis>
+								</td>
+							</tr>
+							<tr>
+								<td>Administrator</td>
+								<td>35</td>
+							</tr>
+							<tr>
+								<td>Director</td>
+								<td>43</td>
+							</tr>
+							<tr>
+								<td>Manager</td>
+								<td>17</td>
+							</tr>
+							<tr>
+								<td>Supervisor</td>
+								<td>8</td>
+							</tr>
+							<tr>
+								<td>Technology Staff</td>
+								<td>33</td>
+							</tr>
+							<tr>
+								<td>Faculty</td>
+								<td>68</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td>34</td>
+							</tr>
+						</tbody>
+					</informaltable>
+
+				</sect2>
+				<sect2 id="contact-request">
+					<title>Contact request</title>
+					<table xml:id="question3" rules="all" frame="box">
+						<caption>Contact request</caption>
+						<thead>
+							<tr>
+								<td>
+									3. Is it OK if we contact you with
+									additional questions?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Yes</td>
+							</tr>
+							<tr>
+								<td>No</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 3 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 3 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q3graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						3:
+					</para>
+
+					<informaltable xml:id="distribution-q3" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Responser</td>
+								<td>Yes</td>
+								<td>No</td>
+							</tr>
+							<tr>
+								<td>Responses</td>
+								<td>162</td>
+								<td>88</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+
+				<sect2 id="contact-info">
+					<title>Contact Information</title>
+					<table xml:id="question4" rules="all" frame="box">
+						<caption>Contact Information</caption>
+						<thead>
+							<tr>
+								<td>
+									4. If you answered "yes" to the
+									question above, please complete the
+									information below.
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Respondent's Name</td>
+							</tr>
+							<tr>
+								<td>Institution Name</td>
+							</tr>
+							<tr>
+								<td>Email</td>
+							</tr>
+							<tr>
+								<td>Phone</td>
+							</tr>
+						</tbody>
+					</table>
+					<para>
+						The responses for this question are confidential
+						information and therefore not shared as part of
+						this report.
+					</para>
+				</sect2>
+				<sect2 id="total-ftes">
+					<title>Total FTEs for current term</title>
+					<table xml:id="question5" rules="all" frame="box">
+						<caption>Current FTEs for current term</caption>
+						<thead>
+							<tr>
+								<td>
+									5. What is your FTE for all classes
+									offered in the current term?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>1 - 1000</td>
+								<td>15000 - 20000</td>
+							</tr>
+							<tr>
+								<td>1000 - 5000</td>
+								<td>20000 - 30000</td>
+							</tr>
+							<tr>
+								<td>5000 - 10000</td>
+								<td>30000 - 50000</td>
+							</tr>
+							<tr>
+								<td>10000 - 15000</td>
+								<td>50000 or more</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 5 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 5 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q5graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						5:
+					</para>
+
+					<informaltable xml:id="distribution-q5" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Total FTEs</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>1 - 1000</td>
+								<td>34</td>
+							</tr>
+							<tr>
+								<td>1000 - 5000</td>
+								<td>18</td>
+							</tr>
+							<tr>
+								<td>5000 - 10000</td>
+								<td>29</td>
+							</tr>
+							<tr>
+								<td>10000 - 15000</td>
+								<td>20</td>
+							</tr>
+							<tr>
+								<td>15000 - 20000</td>
+								<td>17</td>
+							</tr>
+							<tr>
+								<td>20000 - 30000</td>
+								<td>10</td>
+							</tr>
+							<tr>
+								<td>30000 - 50000</td>
+								<td>6</td>
+							</tr>
+							<tr>
+								<td>50000 or more</td>
+								<td>3</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="students-enrolled-in-dl">
+					<title>
+						Students Enrolled in Distance Learning program
+					</title>
+					<table xml:id="question6" rules="all" frame="box">
+						<caption>
+							Students Enrolled In Distance Learning
+							program
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									6. How many students are enrolled in
+									your distance learning program?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>1 - 100</td>
+								<td>2000 - 5000</td>
+							</tr>
+							<tr>
+								<td>101 - 500</td>
+								<td>5000 - 10000</td>
+							</tr>
+							<tr>
+								<td>501 - 1000</td>
+								<td>10001 or more</td>
+							</tr>
+							<tr>
+								<td>1001 - 2000</td>
+								<td />
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 6 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 6 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q6graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						6:
+					</para>
+
+					<informaltable xml:id="distribution-q6" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Students Enrolled</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>1 - 100</td>
+								<td>23</td>
+							</tr>
+							<tr>
+								<td>101 - 500</td>
+								<td>25</td>
+							</tr>
+							<tr>
+								<td>501 - 1000</td>
+								<td>15</td>
+							</tr>
+							<tr>
+								<td>1001 - 2000</td>
+								<td>16</td>
+							</tr>
+							<tr>
+								<td>2000 - 5000</td>
+								<td>33</td>
+							</tr>
+							<tr>
+								<td>5000 - 10000</td>
+								<td>15</td>
+							</tr>
+							<tr>
+								<td>10001 or more</td>
+								<td>10</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="system-used-to-deliver">
+					<title>
+						Systems used to deliver synchronous Distance
+						Learning
+					</title>
+					<table xml:id="question7" rules="all" frame="box">
+						<caption>
+							Systems used to deliver synchronous Distance
+							Learning
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									7. What system(s) do you use for
+									delivering synchronous distance
+									learning instruction? (Select all
+									that apply.)
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									Acrobat Connect Professional
+									<sbr />
+									(formerly Macromedia Breeze)
+								</td>
+								<td>Wimba Live Classroom</td>
+							</tr>
+							<tr>
+								<td>Elluminate Live</td>
+								<td>Centra</td>
+							</tr>
+							<tr>
+								<td>Webex</td>
+								<td />
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 7 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 7 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q7graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						7:
+					</para>
+
+					<informaltable xml:id="distribution-q7" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Software Used</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>
+									Acrobat Connect Professional
+									<sbr />
+									(formerly Macromedia Breeze)
+								</td>
+								<td>25</td>
+							</tr>
+							<tr>
+								<td>Elluminate Live</td>
+								<td>40</td>
+							</tr>
+							<tr>
+								<td>WebEx</td>
+								<td>5</td>
+							</tr>
+							<tr>
+								<td>Wimba Live Classroom</td>
+								<td>19</td>
+							</tr>
+							<tr>
+								<td>Centra</td>
+								<td>2</td>
+							</tr>
+							<tr>
+								<td>Other</td>
+								<td>74</td>
+							</tr>
+						</tbody>
+					</informaltable>
+					<para>
+						The variety of answers grouped under the "other"
+						category prohibits listing them all therefore
+						some salient points will be discussed.
+					</para>
+
+					<blockquote>
+						<para>
+							Custom Flash Media Server applications
+						</para>
+					</blockquote>
+
+					<para>
+						Either as a standalone application or as part of
+						Accrobat connect Professional, flash is a very
+						flexible delivery platform. In addition to the
+						modules or "pods" there is the flexibility of
+						building local "pods" to acomodate local needs
+						and locally required elements.
+					</para>
+
+					<blockquote>
+						<para>
+							WebCT, some Windows Media streaming,
+							correspondence, and telecourses
+							(correspondence plus videotape). We DO NOT
+							design courses for synhronous delivery. It
+							prohibits participation by many students,
+							and doesn't work well across time zones. We
+							have students all over the world and that
+							makes synchrnous media a no-go.
+						</para>
+					</blockquote>
+
+					<para>
+						World-wide access is becoming more and more of
+						an issue. With online access not being
+						geographically restricted neither are the
+						options to take online courses. Schools like
+						Chico have a set schedule where the students
+						have the option of engaging with the content
+						either live or via archived recordings of class
+						sessions.
+					</para>
+					<para>
+						Other schools have decided not to implement
+						synchronous programs for a variety of reasons or
+						have limited the use of synchronous tools to
+						individual faculty members.
+					</para>
+					<blockquote>
+						<para>
+							We offer live videoconferences, not avail.
+							on line
+						</para>
+						<para>Poly COM, Apple iChat, DVTS, Skype</para>
+						<para>
+							Even though you have only listed web
+							conference tools as synchronous DL, we still
+							use interactive, two-way video
+						</para>
+						<para>
+							Mediasite by Sonic Foundry Video
+							Conferencing (Tandberg h.323)
+						</para>
+						<para>
+							Note: currently we do not use synchronous
+							distance learning over the Internet. We do
+							offer a suite of telecourses, a few
+							featuring live lectures, most recorded.
+							Increasingly these lectures are being
+							integrated into our asynchronous online
+							courses as streaming RealMedia. Our plans
+							are to migrate to a Flash-based delivery....
+						</para>
+						<para>
+							Although we offer distance learning via
+							correspondence and Moodle, we do not offer
+							any synchronous distance learning
+							instruction
+						</para>
+						<para>
+							Tandberg. polycom, and other
+							telecommunications systems. Marratech
+							netmeeting We use IP based Polycom codecs
+							for two way communication
+						</para>
+					</blockquote>
+					<para>
+						A suprisingly large number of respondents,
+						mostly from Community Colleges continue to use
+						their video infrastructure for delivering
+						instructional content. They also make extensive
+						use of cable television channels and satellite
+						television (Direct TV or Dish Network) for
+						delivering instruction
+					</para>
+
+					<blockquote>
+						<para>
+							...The California Community Colleges
+							Chancellor's Office provides Elluminate Live
+							through CCCConfer.org and this can be used
+							for chat and synchronous office hours but
+							we're not using it now for course delivery.
+						</para>
+						<para>
+							ReadyTalk (I am also staff at UCSD where I
+							have a ReadyTalk account and prefer it over
+							Elluminate, aka. CCCConfer)
+						</para>
+
+						<para>
+							Really not doing much, if any, synchronous
+							instruction, but CCC Confer offers
+							Elluminate Live, which may be getting some
+							minimal usage. However, the DE Committee and
+							IT are planning to buy EL or other platform
+							in the near future.
+						</para>
+					</blockquote>
+
+					<para>
+						CCCConfer (
+						<link
+							xlink:href="http://www.cccconfer.org/index1.aspx">
+							http://www.cccconfer.org/index1.aspx
+						</link>
+						) provides Synchronous conferencing services for
+						the 108 campuses of the California Community
+						College system. The service initially used Wimba
+						products but now has changed to Elluminate Live.
+					</para>
+
+					<para>
+						There also seems to be a trend in asynchronous
+						courses to use the synchronous tools built into
+						the LMS (Moodle, Angel, Desire2Learn,
+						Blackboard, eCollege, WebCT and Etudes NG were
+						mentioned as delivery vehicles.) A concern with
+						this model is the strength of the LMS network
+						connection, the hardware it is running on and
+						the number of simultaneous connections
+					</para>
+					<para>
+						Etudes NG should be singled out and analyzed in
+						more detail. Originally a project developed by
+						an Instructor at Foothill College as an
+						alternative to the big commercial Learning
+						Management Systems; Etudes morphed into a Sakai
+						derivative driven by a Consortium (
+						<link
+							xlink:href="http://www.etudesproject.org/">
+							http://www.etudesproject.org/
+						</link>
+						) with a current membership of 23 community
+						colleges.
+					</para>
+
+
+				</sect2>
+				<sect2 id="how-long-using">
+					<title>How long have you used the software</title>
+					<table xml:id="question8" rules="all" frame="box">
+						<caption>
+							Students Enrolled In Distance Learning
+							program
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									8. How long have you been using your
+									synchronous distance learning
+									delivery software?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Currently in pilot phase</td>
+								<td>Between 2 and 3 years</td>
+							</tr>
+							<tr>
+								<td>Less than 6 months</td>
+								<td>Between 3 and 4 years</td>
+							</tr>
+							<tr>
+								<td>Between 6 months and 1 year</td>
+								<td>Between 4 and 5 years</td>
+							</tr>
+							<tr>
+								<td>Between 1 and 2 years</td>
+								<td>More than 5 years</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 8 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 8 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q8graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						8:
+					</para>
+
+					<informaltable xml:id="distribution-q8" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Length of Time</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Currently in Pilot Phase</td>
+								<td>24</td>
+							</tr>
+							<tr>
+								<td>Less than 6 months</td>
+								<td>6</td>
+							</tr>
+							<tr>
+								<td>Between 6 months and 1 year</td>
+								<td>13</td>
+							</tr>
+							<tr>
+								<td>Between 1 and 2 years</td>
+								<td>17</td>
+							</tr>
+							<tr>
+								<td>Between 2 and 3 years</td>
+								<td>16</td>
+							</tr>
+							<tr>
+								<td>Between 3 and 4 years</td>
+								<td>11</td>
+							</tr>
+							<tr>
+								<td>Between 4 and 5 years</td>
+								<td>8</td>
+							</tr>
+							<tr>
+								<td>More than 5 years</td>
+								<td>2</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="integrate-with-lms">
+					<title>Do you integrate with your LMS</title>
+					<table xml:id="question9" rules="all" frame="box">
+						<caption>
+							Do you integrate with your LMS?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									9. Do you integrate your synchronous
+									distance learning software with your
+									Learning Management System (LMS)?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Yes</td>
+								<td>No</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 9 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 9 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q9graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						9:
+					</para>
+					<informaltable xml:id="distribution-q9" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Do you integrate?</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Yes</td>
+								<td>75</td>
+							</tr>
+							<tr>
+								<td>No</td>
+								<td>62</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="what-system">
+					<title>
+						If you integrate, what system do you integrate
+						with?
+					</title>
+					<table xml:id="question10" rules="all"
+						frame="box">
+						<caption>
+							Which LMS do you integrate with
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									10. If you answered yes to question
+									#9; which LMS do you use on campus?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>(Open Ended Answer)</td>
+								<td />
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 10 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 10 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q10graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+
+					<para>
+						The the following were the responses to question
+						10:
+					</para>
+
+					<informaltable xml:id="distribution-q10" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>What system</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Blackboard</td>
+								<td>30</td>
+							</tr>
+							<tr>
+								<td>WebCT</td>
+								<td>15</td>
+							</tr>
+							<tr>
+								<td>Angel</td>
+								<td>4</td>
+							</tr>
+							<tr>
+								<td>Desire2Learn</td>
+								<td>9</td>
+							</tr>
+							<tr>
+								<td>Moodle</td>
+								<td>8</td>
+							</tr>
+							<tr>
+								<td>eCollege</td>
+								<td>5</td>
+							</tr>
+							<tr>
+								<td>Etudes NG</td>
+								<td>1</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="same-lms-as-oncampus">
+					<title>
+						Is it the same system used for on-campus
+						classes?
+					</title>
+					<table xml:id="question11" rules="all"
+						frame="box">
+						<caption>
+							Is it the same system used for on-campus
+							classes?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									Is it the same system used for
+									on-campus classes?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Yes</td>
+								<td>No</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 11 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 11 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q11graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						11:
+					</para>
+
+					<informaltable xml:id="distribution-q11" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Same System</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Yes</td>
+								<td>83</td>
+							</tr>
+							<tr>
+								<td>No</td>
+								<td>10</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="selection-process">
+					<title>
+						Who selected the software you are currently
+						using
+					</title>
+					<table xml:id="question12" rules="all"
+						frame="box">
+						<caption>
+							Who selected your current distance learning
+							software?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									12. Who from your institution
+									selected your current distance
+									learning software?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Administration</td>
+								<td>
+									Collaborative Group
+									(Faculty/Administrators/Students)
+								</td>
+							</tr>
+							<tr>
+								<td>Faculty Committee</td>
+								<td>Academic Technology Committee</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td />
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 12 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 12 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q12graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						12:
+					</para>
+
+					<informaltable xml:id="distribution-q12" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Who Selected</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Administration</td>
+								<td>22</td>
+							</tr>
+							<tr>
+								<td>Faculty Committee</td>
+								<td>12</td>
+							</tr>
+							<tr>
+								<td>
+									Collaborative Group
+									<sbr />
+									(Faculty/administrators/Students)
+								</td>
+								<td>48</td>
+							</tr>
+							<tr>
+								<td>Academic Technology Committee</td>
+								<td>31</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td>24</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="distance-learning-classes-per-term">
+					<title>
+						How many classes are considered distance
+						learning per term?
+					</title>
+					<table xml:id="question13" rules="all"
+						frame="box">
+						<caption>
+							How many classes are considered distance
+							learning per term?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									13. How many classes are considered
+									distance learning per term?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>1 - 10</td>
+								<td>300 - 500</td>
+							</tr>
+							<tr>
+								<td>11 - 100</td>
+								<td>501 - 1000</td>
+							</tr>
+							<tr>
+								<td>101 - 200</td>
+								<td>1001 or more</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 13 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 13 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q13graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						13:
+					</para>
+
+					<informaltable xml:id="distribution-q13" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Number of Classes</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>1 - 10</td>
+								<td>17</td>
+							</tr>
+							<tr>
+								<td>11 - 100</td>
+								<td>51</td>
+							</tr>
+							<tr>
+								<td>101 - 200</td>
+								<td>40</td>
+							</tr>
+							<tr>
+								<td>300 - 500</td>
+								<td>17</td>
+							</tr>
+							<tr>
+								<td>501 - 1000</td>
+								<td>10</td>
+							</tr>
+							<tr>
+								<td>1000 or more</td>
+								<td>2</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2
+					id="synchronous-distance-learning-classes-per-term">
+					<title>
+						Synchronous Distance Learning classes per term
+					</title>
+					<table xml:id="question14" rules="all"
+						frame="box">
+						<caption>
+							How many distance learning classes are
+							considered synchronous?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									14. How many distance learning
+									classes are considered synchronous?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>1 - 10</td>
+								<td>300 - 500</td>
+							</tr>
+							<tr>
+								<td>11 - 100</td>
+								<td>501 - 1000</td>
+							</tr>
+							<tr>
+								<td>101 - 200</td>
+								<td>1001 or more</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 14 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 14 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q14graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						14:
+					</para>
+
+					<informaltable xml:id="distribution-q14" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Number of Classes</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>1 - 10</td>
+								<td>87</td>
+							</tr>
+							<tr>
+								<td>11 - 100</td>
+								<td>37</td>
+							</tr>
+							<tr>
+								<td>101 - 200</td>
+								<td>0</td>
+							</tr>
+							<tr>
+								<td>300 - 500</td>
+								<td>0</td>
+							</tr>
+							<tr>
+								<td>501 - 1000</td>
+								<td>3</td>
+							</tr>
+							<tr>
+								<td>1000 or more</td>
+								<td>0</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2
+					id="asynchronous-distance-learning-classes-per-term">
+					<title>
+						Asynchronous Distance Learning classes per term
+					</title>
+					<table xml:id="question15" rules="all"
+						frame="box">
+						<caption>
+							How many distance learning classes are
+							considered asynchronous?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									15. How many distance learning
+									classes are considered synchronous?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>1 - 10</td>
+								<td>300 - 500</td>
+							</tr>
+							<tr>
+								<td>11 - 100</td>
+								<td>501 - 1000</td>
+							</tr>
+							<tr>
+								<td>101 - 200</td>
+								<td>1001 or more</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 15 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 15 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q15graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						15:
+					</para>
+
+					<informaltable xml:id="distribution-q15" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Number of Classes</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>1 - 10</td>
+								<td>33</td>
+							</tr>
+							<tr>
+								<td>11 - 100</td>
+								<td>46</td>
+							</tr>
+							<tr>
+								<td>101 - 200</td>
+								<td>0</td>
+							</tr>
+							<tr>
+								<td>300 - 500</td>
+								<td>0</td>
+							</tr>
+							<tr>
+								<td>501 - 1000</td>
+								<td>12</td>
+							</tr>
+							<tr>
+								<td>1000 or more</td>
+								<td>0</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2
+					id="who-maintains-your-distance-learning software">
+					<title>
+						Who maintains your distance learning software?
+					</title>
+					<table xml:id="question16" rules="all"
+						frame="box">
+						<caption>
+							16. Who maintains your distance learning
+							software? (Select all that apply.)
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									16. Who maintains your distance
+									learning software? (Select all that
+									apply.)
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Faculty Development Center</td>
+								<td>
+									Dedicated distance learning support
+									group
+								</td>
+							</tr>
+							<tr>
+								<td>Help Desk</td>
+								<td>Third Party (ASP or Hosted)</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td />
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 16 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 16 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q16graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						16:
+					</para>
+
+					<informaltable xml:id="distribution-q16" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>Who Maintains</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Faculty Development Center</td>
+								<td>12</td>
+							</tr>
+							<tr>
+								<td>Dedicated</td>
+								<td>53</td>
+							</tr>
+							<tr>
+								<td>
+									Third Party
+									<sbr />
+									(ASP or Hosted)
+								</td>
+								<td>35</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="faculty-technical-support">
+					<title>
+						How do faculty get technical support for
+						distance learning software?
+					</title>
+					<table xml:id="question17" rules="all"
+						frame="box">
+						<caption>
+							How do faculty get technical support for
+							distance learning software?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									17. How do faculty get technical
+									support for distance learning
+									software? (Select all that apply.)
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Email</td>
+								<td>In Person</td>
+							</tr>
+							<tr>
+								<td>Telephone</td>
+								<td>Synchronous Text Chat</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td />
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 17 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 17 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q17graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						17:
+					</para>
+
+					<informaltable xml:id="distribution-q17" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>
+									How is technical
+									<sbr />
+									support provided
+								</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Email</td>
+								<td>114</td>
+							</tr>
+							<tr>
+								<td>Telephone</td>
+								<td>116</td>
+							</tr>
+							<tr>
+								<td>In Person</td>
+								<td>107</td>
+							</tr>
+							<tr>
+								<td>Synchronous Text Chat</td>
+								<td>27</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td>0</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2
+					id="faculty-technical-support-same-as-oncampus">
+					<title>
+						Is this the same group that offers general
+						technical support for faculty?
+					</title>
+					<table xml:id="question18" rules="all"
+						frame="box">
+						<caption>
+							Is this the same group that offers general
+							technical support for faculty?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									18. Is this the same group that
+									offers general technical support for
+									faculty?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Yes</td>
+								<td>No</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 18 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 18 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q18graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						18:
+					</para>
+
+					<informaltable xml:id="distribution-q18" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>
+									Is it the same as on-campus support
+								</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Yes</td>
+								<td>78</td>
+							</tr>
+							<tr>
+								<td>No</td>
+								<td>51</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="faculty-pedagogical-support">
+					<title>
+						How do faculty get pedagogical support for
+						distance learning?
+					</title>
+					<table xml:id="question19" rules="all"
+						frame="box">
+						<caption>
+							How do faculty get pedagogical support for
+							distance learning?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									19. How do faculty get pedagogical
+									support for distance learning?
+									(Select all that apply.)
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Email</td>
+								<td>In Person</td>
+							</tr>
+							<tr>
+								<td>Telephone</td>
+								<td>Synchronous Text Chat</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td />
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 19 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 19 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q19graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						19:
+					</para>
+
+					<informaltable xml:id="distribution-q19" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>
+									How is pedagogical
+									<sbr />
+									support provided
+								</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Email</td>
+								<td>89</td>
+							</tr>
+							<tr>
+								<td>Telephone</td>
+								<td>83</td>
+							</tr>
+							<tr>
+								<td>In Person</td>
+								<td>108</td>
+							</tr>
+							<tr>
+								<td>Synchronous Text Chat</td>
+								<td>18</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td>0</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2
+					id="faculty-pedagogical-support-same-as-oncampus">
+					<title>
+						Is this the same group that offers general
+						technical support for faculty?
+					</title>
+					<table xml:id="question20" rules="all"
+						frame="box">
+						<caption>
+							Is this the same group that offers general
+							technical support for faculty?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									19. How do faculty get pedagogical
+									support for distance learning?
+									(Select all that apply.)
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Yes</td>
+								<td>No</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 20 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 20 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q20graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						18:
+					</para>
+
+					<informaltable xml:id="distribution-q20" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>
+									Is it the same as on-campus support
+								</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Yes</td>
+								<td>75</td>
+							</tr>
+							<tr>
+								<td>No</td>
+								<td>50</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2 id="student-technical-support">
+					<title>
+						How do students get technical support for
+						distance learning?
+					</title>
+					<table xml:id="question21" rules="all"
+						frame="box">
+						<caption>
+							How do faculty get technical support for
+							distance learning software?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									21. How do students get technical
+									support for distance learning?
+									(Select all that apply.)
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Telephone</td>
+								<td>Chat</td>
+							</tr>
+							<tr>
+								<td>Email</td>
+								<td>In Person</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td />
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 21 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 21 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q21graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						21:
+					</para>
+
+					<informaltable xml:id="distribution-q21" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>
+									How is student
+									<sbr />
+									support provided
+								</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Email</td>
+								<td>105</td>
+							</tr>
+							<tr>
+								<td>Telephone</td>
+								<td>111</td>
+							</tr>
+							<tr>
+								<td>In Person</td>
+								<td>34</td>
+							</tr>
+							<tr>
+								<td>Synchronous Text Chat</td>
+								<td>71</td>
+							</tr>
+							<tr>
+								<td>Other (please specify)</td>
+								<td>35</td>
+							</tr>
+						</tbody>
+					</informaltable>
+				</sect2>
+				<sect2
+					id="student-technical-support-same-as-oncampus">
+					<title>
+						Is it the same as general student technical
+						support?
+					</title>
+					<table xml:id="question22" rules="all"
+						frame="box">
+						<caption>
+							Is it the same as general student technical
+							support?
+						</caption>
+						<thead>
+							<tr>
+								<td>
+									22. Is it the same as general
+									student technical support?
+								</td>
+								<td />
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Yes</td>
+								<td>No</td>
+							</tr>
+						</tbody>
+					</table>
+					<para />
+					<mediaobject>
+						<caption>
+							Graph Showing Results for Question 22 of the
+							Survey
+						</caption>
+						<alt>
+							Graph Showing Results for Question 22 of the
+							survey
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5in"
+								height="4in" format="PNG" fileref="./images/q22graph.png" />
+						</imageobject>
+						<textobject>
+							<para />
+						</textobject>
+					</mediaobject>
+					<para>
+						The the following were the responses to question
+						22:
+					</para>
+
+					<informaltable xml:id="distribution-q22" rules="all"
+						frame="box">
+						<tbody>
+							<tr>
+								<td>
+									Is it the same as on-campus support
+								</td>
+								<td>Responses</td>
+							</tr>
+							<tr>
+								<td>Yes</td>
+								<td>74</td>
+							</tr>
+							<tr>
+								<td>No</td>
+								<td>53</td>
+							</tr>
+						</tbody>
+					</informaltable>
+
+					<blockquote>
+						<para>
+							None systemic - from the professor by e-mail
+						</para>
+					</blockquote>
+					<para>
+						A surprising number of instructors find
+						themselves also having to fill the role of
+						technical support for their students. This may
+						be tied to "lone ranger" faculty who decided to
+						implement synchronous solutions on their own.
+					</para>
+					<blockquote>
+						<para>
+							... website, take Intro to Online Learning
+							course
+						</para>
+						<para>online tutorials and documentation</para>
+						<para>
+							online knowledge base and documentation
+						</para>
+					</blockquote>
+
+					<para>
+						Many responses include online resources as a
+						means to support students taking online courses.
+						It would be interesting to see what led to this
+						kind of support and what the difference would be
+						with a traditional physical help desk model
+					</para>
+				</sect2>
+			</sect1>
+		</chapter>
+	</part>
+	<part id="litreview">
+		<title>Literature Review</title>
+		<partintro>
+			<para></para>
+		</partintro>
+		<chapter id="review">
+			<title>
+				Literature Review on Distance Learning and Related
+				Technologies
+			</title>
+			<para></para>
+		</chapter>
+	</part>
+	<part id="future-directions">
+		<title>Research Projects</title>
+		<partintro>
+			<para>
+				There are areas where further questions should be asked
+				to get a better picture of what is happening out in the
+				field
+			</para>
+		</partintro>
+		<chapter id="Who-are-our-learners">
+			<title>Who are our learners?</title>
+			<para>
+				Before we really know what system to implement we need
+				to know more about our learners. It is not enough to
+				have an analysis of the student demographics but also of
+				the way they learn and the way they relate to
+				technology.
+			</para>
+			<para>
+				How do the studies in generational learning apply to our
+				students? We are dealing with several generations of
+				students and they each learn differently, how can we
+				leverage those learning styles in our Distance Education
+				programs?
+			</para>
+		</chapter>
+		<chapter id="defining-distance-learning">
+			<title>Defining Distance Learning</title>
+			<para>
+				In analyzing the responses to the survey there seems to
+				be as many definitions of Distance Learning as there are
+				institutions with Distance Learning programs. There are
+				some commonalities; for example, all programs serve
+				remote students and most, if not all, programs have a
+				mediated component be it video conference, synchronous
+				online meetings or asynchronous online discussions but
+				is there a working definition of "Distance Learning"?
+				And if there is, then is the definition the same as that
+				of "e/E-Learning"?
+			</para>
+			<para>
+				A future area of research may include searching for
+				working definitions of Distance Learning and
+				consolidating them into one coherent definition of what
+				Distance Learning is. This should help in program
+				definition and technology adoption.
+			</para>
+		</chapter>
+		<chapter id="synchronous-versus-asynchronous">
+			<title>
+				Synchronous versus Asynchronous Distance Learning
+			</title>
+			<para>
+				A large number of respondents indicated that their
+				Distance Learning program was delivered asynchronously
+				and therefore the survey did not apply to their
+				situation. While we are only interested in synchronous
+				tools for this particular survey we may want to follow
+				up with those institutions who chose an asynchronous
+				delivery model to ask these questions:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						What drove the adoption of an asynchronous
+						Distance Learning program?
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						What criteria was used in selecting asynchronous
+						versus synchronous Distance Learning delivery?
+					</para>
+				</listitem>
+				<listitem>
+					<para>How long ago was the decision made?</para>
+				</listitem>
+				<listitem>
+					<para>
+						Would the decision change with currently
+						available tools?
+					</para>
+				</listitem>
+			</itemizedlist>
+			<para />
+		</chapter>
+		<chapter id="tools-and-technologies">
+			<title>Available tools and technologies</title>
+			<para>
+				As mentioned in the rationale section of this report,
+				video and technologies applicable to Distance Learning
+				have progressed tremendously in the last few years. New
+				offerings both in the higher education and corporate
+				markets have been offered since CSU, Chico decided to
+				run what has evolved into Wimba Classroom.
+			</para>
+			<para>
+				What other tools are there that may be used to
+				complement and supplement synchronous Distance Learning
+				offerings? CSU, Chico currently uses Wimba Voice Tools
+				for some audio-only synchronous activities. What other
+				tools are available in the Market? How can we deploy
+				these tools to better support a hybrid in-class and
+				fully online model?
+			</para>
+			<para>
+				Authoring tools have also made progress in the last few
+				years. Tools like Trivantis Lectora and Wimba Create are
+				now available in the market. These tools allow for easy
+				creation of content, either directly from Microsoft Word
+				like the Wimba solution or from an intuitive interface
+				like Lectora's. If this facilitates the work of faculty
+				we should take a look at these tools and see if they can
+				be implemented on campus
+			</para>
+			<para>
+				Simulation and demonstration tools are another area that
+				is worth exploring. Tools like Adobe Captivate and
+				Techsmith's Camtasia are available for purchase or
+				licensing. They both allow users to create simulations
+				or narrated guides using a computer interface that is
+				already familiar to the user and that should facilitate
+				the learning process by providing means to engage the
+				content through different learning styles and at their
+				leisure. Furthermore, the same technology can be used to
+				provide additional activities for on-campus courses.
+			</para>
+			<para>
+				Further research should investigate how these new tools
+				interact with each other and with our Learning
+				Management System (LMS); how does the content authored
+				with these tools display and interacts with the LMS and
+				with each other.
+			</para>
+
+			<para>
+				We should investigate what tools are available for
+				synchronous Distance Learning not just because the time
+				is coming to evaluate new technologies for adoption but
+				also because we need to be able to articulate to our
+				constituents what is available to them and how we can
+				expect to interact with new technologies.
+			</para>
+
+			<table xml:id="list-of-tools" rules="all" frame="box">
+				<title>Sample of Available Tools</title>
+				<tbody>
+					<tr>
+						<td>
+							<emphasis role="strong">
+								Name of Tool
+							</emphasis>
+						</td>
+						<td>
+							<emphasis role="strong">Website</emphasis>
+						</td>
+					</tr>
+					<tr>
+						<td>Softchalk</td>
+						<td>http://www.softchalk.com</td>
+					</tr>
+					<tr>
+						<td>Lectora</td>
+						<td>http://www.trivantis.com</td>
+					</tr>
+					<tr>
+						<td>ReadyGo</td>
+						<td>http://www.readygo.com</td>
+					</tr>
+					<tr>
+						<td>Articulate</td>
+						<td>http://www.articulate.com</td>
+					</tr>
+					<tr>
+						<td>ToolBox</td>
+						<td>http://www.toolbox.com</td>
+					</tr>
+					<tr>
+						<td>Smart Builder</td>
+						<td>http://www.suddenlysmart.com</td>
+					</tr>
+					<tr>
+						<td>Adobe Captivate</td>
+						<td>
+							http://www.adobe.com/products/captivate/
+						</td>
+					</tr>
+					<tr>
+						<td>Camtasia</td>
+						<td>http://www.techsmith.com/camtasia.asp</td>
+					</tr>
+				</tbody>
+			</table>
+		</chapter>
+		<chapter id="scorm-ims-content-sharing">
+			<title>
+				Learning Objects, SCORM, IMS and content sharing
+			</title>
+			<para>
+				Research should be conducted both on the cultural change
+				needed for sharing to work across the institution and
+				the technologies and tools used to actually author and
+				share the content.
+			</para>
+			<para>
+				Learning Objects, some times called Reusable Learning
+				Objects, are small chunks of content that can be reused
+				in multiple instances and in multiple modalities. For
+				more definitions of learning objects see
+				<xref linkend="IEEE">IEEE,</xref>
+				<xref linkend="Shepherd">Shepherd</xref>
+				and
+				<xref linkend="Wiley 2000">Wiley 2000</xref>
+			</para>
+			<para>
+				<acronym>SCORM</acronym>
+				(Shareable Content Object Reference Model) is a standard
+				initially developed by the aviation industry as a way to
+				facilitate the sharing of content among different
+				vendors and in different modalities. You can build your
+				content just as a series of linked HTML pages or as
+				complex as a self-contained unit with quizzes,
+				interactivity and ongoing feedback for the learner.
+			</para>
+			<para>
+				Faculty can use all the tools listed in
+				<xref linkend="list-of-tools" />
+				can be used to to author SCORM content or the content
+				package can be created manually. We no longer have to
+				develop content multiple times but can "build once, use
+				anywhere". Furthermore you can move these SCORM packages
+				from Blackboard to Moodle or Desire2Learn making
+				system-wide collaboration possible and desirable.
+			</para>
+			<para>
+				Collaboration in terms of developing SCORM materials can
+				be as simple as developing HTML or Flash content or as
+				complex as assembling the SCORM package manually if it's
+				needed.
+			</para>
+			<para>
+				IMS Global Consortium a family of educational technology
+				specifications developed to promote the use of computers
+				in education and the interoperability of LMS and other
+				eLearning tools.
+			</para>
+			<para>3 standard that are worth mentioning are:</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						<emphasis role="strong">
+							Content Packaging:
+						</emphasis>
+						allows multiple content items to be packaged
+						together and imported into an LMS or to a CD-ROM
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">
+							Quiz and Test Interoperability (QTI):
+						</emphasis>
+						allows quizzes and surveys to be packaged and
+						shared among multiple courses across LMS
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">
+							Common Cartridge:
+						</emphasis>
+						still under development the common cartridge
+						appears to be an aggregation of multiple course
+						elements that can be ported to environments
+						other than where they were created
+					</para>
+				</listitem>
+			</itemizedlist>
+
+			<para>
+				Learning objects are not easy to develop and they
+				require a lot of planning and development time but, if
+				enough objects can be created the school should see a
+				significant reduction in cost for subsequent terms as
+				the objects no longer need to be re-created and can be
+				reused.
+			</para>
+			<sect1 id="building-scorm">
+				<title>Building IMS and SCORM content</title>
+				<para>
+					Even though we can use a variety of tools to create
+					IMS and SCORM content it still pays to know how to
+					create the manifest XML file since we are likely to
+					modify it to better suit our needs as designers and
+					technical experts
+				</para>
+				<example>
+					<title>IMS Manifest Example</title>
+					<!-- Insert example1.xml here before publishing -->
+				</example>
+				<!-- 
+					<para>
+					By changing the elements in the sample file above,
+					we can create content that is truly reusable accross
+					LMS platforms and enable to create real
+					collaboration among interested parties.
+					</para>
+				-->
+			</sect1>
+			<sect1 id="cultural-change">
+				<title>Creating a sharing culture</title>
+				<para>
+					While there are departments and institutions that
+					already use and share content across courses and
+					accross insturctors, for the most part we are still
+					on the island model. We still support individual
+					instructors
+				</para>
+<!-- 
+			<para>
+				So far instructors at CSU, Chico have developed content
+				as islands with individual faculty members developing
+				content that will only be used on their classes and no
+				one else's. This has lead to duplication of work.
+			</para>
+
+ -->			</sect1>
+		</chapter>
+		<chapter id="tool-accessibility">
+			<title>Tool Accessibility</title>
+			<subtitle>
+				Defining a standard way to test tools for accessibility
+			</subtitle>
+			<para></para>
+			<sect1 id="tool-accessibility-intro">
+				<title>Introduction</title>
+				<para>
+					While there has been an emphasis in web
+					accessibility for websites and the retrofitting of
+					existing web content there hasn't been a consistent
+					effort to test content creation tools for their
+					creation of accessible content and how accessible
+					the tools themselves are.
+				</para>
+				<para>
+					This project seeks to address these issues by
+					providing both a methodology and a selection of
+					tools to test. It also seeks to create awareness
+					regarding testing methodologies and how they can be
+					applied to evaluating technology.
+				</para>
+			</sect1>
+			<sect1 id="problem-statement">
+				<title>Problem Statement</title>
+				<para>
+					Each California State University campus usses it own
+					set of tools to develop content for their online
+					delivery. In the past it was ok to use an HTML
+					editor such as Adobe DreamWeaver to create content.
+					Now faculty want immediate results and don't care as
+					much about the underlying technology that allows to
+					create content but want the content to be created
+					with minimal effort and maximum results.
+				</para>
+				<para>
+					Students expectations have also evolved over the
+					years. Where it was OK to just convert a Word
+					Document to HTML now students want better quality on
+					their instructional materials.
+				</para>
+				<para>
+					There are several tools available to help faculty in
+					developing content both for their LMS content as
+					well as for their web-based content. A sample of the
+					tools is listed below:
+				</para>
+				<informaltable xml:id="list-of-tools-aaccessibility"
+					rules="all" frame="box">
+					<tbody>
+						<tr>
+							<td>
+								<emphasis role="strong">
+									Name of Tool
+								</emphasis>
+							</td>
+							<td>
+								<emphasis role="strong">
+									Website
+								</emphasis>
+							</td>
+						</tr>
+						<tr>
+							<td>Softchalk</td>
+							<td>http://www.softchalk.com</td>
+						</tr>
+						<tr>
+							<td>Lectora</td>
+							<td>http://www.trivantis.com</td>
+						</tr>
+						<tr>
+							<td>ReadyGo</td>
+							<td>http://www.readygo.com</td>
+						</tr>
+						<tr>
+							<td>Articulate</td>
+							<td>http://www.articulate.com</td>
+						</tr>
+						<tr>
+							<td>ToolBox</td>
+							<td>http://www.toolbox.com</td>
+						</tr>
+						<tr>
+							<td>Smart Builder</td>
+							<td>http://www.suddenlysmart.com</td>
+						</tr>
+						<tr>
+							<td>Adobe Captivate</td>
+							<td>
+								http://www.adobe.com/products/captivate/
+							</td>
+						</tr>
+						<tr>
+							<td>Camtasia</td>
+							<td>
+								http://www.techsmith.com/camtasia.asp
+							</td>
+						</tr>
+					</tbody>
+				</informaltable>
+				<para>
+					I am not aware at this time whether any studies
+					beyond the vendors' claims of compliance that
+					confirm or refute the vendors claims. This project
+					seeks to provide an initial knowledge base regarding
+					content creation tools accessibility and as a
+					springboard for Universities to select their tools
+					knowing that they are accessible
+				</para>
+			</sect1>
+			<sect1 id="accessibility-methodology">
+				<title>Methodology</title>
+				<para>
+					To avoid upsetting the balance at each other a
+					survey will be conducted to determine which, if any,
+					authoring tools are being used by each. This will
+					provide an initial list of tools to evaluate.
+				</para>
+				<para>
+					Sample content authored in Microsoft Word 2003 and
+					Microsoft Word 2007 will be input into each of the
+					tools selected. The content will then be evaluated
+					ussing standard accessibility tools.
+				</para>
+				<para>
+					In a parallel evaluation track the tools themselves
+					will be evaluated for accessibility using JAWS
+				</para>
+			</sect1>
+			<sect1 id="results">
+				<title>Results</title>
+			</sect1>
+			<sect1 id="conclusions">
+				<title>Conclusions</title>
+			</sect1>
+		</chapter>
+	</part>
+	<part id="cases">
+		<title>Case Studies</title>
+		<partintro>
+			<para>
+				The following chapters describe case studies in the use
+				of technology in higher education. They are all over the
+				place and that's intentional: Technology in higher
+				education should be varied and should challenge our
+				assumptions and make us question our vision for our
+				programs and the technologies that we use
+			</para>
+			<para>
+				The first chapter in this section describes the CSU
+				Moodle Coalition, a collaborative effort from 3 CSU
+				campuses in their Moodle efforts. It seeks to understand
+				the choices the coalition members have made in the
+				research implementation and now in their enterprise
+				characteristics of their joint system
+			</para>
+		</partintro>
+		<chapter id="moodle-case">
+			<title>The Moodle experience</title>
+			<subtitle>Looking at Open Source for an LMS</subtitle>
+			<sect1 id="moodle-intro-history">
+				<title>Introduction and Background</title>
+				<para>
+					Moodle (
+					<link xlink:href="http://www.moodle.org">
+						http://www.moodle.org
+					</link>
+					) has always been an interesting alternative in the
+					LMS competition, dominated by WebCT and Blackboard
+					until the later acquired WebCT in 2006. With recent
+					changes in the system wide procurement of LMS
+					software people are starting to look at Moodle as a
+					viable alternative to the big commercial LMS vendors
+					in an Open Source Format.
+				</para>
+				<para>
+					Three CSU campuses are the leaders in implementing
+					Moodle across the CSU: Humboldt State University,
+					San Francisco State University and California State
+					University, Monterey Bay. They have formed a
+					Coalition to better support their development effort
+					with Moodle.
+				</para>
+				<para>
+					Moodle itself has proved suprisingly popular since
+					it was first released by Martin Dougiamas, an LMS
+					administrator for an Australian University in
+					August, 2002. Moodle, as many other Open Source
+					projects, has developed a strong and healthy
+					community around the LMS; this community provides
+					for a support mechanism where the bugs are solved
+					much quicker than in a propietary solution where
+					they go through a close development process and a QA
+					process where none of the customers get to see the
+					work being done, only the results. In Moodle, the
+					bugs are reported openly and there are multiple
+					developers engaged in the process of supporting the
+					community and fixing any bugs that may appear.
+				</para>
+				<para>
+					There is also the perceived cost of Moodle versus
+					propietary software. While it is true that the
+					license itself is considerably cheaper there are
+					additional costs that are not always factored into
+					this equation. You can choose to use Moodle and any
+					Open Source software as is or "out of the box" with
+					just a minimal knowledge of PHP, SQL databases and
+					HTML and live with the limitations that the software
+					may have for your particular institutional needs. Or
+					you can choose to custmoize and enchance Moodle
+					which means that you need one or more programmers
+					who are experts in developing web applications in
+					PHP, who have knowledge of web application
+					architecture and who can dedicate significant time
+					to developing the applications and functionality
+					needed by the individual institution.
+				</para>
+				<para>
+					Either option entails risks and bennefits. In
+					exploring how the 3 universities in the consortium
+					dealt with this problems and others, we also explore
+					how these problems may be answered at out
+					institutions, either as part of the Moodle Coalition
+					or idependently.
+				</para>
+				<para>
+					Moodle has also spawned several for-profit
+					commercial groups that provide services beyond those
+					the Moodle community can offer. One of these
+					commercial support companies is Moodlerooms (
+					<link xlink:href="http://www.moodlerooms.com/">
+						http://www.moodlerooms.com/
+					</link>
+					) whose western regional office is headed by a
+					former Humboldt State University staff member.
+					According to their website, Moodlerooms offers the
+					following services to the Moodle community:
+				</para>
+				<blockquote>
+					<itemizedlist>
+						<listitem>
+							<para>
+								solutions: Moodlerooms provides a wide
+								range of hosting/bandwidth packages
+								powered by Sun Microsystems. From
+								individual users to institutions with
+								tens of thousands of users, we can
+								securely host your Moodle LMS.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								implementation/Integration Services:
+								Moodlerooms can write the customization
+								code that will tie Moodle into your
+								information infrastructure.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Instruction/Training Services:
+								Moodlerooms offers online and onsite
+								training for Moodle instructors. A blend
+								of instruction will give your
+								instructors the skills and deliverables
+								to run their own Moodle courses.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Moodle Mentor Services: Experienced
+								Moodlers guide our clients through
+								pedagogical and technical questions
+								concerning Moodle. The Moodle Mentor
+								subscription is one year of support
+								couched in a community of Moodle
+								instructors.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Customization Services: Ever dreamed of
+								a new feature? With open-source code and
+								a development team, Moodlerooms can
+								shape Moodle to better match your needs
+								and vision. (
+								<xref linkend="moodlerooms">
+									Moodlerooms
+								</xref>
+								)
+							</para>
+						</listitem>
+					</itemizedlist>
+				</blockquote>
+				<para>
+					The result of this combination of strong community
+					and knowledgeable commercial support presents a
+					challenge in the
+				</para>
+			</sect1>
+			<sect1 id="individual-histories">
+				<title>Where each school was</title>
+				<para></para>
+				<!-- 
+					Questions to ask:	
+					* How long ago did you start using Moodle? 
+					* What software did you use before?
+					* What influenced your decision to research and eventually switch to new LMS?
+					* Who was your campus' champion in the adoption process
+					
+					<sect2 id="humboldt-history">
+					<title>Humboldt State</title>
+					<para></para>
+					</sect2>
+					<sect2 id="sfsu-history">
+					<title>San Fracisco State</title>
+					<para></para>
+					</sect2>
+					<sect2 id="csumb-history">
+					<title>
+					California State University, Monterey Bay
+					</title>
+					<para></para>
+					</sect2>
+				-->
+			</sect1>
+			<sect1 id="decision-making-process">
+				<title>The Decisionmaking Process</title>
+				<para></para>
+				<!-- 
+					Questions to ask:
+					* Was moodle your only choice when transitioning from your Commercial LMS?
+					** If not what other software did you look at?
+					* Who was in the decision making group? Was this a normal group within the school's governance system?
+					* How did the group arrive to the finalist? was there a rubric?
+					* What other institutions, if any, did you communicate with during the selection process?
+					** What was their feedback?
+					
+					<sect2 id="humboldt-decision">
+					<title>Humboldt State</title>
+					<para></para>
+					</sect2>
+					<sect2 id="sfsu-decision">
+					<title>San Fracisco State</title>
+					<para></para>
+					</sect2>
+					<sect2 id="csumb-decision">
+					<title>
+					California State University, Monterey Bay
+					</title>
+					<para></para>
+					</sect2>
+				-->
+			</sect1>
+			<sect1 id="implementation">
+				<title>Implementing Moodle</title>
+				<para></para>
+				<!-- 
+					<sect2 id="humboldt-implementation">
+					<title>Humboldt State</title>
+					<para></para>
+					</sect2>
+					<sect2 id="sfsu-implementation">
+					<title>San Fracisco State</title>
+					<para></para>
+					</sect2>
+					<sect2 id="csumb-implementation">
+					<title>
+					California State University, Monterey Bay
+					</title>
+					<para></para>
+					</sect2>
+				-->
+			</sect1>
+			<sect1 id="coalition-building">
+				<title>Building the Coalition</title>
+				<para></para>
+				<!-- 
+					Questions to ask:
+					* What drove the campuses to form a coalition?
+					* What are the individual members contributing to the coalition?
+					* What accomplishments do you think best exemplify the work of the coalition?
+					* What are the benefits expected out of the coalition?
+				-->
+			</sect1>
+			<sect1 id="the-future">
+				<title>Looking forward</title>
+				<para></para>
+				<!-- 
+					Questions to ask:
+					Open depending on the answers to the other areas
+				-->
+			</sect1>
+		</chapter>
+	</part>
+	<part id="in-closing">
+		<title>Reflections and predictions</title>
+		<partintro>
+			<para>
+				The following chapters are the conclusion of the themes
+				covered earlier in this book. They address predictions
+				of where we are going with technology itself, where we
+				should be going with a Distance Learning program and
+				where should our research emphasis be.
+			</para>
+			<blockquote>
+				<para>
+					<emphasis role="strong">
+						More so than any other portion of this book,
+						these chapters are my opinion and most
+						definitely do not reflect those of CSU, Chico or
+						the CSU system.
+					</emphasis>
+				</para>
+			</blockquote>
+		</partintro>
+		<chapter id="ideal-distance-learning-program">
+			<title>
+				Vision and mission for a Distance Learning program
+			</title>
+			<subtitle>
+				What I think a Distance Learning program should be
+			</subtitle>
+			<para>
+				Based on all the research contained in the previous
+				chapters what should a Distance Learning Program look
+				like? What elements should we incorporate into this
+				program? and, more importantly, how should we prepare
+				such a program for the challenges ahead? In
+				<xref linkend="program-addie" />
+				I will provide a generic framework for analysis.
+				Afterwards I will add additional considerations that
+				don't really fit into the ADDIE model.
+			</para>
+			<para>
+				There are a few assumptions built into this model:
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						<emphasis role="strong">
+							Personel working in this project are
+							generalist with an area of emphasis or
+							interest:
+						</emphasis>
+						While it's ok for people to manifest their
+						preferences and interests, there is no reason
+						for a request not to be completed because people
+						are not familiar with policies and procedures be
+						them technical or pedagogical.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">
+							Where possible, staff are exclusively
+							assigned to the Distance Learning project:
+						</emphasis>
+						I understand that this is unrealistic and that
+						people usually take on, or are assigned, more
+						than they should. However people working on a
+						Distance Learning program should make that the
+						emphasis of their work with other considerations
+						being secondary to the Distance Learning effort
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">
+							There is a set of tools and technologies
+							that the team has agreed to support:
+						</emphasis>
+						I am the first one to admit that I get
+						distracted with the greatest and latest
+						technology. But if we're going to provide
+						program-wide support then we must agree on the
+						technologies we are going to support.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">
+							There is a committment to the success of the
+							team over individual achievements:
+						</emphasis>
+						I will never discount the importance of
+						individual success and satisfaction as long as
+						it is not at the expense of the team's success
+						and the overall mission of the Distance Learning
+						program.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						<emphasis role="strong">
+							If any changes are to be made to an existing
+							program they need to be agreed upon by the
+							entire team
+						</emphasis>
+						rather than implemented unilaterally by one
+						member of the team.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<sect1 id="program-addie">
+				<title>Systematic Program Development</title>
+				<para>
+					In order to develop a consistent Distance Learning
+					program we need a systematic framework. I have
+					chosen the ADDIE model to use as my design framework
+					for a variety of reasons: it is the design model I
+					am most familiar with; the steps in the process as
+					familiar to most designers and they provide a
+					framework that is easy to follow.
+				</para>
+				<sect2 id="addie-analysis">
+					<title>Analysis and Selection</title>
+					<para>
+						Where we are and where we need to be are the
+						first 2 questions that need to be asked. They
+						seem easy questions to ask but the answers can
+						be complicated.
+					</para>
+					<para>
+						The
+						<emphasis>where are are</emphasis>
+						question depends on who we ask. Students,
+						faculty and administrators are likely to have
+						different opinions on what the issues and
+						solutions are. In order to get a better picture
+						of what the program should really be like we
+						should merge the opinions from each of the
+						constituents groups; what may be acceptable for
+						faculty may not be acceptable for students and
+						vice versa. Perhaps qualifying the opinions of
+						each group and listing them in numerical order
+						(how many people expressed the same opinion)
+					</para>
+					<para>
+						I don't like surveying people unless it is
+						deemed the best way to obtain information but in
+						this situation a survey would be the best way to
+						collect information about opinions and attitudes
+						regarding the current program. If needed the
+						survey can be followed up with targeted
+						interviews to follow up on specific issues. This
+						would allow us to collect aggregate data from
+						our target population and only follow up with
+						interviews where the survey data generated
+						additional questions.
+					</para>
+					<para>
+						Knowing where we are today will allow us to
+						better answer the question
+						<emphasis>where we need to be.</emphasis>
+						In analzying where we are going we need to
+						consider the needs assessment from a pedagogical
+						as well as a technical perspective. It is not
+						only necessary to know what tools we should be
+						using; we also need a solid pedagogical
+						foundation as to why we will be using the tools
+						we have chosen to support in the ways we are
+						proposing to use them.
+					</para>
+					<para>
+						Those challenges that I consider most important
+						from those posed by James L. Morrison and his
+						team at the University of North Carolina, Chapel
+						Hill (
+						<xref linkend="Horizon">Horizon</xref>
+						) have been highlighted in the lists below. It
+						may be the case that these challenges are no
+						longer relevant, that's for the team to decide.
+						It does, however, raise interesting policy
+						questions for any Distance Learning program.
+						Some of the challenges and questions they posed:
+					</para>
+					<para>Instructional Challenges</para>
+					<blockquote>
+						<orderedlist>
+							<listitem>
+								<para>
+									What topics lend themselves to
+									distance education?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How can we create a community of
+									online learners?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we maximize student-teacher,
+									student-student interaction online?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we accommodate different
+									learning styles and age ranges?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we set appropriate
+									expectations for student work?
+								</para>
+							</listitem>
+						</orderedlist>
+					</blockquote>
+					<para>Management Challenges</para>
+					<blockquote>
+						<orderedlist>
+							<listitem>
+								<para>
+									What training do faculty members
+									need to be successful in online
+									teaching?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we provide equal access to
+									distance learning?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									What funding models should we adapt
+									to support distance learning course
+									development (cost-benefit analysis)?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we educate the decision
+									makers on technology support?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we ascertain the goals of
+									distance learning (efficiency, broad
+									standards, access to quality
+									education, reaching broader group of
+									learners)?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How can we support the delivery of
+									online education (e.g.,
+									registration, advising, library and
+									laboratory facilities)?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									What intellectual
+									properties/copyright issues must be
+									addressed?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we deal with the system when
+									it fails?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we address privacy issues?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we address the
+									respectability/image of distance
+									education issue?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we develop balance in
+									distance learning workloads compared
+									to traditional workloads in clinical
+									settings?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									What is the relationship of online
+									education to residential campus
+									education?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we market distance education
+									in a changing marketplace?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do faculty attitudes towards
+									distance learning impact developing
+									distance education programs?
+								</para>
+							</listitem>
+						</orderedlist>
+					</blockquote>
+					<para>Assessment Challenges</para>
+					<blockquote>
+						<orderedlist>
+							<listitem>
+								<para>
+									How do we monitor/authenticate
+									student performance in distance
+									learning?
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									How do we assess effectiveness of
+									online learning?
+								</para>
+							</listitem>
+						</orderedlist>
+					</blockquote>
+					<para>
+						We need to pay attention to what communities
+						colleges are doing. Since universities get most
+						of their students from community colleges it
+						pays to pay attention to what they are doing in
+						terms of Distance Learning. We need to prepare
+						for what our students are using before they come
+						to our school by either setting up their
+						expectations accordingly or adopting the tools
+						in use at other institutions to our processes
+						and procedures. See
+						<xref linkend="survey" />
+						for more information
+					</para>
+					<para>
+						We should also pay attention to the tools
+						available in the commercial/business sector and
+						in higher education markets other than ours and
+						our peer institutions and . One of the errors I
+						see made over and over is that we limit
+						ourselves to the tools other colleges and
+						universities are using when it is sometimes true
+						that comercial developer and large companies
+						with their own training groups have developed
+						better and easier to use tools.
+					</para>
+					<para>
+						One of the questions that is bound to be
+						controversial is the choice between an
+						empowerment and a service model.An empowerment
+						model seeks to give instructors the tools
+						necessary for them to complete their
+						work-related projects on their own with only
+						minor assistance. Service models, on the other
+						hand, seek for staff to work with faculty as the
+						primary developers of the content. The faculty
+						is the Subject Matter Expert and the facilitator
+						of the course they teach and, if they so choose,
+						can collaborate with the development of the
+						material but they are not expected to.
+					</para>
+					<para>
+						This discussion between empowerment and service
+						becomes important when we set faculty's
+						expectations and a Service Level Agreement. What
+						are we expecting the faculty members, our
+						primary customers, to do for themselves and what
+						are we ready and willing to do for them?
+					</para>
+					<para>
+						Clear expectations are your friends when you're
+						part of a project team. They clear the waters
+						and they help to clarify any sort of confusion
+						when it comes to who is supposed to do what. Use
+						the force, young project team member, use the
+						force and your SLA.
+					</para>
+					<sect3>
+						<title>
+							Desing &amp; Selection Deliverables
+						</title>
+						<para>
+							<emphasis role="strong">
+								Deliverables at this stage:
+							</emphasis>
+						</para>
+						<itemizedlist>
+							<listitem>
+								<para>
+									Analysis document containing results
+									of faculty, student and
+									administration surveys.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									List of technologies to be evaluated
+									and implemented. Preferably ranked
+									in order of importance.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									List of improvements to current
+									processes and procedures along with
+									new ideas on how to run operations
+									and support faculty.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									A rubric to use when selecting the
+									tools to be used in the program.
+									Ideally we should have one rubric
+									for each area of the program we are
+									implementing
+								</para>
+							</listitem>
+						</itemizedlist>
+					</sect3>
+				</sect2>
+				<sect2 id="addie-design-development">
+					<title>Design &amp; Development</title>
+					<mediaobject>
+						<caption>
+							Be careful what you wish for.... You may get
+							it.
+						</caption>
+						<alt>
+							Be careful what you wish for.... You may get
+							it. Dilbert cartoon
+						</alt>
+						<imageobject>
+							<imagedata align="center" width="5.5in"
+								format="GIF" fileref="./images/dilbert22444920080310.gif" />
+						</imageobject>
+						<textobject>
+							<para>
+								Be careful what you wish for.... You may
+								get it. Dilbert cartoon
+							</para>
+						</textobject>
+					</mediaobject>
+					<para>
+						Designing a program is different and more
+						challenging than developing tools but it
+						includes processes, procedures and the tools
+						that we need to implement these new programs.
+					</para>
+					<para>
+						Before we start work on designing and developing
+						strategies for working on our new system, we
+						need to, as a team, develop our mission
+						statement. What we are about, what we seek to
+						accomplish and the steps we will take to
+						accomplish these objectives. Vision goes hand in
+						hand with mission; while the mission statement
+						talks about specific objectives, the mission
+						talks about over-arching goals, what are the
+						global things that we want to accomplish with
+						the program and how will the mission, the people
+						and the technology will help us get there.
+					</para>
+					<para>
+						The first step in deciding what the program is
+						going to look like is to select the tools that
+						we will use in this program. How do the tools we
+						are looking at align with the mission statement;
+						for example: How will the tools we are selecting
+						will facilitate faculty's work on their online
+						courses? This is where the rubrics developed as
+						part of the analysis and selection process need
+						to be used by selection committee with
+						participation of all our constituents: students,
+						faculty, technical staff and administrators.
+						Under no circumstance should anything be done
+						without faculty and administration input. For an
+						example of what a tool selection process might
+						look like, see
+						<xref linkend="tool-accessibility" />
+						.
+					</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								<emphasis>
+									What happens if none of the tools we
+									propose are chosen by the committee?
+								</emphasis>
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								<emphasis>
+									What happens if the committee
+									chooses more than 1 tool in a given
+									category where the team was hoping
+									to have only 1 chosen?
+								</emphasis>
+							</para>
+						</listitem>
+					</itemizedlist>
+					<para>
+						Hopefully this won't happen but the team needs
+						to be prepared to address concerns like the ones
+						above and others that may be raised over time.
+						The team needs to establish a system were
+						constituents communicate issues and concerns
+						but, at the same time, they should establish a
+						timeline with deadlines after which elements of
+						the program are set and can no longer be
+						changed.
+					</para>
+					<para>
+						Once the tools are decided on training, support
+						and operational plans need to be designed and
+						developed. These training interventions, in
+						whatever form they take, should as close as
+						possible to be delivered to potential customers.
+						Care should be taken in developing multiple
+						modalities of training for faculty. Long gone
+						are the days where face-to-face instructor led
+						training was the only realistic way to deliver
+						training for faculty. Now it's becoming more and
+						more usual to hear faculty requesting Just In
+						Time training, consultations and tutorials to
+						get help when and how they need it.
+					</para>
+					<para>
+						Support models to be implemented need to take
+						into account the fact that programs being run
+						have users from diverse geographical areas
+						attending the same classes. The fact that there
+						is not really a set schedule for attending the
+						class present new challenges for a support team.
+					</para>
+					<para>
+						One area that has gained importance in the past
+						couple years is accessibility. With Section 508,
+						state and institutional mandates on
+						accessibility it has become essential to both
+						make old content accessible and to incorporate
+						accessibility into all instructional material.
+						How do we support accessibility from the
+						beginning rather than have to retrofit content
+						when needed? This is the time to develop an
+						initial accessibility plan and discuss it with
+						the campus accessibility and disabled student
+						support team.
+					</para>
+					<para>
+						New operational models are needed to support
+						these new technologies. How to use, run and
+						support the software the team has selected to
+						use and support. Processes need to be developed
+						in, at least, three different areas: faculty
+						support, student support and escalation to
+						vendor. Any additional areas of support should
+						be addressed at this point.
+					</para>
+					<para>
+						Encourage the team to develop multiple
+						approaches to address these issues. Multiple
+						perspectives are healthy and will encourage
+						debate regarding best practices. It may also
+						cover blind spots that may have been overlooked.
+						It should not turn into a competition regarding
+						whose approaches are better suited for a
+						particular situation, that's for the team to
+						decide. Nor should it turn into a personality
+						conflict waiting to explode.
+					</para>
+					<para>
+						Communication is critical throughout the process
+						but particularly so at the design and
+						development stages. I am not partial to
+						meetings. For the most part they are poorly run
+						and become ground for the airing personal issues
+						to the detriment of the team and the specific
+						goals the team is pursuing. That is not to say
+						that team meetings are not useful, when properly
+						run and with the proper motivation.
+						<xref linkend="Lopp 2007">Lopp (2007)</xref>
+						lists some of the good and not-so-good qualities
+						of brainstorming and design meetings:
+					</para>
+					<blockquote>
+						<itemizedlist>
+							<listitem>
+								<para>
+									Are decisions being made? Is the
+									group working well enough to make a
+									decision? Yes? Good.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Are decisions being revisited? Is
+									the group limber enough to go
+									backwards to refine a previous
+									decision? Even better.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Are decisions constantly being
+									revisited? Ok, problem here. Your
+									team has spun into creative nirvana.
+									A good time to step back and apply a
+									little structure to the process.
+									Reviewing decisions to date is a
+									good way to find structure and move
+									forward. Oh, you weren’t writing
+									down the results of brainstorm
+									meetings? Ooops. Start now.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Are basic truths about your design
+									showing up? These are the gems of
+									brainstorm. These are decisions
+									which are made that define the basic
+									design of your problem. You’ll know
+									these when they show up, stand up to
+									scrutiny, and eventually starting
+									virally wandering the hallways.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Are holy shit moments occurring?
+									Similar to the basic truth
+									discovery, but louder and
+									infrequent. "HOLY SHIT, we're
+									completely wrong." Holy shits are
+									disruptive, but are a good sign a
+									limber creative process.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Is the to do list growing or
+									shrinking? If you’re early on in the
+									design phase, it should be growing.
+									If you’re getting close to the end
+									of your design phase, it better be
+									getting smaller.... Better is the
+									enemy of done and if it’s your
+									project, you need to draw a line on
+									what topics/ideas you intend to
+									tackle and stick to it.
+								</para>
+							</listitem>
+						</itemizedlist>
+					</blockquote>
+					<para>
+						The twin qualities of a meeting are creativity
+						and accountability. It is not enough to expect
+						or demand creativity. The team needs to be
+						accountable to administration and to our
+						constituents. We have to remain flexible to deal
+						with changes and the only way to do that is by
+						having a thinking team. One that can react when
+						the situation demands, but also a team that
+						retains the capability of think a problem
+						through, either as it's happening or afterwards
+						as it is debriefed. The best way to put it is in
+						the quote below:
+					</para>
+					<blockquote>
+						<para>
+							... but Google gets two wins out of the
+							program. First, some of the projects create
+							value for the company. It’s probably one in
+							five, but that’s not the real value. Google
+							is creating a culture of thinking by
+							allowing their employees to wander about and
+							bump into shit.
+						</para>
+						<para>
+							I don’t know what you do and I don’t know
+							what you build. I am certain that if you
+							don’t demonstrate creative thinking in what
+							you build, you’re screwed because you, your
+							team, and your product will stagnate.
+							Kicking off brainstorming meetings are a
+							tricky proposition. They are poorly defined,
+							hard to run, and harder to measure. What
+							comes out of these meetings might be
+							brilliance or stupidity… the difference
+							between the two is magnificently slim. Good
+							luck. (
+							<xref linkend="Lopp 2007">Lopp 2007</xref>
+							)
+						</para>
+					</blockquote>
+					<para>
+						Once we have all our training developeed and our
+						procedures in place it is time to run a pilot.
+						This pilot should be kept small; we are
+						evaluating our training, policies, procedures
+						and support systems, not releasing the program
+						to the whole world. I'd reccomend anywhere for 5
+						to 8 faculty members teaching 1 course section
+						each at most for an initial program.
+					</para>
+					<para>
+						I include a pilot during the design and
+						development phase because it gives us time to
+						make changes without impacting our timeline too
+						much. It is the iterative nature of the program.
+						We tested something and then we make any changes
+						to the elements of the program based on the
+						results of the test. This is also different than
+						a pilot run during the implementation phase.
+						They are both testing different areas of the
+						program and should be treated accordingly
+					</para>
+					<para></para>
+					<sect3 id="design-development-deliverables">
+						<title>
+							Design &amp; Development Deliverables
+						</title>
+						<para>
+							<emphasis role="strong">
+								Deliverables at this stage:
+							</emphasis>
+						</para>
+						<itemizedlist>
+							<listitem>
+								<para>
+									Vision and mission statements for
+									the program
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Documents indicating initial
+									workflow, processes and procedures
+									to support faculty and students
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Document outlining processes,
+									procedures and workflows to escalate
+									issues to vendors
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Internal communication workflows and
+									protocols
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Basic training workshops sketched
+									and delivered at least once to a
+									pilot group
+								</para>
+							</listitem>
+						</itemizedlist>
+					</sect3>
+				</sect2>
+				<sect2 id="addie-implementation">
+					<title>Implementation</title>
+					<blockquote>
+						<para>
+							<emphasis role="strong">
+								There's never time to do it right but
+								there's always time to do it over
+							</emphasis>
+						</para>
+					</blockquote>
+					<para>
+						Once we have the blueprints created during the
+						design and development stages it is now time to
+						get busy with implementing the policies,
+						procedures and systems we need to have in place
+						for our second pilot run.
+					</para>
+					<para>
+						Training should be taking its final form by now;
+						mostly polish and changes based on feedback from
+						pilot training participants. We need to make
+						sure that training in its final form is ready to
+						go when we first start soliciting instructors
+						for our large pilot and formative evaluation.
+					</para>
+					<para>
+						As training solidifies, the policy and
+						procedures aspect should also be finalized. The
+						team should be spending time fleshing out the
+						training outlines and to begin in depth
+						conversations with any group that interacts with
+						them in any capacity to make sure that "we are
+						all in the same page." There is nothing worst
+						than having your very carefully thought out plan
+						nixed by an outside group because it involves
+						too much work from their end without a
+						significant return on investment.
+					</para>
+					<para>
+						Once we call implementation done we should be
+						looking at finished products; fully agreed upon
+						processes and procedures and line of
+						communications ready and available for two-way
+						communication with all our stake holders;
+						training in its final form (or as final as
+						training ever gets).
+					</para>
+					<sect3 id="implementation-deliverables">
+						<title>Implementation Deliverables</title>
+						<para>
+							<emphasis role="strong">
+								Deliverables at this stage:
+							</emphasis>
+						</para>
+						<itemizedlist>
+							<listitem>
+								<para>
+									Documents indicating final workflow,
+									processes and procedures to support
+									faculty and students
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Document outlining final processes,
+									procedures and workflows to escalate
+									issues to vendors
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Internal communication workflows and
+									protocols agreed upon by the team
+									and those stake holders directly
+									involved in supporting Distance
+									Learning
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Final training workshops
+									incorporating the feedback from the
+									training pilot group
+								</para>
+							</listitem>
+						</itemizedlist>
+					</sect3>
+				</sect2>
+				<sect2 id="addie-evaluation">
+					<title>Evaluation</title>
+					<mediaobject>
+						<caption>
+							The customer is always right, is he?
+						</caption>
+						<alt>The customer is always right, is he?</alt>
+						<imageobject>
+							<imagedata align="center" width="5.5in"
+								format="GIF" fileref="./images/uf006179.gif" />
+						</imageobject>
+						<textobject>
+							<para>
+								The customer is always right, is he?.
+								User Friendly web comic strip
+							</para>
+						</textobject>
+					</mediaobject>
+					<para>
+						From my perspective there is no better tool than
+						evaluation for program improvement. The feedback
+						we gather from our constitutents and
+						stakeholders is the best way to keep a pulse on
+						the team's status and overall program health.
+					</para>
+					<para>
+						I also want to emphasize the differences between
+						the formative and summative evaluations:
+						Formative evaluations test policies, procedures
+						and workflows while summative evaluation seeks
+						feedback on the program itself.
+					</para>
+					<para>
+						It is only through this combination of feedback
+						gathered periodically that we can hope to have a
+						competitive distance learning program.
+					</para>
+					<sect3 id="addie-formative-evaluation">
+						<title>Formative Evaluations</title>
+						<para>
+							I am a strong believer in continual
+							improvement and rapid prototyping
+						</para>
+						<para>
+							Continual improvement means that we're never
+							really done with a project; periodically we
+							evaluate the current status of the project
+							and make changes according to the evaluation
+							results.
+						</para>
+						<para>
+							Rapid Prototyping (
+							<xref linkend="Tripp &amp; Bichelmeyer" />
+							) proposes an iterative design where the
+							phase of design, development and
+							implementation in the ADDIE model are
+							accelerated in order for the audience to
+							provide feedback over a completed product
+							and additional iterations of a project as
+							needed to correct problems found by the
+							feedback providers.
+						</para>
+						<para>
+							The different aspects of the project need to
+							be evaluated by all constituents: faculty,
+							students and support staff. The main
+							difference between these evaluation groups
+							is how often does the team solicit their
+							feedback. Faculty and students' feedback
+							should be solicited, at least, once a
+							semester or academic term. This will allow
+							the team to provide continual improvement to
+							our customers
+						</para>
+						<para>
+							Formative evaluation from the technical and
+							support staffs should happen as often as
+							needed to maintain proper operation. I would
+							suggest weekly to start and move on to
+							bi-weekly or even montly if the traffic
+							slows down enough. It is important not to
+							stop the feedback look just becasue there
+							are no problems.
+						</para>
+					</sect3>
+					<sect3 id="addie-summative-evaluation">
+						<title>Summative Evaluations</title>
+						<para>
+							Summative evaluations tend to not to be
+							conducted as often as the formative
+							evaluations. I also call these occurrences
+							"program reviews" where project staff,
+							faculty and administration gather together
+							to evaluate the program and
+							suggest/propose/demand changes.
+						</para>
+						<para>
+							A well run program review meeting or
+							meetings (I think this process should be
+							done over time) is to modify the program as
+							needed to
+						</para>
+					</sect3>
+					<sect3 id="evaluation-deliverables">
+						<title>Evaluation Deliverables</title>
+						<para>
+							<emphasis role="strong">
+								Deliverables at this stage:
+							</emphasis>
+						</para>
+						<itemizedlist>
+							<listitem>
+								<para>
+									Formative Evaluation rubrics for
+									student, faculty
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Meeting schedule for formative
+									evaluation from technical and
+									support staff
+								</para>
+							</listitem>
+							<listitem>
+								<para></para>
+							</listitem>
+						</itemizedlist>
+					</sect3>
+				</sect2>
+			</sect1>
+			<sect1 id="further-thoughts-and-ideas">
+				<title>Further thoughts and ideas</title>
+				<para></para>
+			</sect1>
+		</chapter>
+		<chapter id="general-conclusions">
+			<title>General Conclusions</title>
+			<subtitle>
+				Where I go out on a limb to make predictions as to where
+				we are going
+			</subtitle>
+			<para>
+				I'd like to frame this randomness with something I
+				caught from Twitter:
+			</para>
+			<blockquote>
+				<para>
+					What kind of technologically mediated/enhanced tasks
+					will our students face in five years and how are we
+					preparing them (or not)?
+				</para>
+				<para>Chris Lott about 1h ago via web</para>
+			</blockquote>
+			<para></para>
+		</chapter>
+
+	</part>
+	<bibliography id="bibliography">
+		<title>Further Reading</title>
+		<para />
+		<bibliodiv>
+			<title>eLearning and Distance Learning</title>
+			<para></para>
+
+			<bibliomixed xreflabel='Brandon 2007'
+				xml:id='Brandon 2007'>
+				<bibliomset relation='book'>
+					<editor>Brandon, B. (Editor)</editor>
+					(2007)
+					<title role='book'>
+						The eLearning Guild's Handbook of eLearning
+						Strategy.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Santa Rosa, CA.
+					<publishername>The eLearning Guild.</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Brandon 2007a'
+				xml:id='brandon 2007a'>
+				<bibliomset relation='book'>
+					<editor>Brandon, B. (Editor)</editor>
+					(2007)
+					<title role='book'>
+						The eLearning Guild's Handbook of eLearning
+						Strategy.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Santa Rosa, CA.
+					<publishername>The eLearning Guild.</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Cleary 2007' xml:id='Cleary 2007'>
+				<bibliomset relation='book'>
+					<editor>Cleary, J.</editor>
+					(2007)
+					<title role='book'>
+						E-Learning 101: An Introduction to E-Learning,
+						Learning Tools and Technologies.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Sunnyvale, CA.
+					<publishername>
+						Brandon Hall Research.
+					</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Cole &amp; Robertson 2006'
+				xml:id='Cole &amp; Robertson 2006'>
+				<bibliomset relation='book'>
+					Cole, J., and B. Robertson (2006)
+					<title role='book'>
+						Using Market Segmentation to Develop a Large
+						Section, Web-enhanced Survey Course
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>Innovate</title>
+					<volumenum>2</volumenum>
+					<issuenum>(4)</issuenum>
+					. Retrieved 3/15/2008 from
+					<link xlink:href="http://snurl.com/23mvm">
+						http://snurl.com/23mvm
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Horizon' xml:id='Horizon'>
+				<bibliomset relation='book'>
+					Horizon Team
+					<title role="book">
+						Challenges in Implementing Distance Learning
+						Programs
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://horizon.unc.edu/projects/resources/44items.html">
+						http://horizon.unc.edu/projects/resources/44items.html
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>IMS, SCORM and Learning Objects</title>
+			<para></para>
+			<bibliomixed xreflabel='ADL' xml:id='ADL'>
+				<bibliomset relation='book'>
+					Advanced Distributed Learning
+					<title role="book">ADL Website</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://www.adl.org/">
+						http://www.adl.org
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='IEEE' xml:id='IEEE'>
+				<bibliomset relation='book'>
+					IEEE Learning Technology Standards Committee (LTSC)
+					<title role='book'>
+						IEEE 1484.12.1-2002, 15 July 2002, Draft
+						Standard for Learning Object Metadata
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://peek.snurl.com/23drs">
+						http://peek.snurl.com/23drs
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Nichani' xml:id='Nichani'>
+				<bibliomset relation='book'>
+					Nichani, M.
+					<title role='book'>
+						LCMS = LMS + CMS [RLOs] - How does this effect
+						the learner? The instructional designer?
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href=" http://www.elearningpost.com/articles/archives/lcms_lms_cms_rlos/">
+						http://www.elearningpost.com/articles/archives/lcms_lms_cms_rlos/
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Ostyn 2007' xml:id='Ostyn 2007'>
+				<bibliomset relation='book'>
+					Ostyn, C. (2007)
+					<title role='book'>
+						In the Eye of the SCORM: An introduction to
+						SCORM 2004 for Content Developers
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://www.ostyn.com/standards/docs/Eye_Of_The_SCORM_draft.pdf">
+						http://www.ostyn.com/standards/docs/Eye_Of_The_SCORM_draft.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='SCORM' xml:id='SCORM'>
+				<bibliomset relation='book'>
+					<title role='book'>The SCORM Blog</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://www.scormblog.com/">
+						http://www.scormblog.com/
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Shepherd' xml:id='Shepherd'>
+				<bibliomset relation='book'>
+					Shepherd, C.
+					<title role='book'>Objects of Interest</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://www.fastrak-consulting.co.uk/tactix/features/objects/objects.htm">
+						http://www.fastrak-consulting.co.uk/tactix/features/objects/objects.htm
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Wiley 1999' xml:id='Wiley 1999'>
+				<bibliomset relation='book'>
+					Wiley, D. A. (1999)
+					<title role='book'>
+						The Post-LEGO Learning Object
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://opencontent.org/docs/post-lego.pdf">
+						http://opencontent.org/docs/post-lego.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Wiley 2000' xml:id='Wiley 2000'>
+				<bibliomset relation='book'>
+					Wiley, D. A. (2000)
+					<title role="book">
+						Connecting learning objects to instructional
+						design theory: A definition, a metaphor, and a
+						taxonomy
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://reusability.org/read/chapters/wiley.doc">
+						http://reusability.org/read/chapters/wiley.doc
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Instructional Design</title>
+			<para></para>
+			<bibliomixed xreflabel='Buffington 2003'
+				xml:id='Buffington 2003'>
+				<bibliomset relation='book'>
+					Buffington, J. (2003)
+					<title role="book">
+						Learning communities as an instructional model.
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					In
+					<editor>M. Orey (Ed.)</editor>
+					<title>
+						Emerging perspectives on learning, teaching, and
+						technology
+					</title>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://projects.coe.uga.edu/epltt/index.php?title=Learning_Communities_as_an_Instructional_Model">
+						http://projects.coe.uga.edu/epltt/index.php?title=Learning_Communities_as_an_Instructional_Model
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Forehand' xml:id='forehand'>
+				<bibliomset relation='book'>
+					Forehand, M. (2005)
+					<title role="book">
+						Bloom's taxonomy: Original and revised.
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					In
+					<editor>M. Orey (Ed.)</editor>
+					<title>
+						Emerging perspectives on learning, teaching, and
+						technology
+					</title>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://projects.coe.uga.edu/epltt/index.php?title=Bloom%27s_Taxonomy">
+						http://projects.coe.uga.edu/epltt/index.php?title=Bloom%27s_Taxonomy
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Galloway' xml:id='galloway'>
+				<bibliomset relation='book'>
+					Galloway, C. M. (2001)
+					<title role="book">
+						Vygotsky's Constructionism.
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					In
+					<editor>M. Orey (Ed.)</editor>
+					<title>
+						Emerging perspectives on learning, teaching, and
+						technology
+					</title>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://projects.coe.uga.edu/epltt/index.php?title=Vygotsky%27s_constructivism">
+						http://projects.coe.uga.edu/epltt/index.php?title=Vygotsky%27s_constructivism
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Kaufman &amp; Watkins'
+				xml:id='Kaufman &amp; Watkins'>
+				<bibliomset relation='book'>
+					Kaufman, R. &amp; Watkins, R. (2000)
+					<title role="book">
+						Getting Serious About Results and Payoffs: We
+						are what we say, do, and deliver.
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://www.ispi.org/services/Glossary/Kaufman_Watkin.pdf">
+						http://www.ispi.org/services/Glossary/Kaufman_Watkin.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Tripp &amp; Bichelmeyer'
+				xml:id='Tripp &amp; Bichelmeyer'>
+				Tripp, S. D., &amp; Bichelmeyer, B. (1990).
+				<bibliomset relation='article'>
+					Rapid Prototyping: An alternative instructional
+					design strategy
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>
+						Educational Technology Research and Development
+					</title>
+					<volumenum>38</volumenum>
+					<issuenum>(1)</issuenum>
+					.
+					<artpagenums>31 - 44</artpagenums>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Waters &amp; Gibbons'
+				xml:id='Waters &amp; Gibbons'>
+				<bibliomset relation='book'>
+					Waters, S. &amp; Gibbons, A. (2004)
+					<title role="book">
+						Design Languages, Notation Systems, and
+						Instructional Technology: A Case Study
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>
+						Educational Technology Research and Development
+					</title>
+					<volumenum>52</volumenum>
+					<issuenum>(2)</issuenum>
+					.
+					<artpagenums>57 - 68</artpagenums>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Learning Management Systems</title>
+			<para></para>
+			<bibliomixed xreflabel="About Moodle"
+				xmlid="about moodle">
+				Moodle.org
+				<bibliomset relation="book">
+					<title role="book">About Moodle</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation="book">
+					Retrieved 3/20/2008 from
+					<link
+						xlink:href="http://docs.moodle.org/en/About_Moodle">
+						http://docs.moodle.org/en/About_Moodle
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Munoz &amp; VanDuzer'
+				xml:id='munoz &amp; vanduzer'>
+				Munoz, K &amp; Van Duzer, J. (2005)
+				<bibliomset relation='book'>
+					<title role="book">
+						Blackboard vs. Moodle: A Comparison of
+						Satisfaction with Online Teaching and Learning
+						Tools
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://www.humboldt.edu/~jdv1/moodle/all.htm">
+						http://www.humboldt.edu/~jdv1/moodle/all.htm
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='SFSU ETAC' xml:id='sfsu'>
+				San Francisco State University Educatonal Technology
+				Advisory Committee (2006)
+				<bibliomset relation='book'>
+					<title role="book">
+						ETAC Report: Viability of an Exclusive
+						iLearn-based LMS Environment
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link xlink:href="http://snurl.com/23drh">
+						http://snurl.com/23drh
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Moodlerooms' xml:id='moodlerooms'>
+				Moodlerooms.com
+				<bibliomset relation='book'>
+					<title role="book">What is Moodlerooms</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://www.moodlerooms.com/what-is-moodlerooms.html">
+						http://www.moodlerooms.com/what-is-moodlerooms.html
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Generational Research</title>
+			<para></para>
+			<bibliomixed xreflabel='Bedroom Study'
+				xml:id='Bedroom Study'>
+				<bibliomset relation='book'>
+					The Bedroom Study
+					<title role="book">
+						The Bedroom Study Web site
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/19/2008 from
+					<link
+						xlink:href="http://www.thebedroomstudy.com/">
+						http://www.thebedroomstudy.com/
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Reeves 2008' xml:id='reeves 2008'>
+				<bibliomset relation='book'>
+					<title role='book'>
+						Do Generational Differences Matter in
+						Instructional Design?
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://it.coe.uga.edu/itforum/Paper104/ReevesITForumJan08.pdf">
+						http://it.coe.uga.edu/itforum/Paper104/ReevesITForumJan08.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Research Methods</title>
+			<para></para>
+			<bibliomixed xreflabel='Randolph 2007'
+				xml:id='Randolph 2007'>
+				<bibliomset relation='book'>
+					Randolph, J. J. (2007).
+					<title role='book'>
+						Multidisciplinary methods in educational
+						technology research and development
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://snurl.com/237qt">
+						http://snurl.com/237qt
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Watkins &amp; Schlosser (2003)'
+				xml:id='Watkins &amp; Schlosser (2003)'>
+				Watkins R. &amp; Schlosser, C. (2003).
+				<bibliomset relation='article'>
+					<title>
+						Conceptualizing Educational Research in Distance
+						Educations
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>
+						The Quarterly Review of Distance Education
+					</title>
+					<volumenum>4</volumenum>
+					<issuenum>(3)</issuenum>
+					.
+					<artpagenums>331 - 341</artpagenums>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Multimedia, Web 2.0 and Related Technologies</title>
+			<para></para>
+			<bibliomixed xreflabel='NMC &amp; Educause 2008'
+				xml:id='NMC &amp; Educause 2008'>
+				<bibliomset relation='book'>
+					New Media Consortium &amp; Educause Learning
+					Initiative
+					<title role='book'>
+						The Horizon Report: 2008 Edition
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://www.nmc.org/pdf/2008-Horizon-Report.pdf">
+						http://www.nmc.org/pdf/2008-Horizon-Report.pdf
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Mader 2006' xml:id='Mader 2006'>
+				<bibliomset relation='book'>
+					Mader, S (Editor) (2006).
+					<title role='book'>Using Wiki in Education.</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://www.wikiineducation.com">
+						http://www.wikiineducation.com
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Riismandel 2008'
+				xml:id='Riismandel 2008'>
+				<bibliomset relation='book'>
+					Riismandel, P (2008)
+					<title role='book'>
+						How to manage video content in higher education.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Streaming Media Magazine Industry Sourcebook 2008
+					<pagenums>pp. 160 - 165</pagenums>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Silver 2008' xml:id='Silver 2008'>
+				<bibliomset relation='book'>
+					Silver, D. (2008)
+					<title role='book'>
+						History, Hype, and Hope: An Afterward
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					<title>First Monday</title>
+					<volumenum>13</volumenum>
+					<issuenum>(3)</issuenum>
+					. Retrieved 3/15/2008 from
+					<link
+						xlink:href="http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2143/1950">
+						http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/viewArticle/2143/1950
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Sun 2008' xml:id='Sun 2008'>
+				<bibliomset relation='book'>
+					Sun Services (2008)
+					<title role='book'>
+						Current Reality And Future Vistion: Open Virtual
+						Worlds
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 3/15/2008 from
+					<link xlink:href="http://snurl.com/23dn5">
+						http://snurl.com/23dn5
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Stevenson 2007'
+				xml:id='Stevenson 2007'>
+				<bibliomset relation='book'>
+					Stevenson (2007)
+					<title role='book'>
+						Tool, tutor, environment or resource: Exploring
+						metaphors for digital technology and pedagogy
+						using activity theory
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Computers &amp; Education.
+					doi:10.1016/j.compedu.2007.09.001
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+		<bibliodiv>
+			<title>Managing Technology And Change</title>
+			<para></para>
+			<bibliomixed xreflabel='Berkum 2005' xml:id='Berkum'>
+				<bibliomset relation='book'>
+					Berkum, S. (2005)
+					<title role='book'>
+						The art of project management
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Sebastopol, CA.
+					<publishername>
+						O'Reilly and Associates
+					</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Lopp 2007' xml:id='Lopp 2007'>
+				<bibliomset relation='book'>
+					Lopp, M (2007)
+					<title role='book'>
+						Managing Humans: Biting and humorous takes of a
+						software engineering manager.
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Berkeley, CA.
+					<publishername>Apress.</publishername>
+					Most (if not all) chapters can also be found online
+					at:
+					<link xlink:href="http://www.randsinrepose.com/">
+						http://www.randsinrepose.com/
+					</link>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='PMI 2004' xml:id='PMI 2004'>
+				<bibliomset relation='book'>
+					Project Management Institute (2004)
+					<title role='book'>
+						A Guide To The Project Management Body Of
+						Knowledge (PMBOK Guide) Third Edition
+					</title>
+				</bibliomset>
+				<bibliomset relation='book'>
+					Newton Square, PA.
+					<publishername>
+						Project Management Institute
+					</publishername>
+				</bibliomset>
+			</bibliomixed>
+			<bibliomixed xreflabel='Webster' xml:id='Webster'>
+				<bibliomset relation='book'>
+					Webster, B. F.
+					<title role='book'>
+						The Art of 'Ware [version 2.0]
+					</title>
+					[Online]
+				</bibliomset>
+				<bibliomset relation='book'>
+					Retrieved 4/15/2008 from:
+					<link
+						xlink:href="http://and-still-i-persist.com/?page_id=236">
+						http://and-still-i-persist.com/?page_id=236
+					</link>
+				</bibliomset>
+			</bibliomixed>
+		</bibliodiv>
+	</bibliography>
+	<glossary id="glossary-of-terms">
+		<title>Glossary</title>
+
+		<para>
+			The following list provides brief definitions of the terms
+			used throughout this document
+		</para>
+		<glossentry xml:id="addie">
+			<glossterm>ADDIE</glossterm>
+			<glossdef>
+				<para>
+					Instructional design model consisting of five steps:
+					Analysis, Design, Development, Impmentation and
+					Evaluation.
+				</para>
+				<para>
+					ADDIE is a Instructional design method, more
+					particularly a Instructional systems design model.
+					<emphasis>
+						Source:
+						<link
+							xlink:href="http://edutechwiki.unige.ch/en/ADDIE">
+							http://edutechwiki.unige.ch/en/ADDIE
+						</link>
+					</emphasis>
+				</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="xml">
+			<glossterm>eXtensible Markup Language</glossterm>
+			<acronym>XML</acronym>
+			<glossdef>
+				<para>
+					A markup language developed by the World Wide Web
+					Consortium as a complement or replacement for HTML.
+					XML is widely used in the bussines world as an
+					information exchange format. In the education work
+					it has primarily been used for description of
+					information in SCORM and IMS specifications.
+				</para>
+				<glossseealso otherterm="xml">XML</glossseealso>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="ims">
+			<glossterm>IMS</glossterm>
+			<glossdef>
+				<para>
+					In 1997, IMS came into existence as a project within
+					the National Learning Infrastructure Initiative of
+					EDUCAUSE. While IMS got its start with a focus on
+					higher education, the specifications published to
+					date as well as ongoing projects address
+					requirements in a wide range of learning contexts,
+					including of course K-12 schools and corporate and
+					government training.
+				</para>
+				<para>
+					The scope for IMS specifications, broadly defined as
+					"distributed learning," includes both online and
+					off-line settings, taking place synchronously
+					(real-time) or asynchronously. This means that the
+					learning contexts benefitting from IMS
+					specifications include Internet-specific
+					environments (such as web-based course management
+					systems) as well as learning situations that involve
+					off-line electronic resources (such as a learner
+					accessing learning resources on a CD-ROM). The
+					learners may be in a traditional educational
+					environment (school classroom, university), in a
+					corporate or government training setting, or at
+					home. For example, the IMS Learning Resources
+					Meta-data Specification (
+					<link
+						xlink:href="http://www.imsglobal.org/metadata">
+						http://www.imsglobal.org/metadata
+					</link>
+					), benefits the learner looking for information with
+					a meta-data aware search tool both when the search
+					is of web-based resources and when she or he is
+					searching through a CD-ROM or DVD-ROM encyclopedia
+					in their computer at home. Content developers who
+					have implemented the IMS Learning Resources
+					Meta-data Specification will have made it much
+					easier for the people doing the search to find the
+					resources they want in a much more efficient way,
+					since meta-data allows users to be much more
+					specific in the search terms they can specify.
+				</para>
+				<para>
+					<emphasis>Source: IMS/GLC Website</emphasis>
+				</para>
+			</glossdef>
+			<glosssee otherterm="ims-consortium" />
+		</glossentry>
+		<glossentry xml:id="ims-consortium">
+			<glossterm>IMS Global Learning Consortium</glossterm>
+			<glossdef>
+				<para>
+					IMS GLC is a global, nonprofit, member association
+					that provides leadership in shaping and growing the
+					learning and educational technology industries
+					through collaborative support of standards,
+					innovation, best practice and recognition of
+					superior learning impact.
+				</para>
+				<para>
+					IMS GLC represents more than 100 Contributing
+					Members, Subscriber organizations and Common
+					Cartridge Alliance participants. These participant
+					organizations come from every sector of the global
+					learning community. They include hardware and
+					software vendors, educational institutions,
+					publishers, government agencies, systems
+					integrators, multimedia content providers, and other
+					consortia. IMS provides a neutral forum in which
+					members work together to advocate the use of
+					technology to support and transform education and
+					learning.
+				</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="JIT Training">
+			<glossterm>Just In Time Training</glossterm>
+			<acronym>JIT</acronym>
+			<glossdef>
+				<para>
+					Training that is delivered as needed to the
+					participant rather than scheduled in advance. Just
+					In Time Training is primarily used in Performance
+					Improvement to correct a problem that needs specific
+					instruction for its resoilution
+				</para>
+				<para>
+					Producing or conveying only the items that are
+					needed by the next process when they are needed and
+					in the quantity needed. Can even be used between
+					facilities or companies.
+					<emphasis>Source: Lean Advisors</emphasis>
+				</para>
+			</glossdef>
+		</glossentry>
+
+		<glossentry xml:id="lms">
+			<glossterm>Learning Management System</glossterm>
+			<acronym>LMS</acronym>
+			<glossdef>
+				<para>Some reasonable definition here.</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="moodle">
+			<glossterm>Moodle</glossterm>
+			<glossdef>
+				<para>
+					Moodle is a course management system (CMS) - a free,
+					Open Source software package designed using sound
+					pedagogical principles, to help educators create
+					effective online learning communities. You can
+					download and use it on any computer you have handy
+					(including webhosts), yet it can scale from a
+					single-teacher site to a 50,000-student University.
+					<emphasis>
+						Source:
+						<link
+							xlink:href="http://mercury.unitedseminary.edu/mod/glossary/view.php?g=2">
+							http://mercury.unitedseminary.edu/mod/glossary/view.php?g=2
+						</link>
+					</emphasis>
+				</para>
+				<glossseealso otherterm="lms">LMS</glossseealso>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="OS">
+			<glossterm>Open Source</glossterm>
+			<glossdef>
+				<para>Some reasonable definition here.</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="OSD">
+			<glossterm>Open Source Definition</glossterm>
+			<glossdef>
+				<para>Some reasonable definition here.</para>
+			</glossdef>
+		</glossentry>
+		<glossentry xml:id="scorm">
+			<glossterm>Shareable Conntent Reference Model</glossterm>
+			<acronym>SCORM</acronym>
+			<glossdef>
+				<para>Some reasonable definition here.</para>
+			</glossdef>
+		</glossentry>
+		<glossentry>
+			<glossterm>XML</glossterm>
+			<glosssee otherterm="xml" />
+		</glossentry>
+	</glossary>
+	<appendix id="survey-instrument">
+		<title>Survey Instrument</title>
+		<para />
+	</appendix>
+</book>

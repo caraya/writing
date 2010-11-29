@@ -1,0 +1,2310 @@
+<article xmlns='http://docbook.org/ns/docbook'
+	xmlns:xlink='http://www.w3.org/1999/xlink'
+	xmlns:xi='http://www.w3.org/2001/XInclude'>
+	<info>
+		<title>Who is doing what and where?</title>
+		<subtitle>
+			Distance Learning Survey Report and Initial Analysis
+		</subtitle>
+		<author>
+			<personname>
+				<firstname>Carlos</firstname>
+				<surname>Araya</surname>
+				<othername role='mi'>E.</othername>
+			</personname>
+			<affiliation>
+				<jobtitle>Information Technology Consultant</jobtitle>
+				<orgname>California State University, Chico</orgname>
+				<orgdiv>Academic Technologies</orgdiv>
+			</affiliation>
+		</author>
+<!-- 
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>2008-02-17</date>
+				<authorinitials>cal</authorinitials>
+				<revremark>
+					Initial version. Skeleton built in without data
+				</revremark>
+			</revision>
+			<revision>
+				<revnumber>2</revnumber>
+				<date>2008-03-17</date>
+				<authorinitials>cal</authorinitials>
+				<revremark>Initial version for review</revremark>
+			</revision>
+			<revision>
+				<revnumber>3</revnumber>
+				<date>2008-03-19</date>
+				<authorinitials>cal</authorinitials>
+				<revremark>
+					Feedback from Jan incorporated into survey.
+					Additional elements added
+				</revremark>
+			</revision>
+		</revhistory>
+ --> 
+ 	</info>
+	
+	<sect1 id="intro">
+		<title>Introduction and Rationale</title>
+		<para>
+			No one wants to work in a vacuum. CSU, Chico has used the
+			same basic technology setup to deliver synchronous online
+			instruction since 2000 when the satellite program was
+			transitioned to an online format. In the mean time
+			technology has progressed at an accelerated rate... where in
+			2000 there were a few vendors now there are several. Tools
+			have been developed to both support and augment the
+			synchronous tools used.
+		</para>
+		<para>
+			The survey grew up of a need to evaluate what other schools
+			are doing in terms of synchronous distance learning tools
+			and how these tools are being supported by the campuses.
+			Whatever the reasons for having skipped a technological
+			generation are; now CSU, Chico needs to play catch up. The
+			information gathered in this survey will inform later steps
+			and stages in our new Distance Learning tools selection
+			process, support models and procedures and, eventually, lead
+			to a model that will take CSU, Chico to a leadership
+			position in Distance Learning.
+		</para>
+		<sect2 id="survey-thanks">
+			<title>Acknowledgements</title>
+			<para>
+				Even though there is one name in this report there are
+				several people who have helped tremendously in the
+				development of the content and ideas on this survey
+			</para>
+			<para>
+				The people who work with me in DLT Classroom Support:
+				Buzz, Stephen, Gene and the student assistant. You make
+				it fun and challenging and intellectually stimulating to
+				work in the support team.
+			</para>
+			<para>
+				To tbe Wimba Support Team: Laura, Scott, Ann, Jan.
+				Thanks for the feedback and for the intellectually
+				stimulating conversations.
+			</para>
+			<para>
+				Edits and additional items were added to this report
+				during the Collaboration 2008 Conference in Salt Lake
+				City, Utah. It has been a very intellectually
+				stimulating environment with people who are brilliant at
+				what they do
+			</para>
+		</sect2>
+	</sect1>
+
+	<sect1 id="methodology">
+		<title>Methodology and Survey Development</title>
+		<para>
+			When developing the methodology it was decided that a survey
+			was the best tool to conduct this project. Because surveys
+			are static instruments it was also decided to request
+			contact information for potential follow up questions. The
+			survey will certainly generate more questions than the data
+			can answer. It has been made clear from the beginning to
+			participants that, while their personally identifying
+			information would be kept confidential, the researcher will
+			contact those institutions whose information has generated
+			new research questions.
+		</para>
+
+		<para>The survey was broken into 4 distinct areas:</para>
+
+		<orderedlist>
+			<listitem>
+				<para>
+					Informed Consent as required by the University's
+					Human Subject Review Committee
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Demographics about the respondent and their
+					institution
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Demographics about the respondent institution's
+					Synchronous and Asynchronous courses, LMS
+					Integration and the way in which the software used
+					for Distance Learning was selected
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Specific information about the respondent's
+					Synchronous Distance Learning Software and its
+					support model for both faculty and students
+				</para>
+			</listitem>
+		</orderedlist>
+
+		<para>
+			Once the author had an initial version of the survey it was
+			reviewed by several members of Academic Technologies and
+			after several meetings the final version of the survey was
+			completed and submitted to Human Subjects for review and
+			approval. See
+			<xref linkend="Lessons" />
+			for some of the lessons learned in the development and
+			administration of the survey instrument.
+		</para>
+
+		<para>
+			When the survey instrument was developed then the team had
+			to decide how to deliver the instrument. The author briefly
+			considered creating a PDF and sending it via email to
+			potential respondents allowing them to self-select for
+			completion of the survey. This was deemed impractical due to
+			the number of responses expected. The Center for Excellence
+			in Teaching and Learning (CELT) owns a license for Survey
+			Monkey (
+			<link xlink:href="http://www.surveymonkey.com" />
+			). Since the technology is available and it makes the
+			collection of data more manageable it was decided to use
+			Survey Monkey to administer the survey and collect the
+			results.
+		</para>
+
+		<para>
+			The survey was originally sent to 5 lists with 2 additional
+			groups (Community College Users and Community College
+			Distance Learning Coordinators) being added later when the
+			survey was forwarded to community college users and Distance
+			Learning Coordinators. These additional groups of respondent
+			explain the high percentage of respondents from Community
+			Colleges.
+		</para>
+
+		<para>
+			The survey was sent originally to the following lists:
+		</para>
+
+		<orderedlist>
+			<listitem>
+				<para>
+					<link xlink:href="http://it.coe.uga.edu/itforum/">
+						IT Forum:
+					</link>
+					A list for instructional designers and people who
+					work developing instruction, both in education and
+					corporate settings.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<link xlink:href="http://cats.cdl.edu/">
+						Community of Academic Technology Staff:
+					</link>
+					A community for people who work in academic
+					technologies, initially across the California State
+					University System and now open for membership
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<link xlink:href="http://www.nmc.org/">
+						New Media Center Technology Advisory Board
+						(TAB):
+					</link>
+					Members-Only list for knowledge sharing among the
+					members of the New Media Center Consortium
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<link xlink:href="http://www.educause.edu">
+						Educause:
+					</link>
+					General Member list for Educause
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					<link xlink:href="http://lcin.wordpress.com/">
+						LCIN Steering Committee:
+					</link>
+					<acronym>LCIN</acronym>
+					(Leading Campuses International Network) is a group
+					of former WebCT Institute program members who have
+					regrouped under the name LCIN for the purpose of
+					"Advancing effective use of course technologies by
+					connecting people with good ideas…" (taken from LCIN
+					website)
+				</para>
+			</listitem>
+		</orderedlist>
+
+		<para>
+			The variety of groups the survey was sent to was deliberate.
+			The team wanted to ensure responses that were as varied as
+			possible. As mentioned above, when the chance was offered to
+			have the survey forwarded to Community College users it was
+			deemed a good opportunity to expand the base of respondents
+			and to gather information towards future research.
+		</para>
+
+		<sect2 id="future" xml:id="Lessons">
+			<title>Lessons Learned</title>
+			<para>
+				No matter how careful you are in developing a survey
+				there are always things that could have been done
+				different to improve the survey's overall response rate.
+			</para>
+			<para>Some of the specific issues include:</para>
+
+			<sect3 id="clarification">
+				<title>
+					Clarification about the voluntary nature of the
+					survey
+				</title>
+				<para>
+					For some of the respondents from the community
+					colleges in particular there was a perception that
+					they were required to complete the survey whether it
+					applied to them or not. Some of the feedback seems
+					to indicate that they were required to complete the
+					survey regardless of what the informed consent
+					statement indicates.
+				</para>
+				<para>
+					This may have had to do with the fact that for this
+					particular group the survey originated from the
+					Community College's Chancellors office and not
+					directly from the authors of the survey and
+					therefore carried a more authoritative message to
+					those who received it
+				</para>
+				<para>
+					Future surveys should clearly indicate and request
+					people who forward the survey indicate that
+					participation in the survey is strictly voluntary.
+				</para>
+			</sect3>
+			<sect3 id="clarity">
+				<title>
+					Survey Clarity and Specific Language in Instructions
+				</title>
+				<para>
+					As clear as we thought we had made the survey there
+					was still a lot of confusion as to who the target
+					audience was and who should answer the survey. Some
+					people passed it over to their Distance Learning
+					coordinators and others completed the survey as best
+					as they could.
+				</para>
+				<para>
+					Even among the Community College's Distance Learning
+					Coordinators there was confusion as to what
+					information the survey sought to gather. There was
+					an email where a Distance Learning Coordinator who
+					indicated that the answers just provided were of no
+					use as survey material because the coordinator had
+					not realized that were were requesting information
+					about synchronous Distance Learning and his program
+					was fully asynchronous. While not a generalized
+					comment it calls into question the clarity of the
+					instructions provided with the survey.
+				</para>
+				<para>
+					Our expectation when developing the survey was that
+					people who received it but were not able to answer
+					it would pass it along to whoever they thought would
+					be able to complete it for their institution. This
+					was not the case which probably accounts for the
+					number of faculty who completed the survey. See
+					<xref linkend="user-distribution" />
+					for respondents' role within their institutions.
+				</para>
+
+			</sect3>
+
+			<sect3 id="wording">
+				<title>Question Wording and Stating Quantities</title>
+				<para>
+					In addition to the question about the clarity of the
+					instructions there was some feedback regarding the
+					wording of some of the questions, in particular
+					those that requested distinction between synchronous
+					and asynchronous Distance Learning courses.
+				</para>
+				<para>
+					Where we ask number of courses that are synchronous
+					and asynchronous Distance Learning courses it may
+					have been better to use percentages rather than
+					number of courses to eliminate part of the confusion
+					created by the wording of the questions.
+				</para>
+				<para>
+					We also assumed a level of understanding from our
+					audience in terms of what the objectives of the
+					survey were. There was a lot of confusion and it was
+					clear in comments and direct feedback that this was
+					not always the case
+				</para>
+			</sect3>
+		</sect2>
+	</sect1>
+
+	<sect1 id="analysis">
+		<title>Analysis</title>
+		<para>
+			The following pages present a question by question analysis
+			of the survey, along with preliminary observations and
+			comments about each individual question, along with
+			responses marked as "other" that are interesting and that
+			may merit additional research or analysis.
+		</para>
+
+		<para>
+			<emphasis role="strong">
+				There was a total of 250 responses with a 52% completion
+				rate of 130 complete responses.
+			</emphasis>
+		</para>
+		<sect2 id="respondents-institution">
+			<title>Respondent's institution</title>
+			<table xml:id="question1" rules="all" frame="box">
+				<caption>Respondent's Institution</caption>
+				<thead>
+					<tr>
+						<td>1. Which best defines your institution?</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Community College</td>
+					</tr>
+					<tr>
+						<td>State College/University</td>
+					</tr>
+					<tr>
+						<td>Research University</td>
+					</tr>
+					<tr>
+						<td>Trade School</td>
+					</tr>
+					<tr>
+						<td>Online University</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+					</tr>
+				</tbody>
+			</table>
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 1 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 1 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q1graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 1:
+			</para>
+
+			<informaltable xml:id="distribution-q1" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>
+							<emphasis role="strong" />
+						</td>
+						<td>
+							<emphasis role="strong">Responses</emphasis>
+						</td>
+					</tr>
+					<tr>
+						<td>Community College</td>
+						<td>100</td>
+					</tr>
+					<tr>
+						<td>State College/University</td>
+						<td>60</td>
+					</tr>
+					<tr>
+						<td>Research University</td>
+						<td>44</td>
+					</tr>
+					<tr>
+						<td>Trade School</td>
+						<td>3</td>
+					</tr>
+					<tr>
+						<td>Online University</td>
+						<td>3</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td>28</td>
+					</tr>
+				</tbody>
+			</informaltable>
+
+		</sect2>
+
+		<sect2 id="respondents-" xml:id="user-distribution">
+			<title>Respondent's within institution</title>
+			<table xml:id="question2" rules="all" frame="box">
+				<caption>
+					Defining User's Role within their institution
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							2. Which best defines your at your
+							institution?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Administrator</td>
+					</tr>
+					<tr>
+						<td>Director</td>
+					</tr>
+					<tr>
+						<td>Manager</td>
+					</tr>
+					<tr>
+						<td>Supervisor</td>
+					</tr>
+					<tr>
+						<td>Technology Staff</td>
+					</tr>
+					<tr>
+						<td>Faculty</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 2 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 2 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q2graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 2:
+			</para>
+
+			<informaltable xml:id="distribution-q2" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>
+							<emphasis role="strong" />
+						</td>
+						<td>
+							<emphasis role="strong">Responses</emphasis>
+						</td>
+					</tr>
+					<tr>
+						<td>Administrator</td>
+						<td>35</td>
+					</tr>
+					<tr>
+						<td>Director</td>
+						<td>43</td>
+					</tr>
+					<tr>
+						<td>Manager</td>
+						<td>17</td>
+					</tr>
+					<tr>
+						<td>Supervisor</td>
+						<td>8</td>
+					</tr>
+					<tr>
+						<td>Technology Staff</td>
+						<td>33</td>
+					</tr>
+					<tr>
+						<td>Faculty</td>
+						<td>68</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td>34</td>
+					</tr>
+				</tbody>
+			</informaltable>
+
+		</sect2>
+		<sect2 id="contact-request">
+			<title>Contact request</title>
+			<table xml:id="question3" rules="all" frame="box">
+				<caption>Contact request</caption>
+				<thead>
+					<tr>
+						<td>
+							3. Is it OK if we contact you with
+							additional questions?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Yes</td>
+					</tr>
+					<tr>
+						<td>No</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 3 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 3 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q3graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 3:
+			</para>
+
+			<informaltable xml:id="distribution-q3" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Responser</td>
+						<td>Yes</td>
+						<td>No</td>
+					</tr>
+					<tr>
+						<td>Responses</td>
+						<td>162</td>
+						<td>88</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+
+		<sect2 id="contact-info">
+			<title>Contact Information</title>
+			<table xml:id="question4" rules="all" frame="box">
+				<caption>Contact Information</caption>
+				<thead>
+					<tr>
+						<td>
+							4. If you answered "yes" to the question
+							above, please complete the information
+							below.
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Respondent's Name</td>
+					</tr>
+					<tr>
+						<td>Institution Name</td>
+					</tr>
+					<tr>
+						<td>Email</td>
+					</tr>
+					<tr>
+						<td>Phone</td>
+					</tr>
+				</tbody>
+			</table>
+			<para>
+				The responses for this question are confidential
+				information and therefore not shared as part of this
+				report.
+			</para>
+		</sect2>
+		<sect2 id="total-ftes">
+			<title>Total FTEs for current term</title>
+			<table xml:id="question5" rules="all" frame="box">
+				<caption>Current FTEs for current term</caption>
+				<thead>
+					<tr>
+						<td>
+							5. What is your FTE for all classes offered
+							in the current term?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1 - 1000</td>
+						<td>15000 - 20000</td>
+					</tr>
+					<tr>
+						<td>1000 - 5000</td>
+						<td>20000 - 30000</td>
+					</tr>
+					<tr>
+						<td>5000 - 10000</td>
+						<td>30000 - 50000</td>
+					</tr>
+					<tr>
+						<td>10000 - 15000</td>
+						<td>50000 or more</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 5 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 5 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q5graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 5:
+			</para>
+
+			<informaltable xml:id="distribution-q5" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Total FTEs</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>1 - 1000</td>
+						<td>34</td>
+					</tr>
+					<tr>
+						<td>1000 - 5000</td>
+						<td>18</td>
+					</tr>
+					<tr>
+						<td>5000 - 10000</td>
+						<td>29</td>
+					</tr>
+					<tr>
+						<td>10000 - 15000</td>
+						<td>20</td>
+					</tr>
+					<tr>
+						<td>15000 - 20000</td>
+						<td>17</td>
+					</tr>
+					<tr>
+						<td>20000 - 30000</td>
+						<td>10</td>
+					</tr>
+					<tr>
+						<td>30000 - 50000</td>
+						<td>6</td>
+					</tr>
+					<tr>
+						<td>50000 or more</td>
+						<td>3</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="students-enrolled-in-dl">
+			<title>
+				Students Enrolled in Distance Learning program
+			</title>
+			<table xml:id="question6" rules="all" frame="box">
+				<caption>
+					Students Enrolled In Distance Learning program
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							6. How many students are enrolled in your
+							distance learning program?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1 - 100</td>
+						<td>2000 - 5000</td>
+					</tr>
+					<tr>
+						<td>101 - 500</td>
+						<td>5000 - 10000</td>
+					</tr>
+					<tr>
+						<td>501 - 1000</td>
+						<td>10001 or more</td>
+					</tr>
+					<tr>
+						<td>1001 - 2000</td>
+						<td />
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 6 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 6 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q6graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 6:
+			</para>
+
+			<informaltable xml:id="distribution-q6" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Students Enrolled</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>1 - 100</td>
+						<td>23</td>
+					</tr>
+					<tr>
+						<td>101 - 500</td>
+						<td>25</td>
+					</tr>
+					<tr>
+						<td>501 - 1000</td>
+						<td>15</td>
+					</tr>
+					<tr>
+						<td>1001 - 2000</td>
+						<td>16</td>
+					</tr>
+					<tr>
+						<td>2000 - 5000</td>
+						<td>33</td>
+					</tr>
+					<tr>
+						<td>5000 - 10000</td>
+						<td>15</td>
+					</tr>
+					<tr>
+						<td>10001 or more</td>
+						<td>10</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="system-used-to-deliver">
+			<title>
+				Systems used to deliver synchronous Distance Learning
+			</title>
+			<table xml:id="question7" rules="all" frame="box">
+				<caption>
+					Systems used to deliver synchronous Distance
+					Learning
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							7. What system(s) do you use for delivering
+							synchronous distance learning instruction?
+							(Select all that apply.)
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>
+							Acrobat Connect Professional
+							<sbr />
+							(formerly Macromedia Breeze)
+						</td>
+						<td>Wimba Live Classroom</td>
+					</tr>
+					<tr>
+						<td>Elluminate Live</td>
+						<td>Centra</td>
+					</tr>
+					<tr>
+						<td>Webex</td>
+						<td />
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 7 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 7 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q7graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 7:
+			</para>
+
+			<informaltable xml:id="distribution-q7" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Software Used</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>
+							Acrobat Connect Professional
+							<sbr />
+							(formerly Macromedia Breeze)
+						</td>
+						<td>25</td>
+					</tr>
+					<tr>
+						<td>Elluminate Live</td>
+						<td>40</td>
+					</tr>
+					<tr>
+						<td>WebEx</td>
+						<td>5</td>
+					</tr>
+					<tr>
+						<td>Wimba Live Classroom</td>
+						<td>19</td>
+					</tr>
+					<tr>
+						<td>Centra</td>
+						<td>2</td>
+					</tr>
+					<tr>
+						<td>Other</td>
+						<td>74</td>
+					</tr>
+				</tbody>
+			</informaltable>
+			<para>
+				The variety of answers grouped under the "other"
+				category prohibits listing them all therefore some
+				salient points will be discussed.
+			</para>
+
+			<blockquote>
+				<para>Custom Flash Media Server applications</para>
+			</blockquote>
+
+			<para>
+				Either as a standalone application or as part of
+				Accrobat connect Professional, flash is a very flexible
+				delivery platform. In addition to the modules or "pods"
+				there is the flexibility of building local "pods" to
+				acomodate local needs and locally required elements.
+			</para>
+
+			<blockquote>
+				<para>
+					WebCT, some Windows Media streaming, correspondence,
+					and telecourses (correspondence plus videotape). We
+					DO NOT design courses for synhronous delivery. It
+					prohibits participation by many students, and
+					doesn't work well across time zones. We have
+					students all over the world and that makes
+					synchrnous media a no-go.
+				</para>
+			</blockquote>
+
+			<para>
+				World-wide access is becoming more and more of an issue.
+				With online access not being geographically restricted
+				neither are the options to take online courses. Schools
+				like Chico have a set schedule where the students have
+				the option of engaging with the content either live or
+				via archived recordings of class sessions.
+			</para>
+			<para>
+				Other schools have decided not to implement synchronous
+				programs for a variety of reasons or have limited the
+				use of synchronous tools to individual faculty members.
+			</para>
+			<blockquote>
+				<para>
+					We offer live videoconferences, not avail. on line
+				</para>
+				<para>Poly COM, Apple iChat, DVTS, Skype</para>
+				<para>
+					Even though you have only listed web conference
+					tools as synchronous DL, we still use interactive,
+					two-way video
+				</para>
+				<para>
+					Mediasite by Sonic Foundry Video Conferencing
+					(Tandberg h.323)
+				</para>
+				<para>
+					Note: currently we do not use synchronous distance
+					learning over the Internet. We do offer a suite of
+					telecourses, a few featuring live lectures, most
+					recorded. Increasingly these lectures are being
+					integrated into our asynchronous online courses as
+					streaming RealMedia. Our plans are to migrate to a
+					Flash-based delivery....
+				</para>
+				<para>
+					Although we offer distance learning via
+					correspondence and Moodle, we do not offer any
+					synchronous distance learning instruction
+				</para>
+				<para>
+					Tandberg. polycom, and other telecommunications
+					systems. Marratech netmeeting We use IP based
+					Polycom codecs for two way communication
+				</para>
+			</blockquote>
+			<para>
+				A suprisingly large number of respondents, mostly from
+				Community Colleges continue to use their video
+				infrastructure for delivering instructional content.
+				They also make extensive use of cable television
+				channels and satellite television (Direct TV or Dish
+				Network) for delivering instruction
+			</para>
+
+			<blockquote>
+				<para>
+					...The California Community Colleges Chancellor's
+					Office provides Elluminate Live through
+					CCCConfer.org and this can be used for chat and
+					synchronous office hours but we're not using it now
+					for course delivery.
+				</para>
+				<para>
+					ReadyTalk (I am also staff at UCSD where I have a
+					ReadyTalk account and prefer it over Elluminate,
+					aka. CCCConfer)
+				</para>
+
+				<para>
+					Really not doing much, if any, synchronous
+					instruction, but CCC Confer offers Elluminate Live,
+					which may be getting some minimal usage. However,
+					the DE Committee and IT are planning to buy EL or
+					other platform in the near future.
+				</para>
+			</blockquote>
+
+			<para>
+				CCCConfer (
+				<link
+					xlink:href="http://www.cccconfer.org/index1.aspx">
+					http://www.cccconfer.org/index1.aspx
+				</link>
+				) provides Synchronous conferencing services for the 108
+				campuses of the California Community College system. The
+				service initially used Wimba products but now has
+				changed to Elluminate Live.
+			</para>
+
+			<para>
+				There also seems to be a trend in asynchronous courses
+				to use the synchronous tools built into the LMS (Moodle,
+				Angel, Desire2Learn, Blackboard, eCollege, WebCT and
+				Etudes NG were mentioned as delivery vehicles.) A
+				concern with this model is the strength of the LMS
+				network connection, the hardware it is running on and
+				the number of simultaneous connections
+			</para>
+			<para>
+				Etudes NG should be singled out and analyzed in more
+				detail. Originally a project developed by an Instructor
+				at Foothill College as an alternative to the big
+				commercial Learning Management Systems; Etudes morphed
+				into a Sakai derivative driven by a Consortium (
+				<link xlink:href="http://www.etudesproject.org/">
+					http://www.etudesproject.org/
+				</link>
+				) with a current membership of 23 community colleges.
+			</para>
+
+
+		</sect2>
+		<sect2 id="how-long-using">
+			<title>How long have you used the software</title>
+			<table xml:id="question8" rules="all" frame="box">
+				<caption>
+					Students Enrolled In Distance Learning program
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							8. How long have you been using your
+							synchronous distance learning delivery
+							software?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Currently in pilot phase</td>
+						<td>Between 2 and 3 years</td>
+					</tr>
+					<tr>
+						<td>Less than 6 months</td>
+						<td>Between 3 and 4 years</td>
+					</tr>
+					<tr>
+						<td>Between 6 months and 1 year</td>
+						<td>Between 4 and 5 years</td>
+					</tr>
+					<tr>
+						<td>Between 1 and 2 years</td>
+						<td>More than 5 years</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 8 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 8 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q8graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 8:
+			</para>
+
+			<informaltable xml:id="distribution-q8" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Length of Time</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Currently in Pilot Phase</td>
+						<td>24</td>
+					</tr>
+					<tr>
+						<td>Less than 6 months</td>
+						<td>6</td>
+					</tr>
+					<tr>
+						<td>Between 6 months and 1 year</td>
+						<td>13</td>
+					</tr>
+					<tr>
+						<td>Between 1 and 2 years</td>
+						<td>17</td>
+					</tr>
+					<tr>
+						<td>Between 2 and 3 years</td>
+						<td>16</td>
+					</tr>
+					<tr>
+						<td>Between 3 and 4 years</td>
+						<td>11</td>
+					</tr>
+					<tr>
+						<td>Between 4 and 5 years</td>
+						<td>8</td>
+					</tr>
+					<tr>
+						<td>More than 5 years</td>
+						<td>2</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="integrate-with-lms">
+			<title>Do you integrate with your LMS</title>
+			<table xml:id="question9" rules="all" frame="box">
+				<caption>Do you integrate with your LMS?</caption>
+				<thead>
+					<tr>
+						<td>
+							9. Do you integrate your synchronous
+							distance learning software with your
+							Learning Management System (LMS)?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Yes</td>
+						<td>No</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 9 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 9 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q9graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 9:
+			</para>
+			<informaltable xml:id="distribution-q9" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Do you integrate?</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Yes</td>
+						<td>75</td>
+					</tr>
+					<tr>
+						<td>No</td>
+						<td>62</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="what-system">
+			<title>
+				If you integrate, what system do you integrate with?
+			</title>
+			<table xml:id="question10" rules="all" frame="box">
+				<caption>Which LMS do you integrate with</caption>
+				<thead>
+					<tr>
+						<td>
+							10. If you answered yes to question #9;
+							which LMS do you use on campus?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>(Open Ended Answer)</td>
+						<td />
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 10 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 10 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q10graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+
+			<para>
+				The the following were the responses to question 10:
+			</para>
+
+			<informaltable xml:id="distribution-q10" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>What system</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Blackboard</td>
+						<td>30</td>
+					</tr>
+					<tr>
+						<td>WebCT</td>
+						<td>15</td>
+					</tr>
+					<tr>
+						<td>Angel</td>
+						<td>4</td>
+					</tr>
+					<tr>
+						<td>Desire2Learn</td>
+						<td>9</td>
+					</tr>
+					<tr>
+						<td>Moodle</td>
+						<td>8</td>
+					</tr>
+					<tr>
+						<td>eCollege</td>
+						<td>5</td>
+					</tr>
+					<tr>
+						<td>Etudes NG</td>
+						<td>1</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="same-lms-as-oncampus">
+			<title>
+				Is it the same system used for on-campus classes?
+			</title>
+			<table xml:id="question11" rules="all" frame="box">
+				<caption>
+					Is it the same system used for on-campus classes?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							Is it the same system used for on-campus
+							classes?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Yes</td>
+						<td>No</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 11 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 11 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q11graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 11:
+			</para>
+
+			<informaltable xml:id="distribution-q11" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Same System</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Yes</td>
+						<td>83</td>
+					</tr>
+					<tr>
+						<td>No</td>
+						<td>10</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="selection-process">
+			<title>
+				Who selected the software you are currently using
+			</title>
+			<table xml:id="question12" rules="all" frame="box">
+				<caption>
+					Who selected your current distance learning
+					software?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							12. Who from your institution selected your
+							current distance learning software?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Administration</td>
+						<td>
+							Collaborative Group
+							(Faculty/Administrators/Students)
+						</td>
+					</tr>
+					<tr>
+						<td>Faculty Committee</td>
+						<td>Academic Technology Committee</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td />
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 12 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 12 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q12graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 12:
+			</para>
+
+			<informaltable xml:id="distribution-q12" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Who Selected</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Administration</td>
+						<td>22</td>
+					</tr>
+					<tr>
+						<td>Faculty Committee</td>
+						<td>12</td>
+					</tr>
+					<tr>
+						<td>
+							Collaborative Group
+							<sbr />
+							(Faculty/administrators/Students)
+						</td>
+						<td>48</td>
+					</tr>
+					<tr>
+						<td>Academic Technology Committee</td>
+						<td>31</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td>24</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="distance-learning-classes-per-term">
+			<title>
+				How many classes are considered distance learning per
+				term?
+			</title>
+			<table xml:id="question13" rules="all" frame="box">
+				<caption>
+					How many classes are considered distance learning
+					per term?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							13. How many classes are considered distance
+							learning per term?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1 - 10</td>
+						<td>300 - 500</td>
+					</tr>
+					<tr>
+						<td>11 - 100</td>
+						<td>501 - 1000</td>
+					</tr>
+					<tr>
+						<td>101 - 200</td>
+						<td>1001 or more</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 13 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 13 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q13graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 13:
+			</para>
+
+			<informaltable xml:id="distribution-q13" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Number of Classes</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>1 - 10</td>
+						<td>17</td>
+					</tr>
+					<tr>
+						<td>11 - 100</td>
+						<td>51</td>
+					</tr>
+					<tr>
+						<td>101 - 200</td>
+						<td>40</td>
+					</tr>
+					<tr>
+						<td>300 - 500</td>
+						<td>17</td>
+					</tr>
+					<tr>
+						<td>501 - 1000</td>
+						<td>10</td>
+					</tr>
+					<tr>
+						<td>1000 or more</td>
+						<td>2</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="synchronous-distance-learning-classes-per-term">
+			<title>
+				Synchronous Distance Learning classes per term
+			</title>
+			<table xml:id="question14" rules="all" frame="box">
+				<caption>
+					How many distance learning classes are considered
+					synchronous?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							14. How many distance learning classes are
+							considered synchronous?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1 - 10</td>
+						<td>300 - 500</td>
+					</tr>
+					<tr>
+						<td>11 - 100</td>
+						<td>501 - 1000</td>
+					</tr>
+					<tr>
+						<td>101 - 200</td>
+						<td>1001 or more</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 14 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 14 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q14graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 14:
+			</para>
+
+			<informaltable xml:id="distribution-q14" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Number of Classes</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>1 - 10</td>
+						<td>87</td>
+					</tr>
+					<tr>
+						<td>11 - 100</td>
+						<td>37</td>
+					</tr>
+					<tr>
+						<td>101 - 200</td>
+						<td>0</td>
+					</tr>
+					<tr>
+						<td>300 - 500</td>
+						<td>0</td>
+					</tr>
+					<tr>
+						<td>501 - 1000</td>
+						<td>3</td>
+					</tr>
+					<tr>
+						<td>1000 or more</td>
+						<td>0</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="asynchronous-distance-learning-classes-per-term">
+			<title>
+				Asynchronous Distance Learning classes per term
+			</title>
+			<table xml:id="question15" rules="all" frame="box">
+				<caption>
+					How many distance learning classes are considered
+					asynchronous?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							15. How many distance learning classes are
+							considered synchronous?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1 - 10</td>
+						<td>300 - 500</td>
+					</tr>
+					<tr>
+						<td>11 - 100</td>
+						<td>501 - 1000</td>
+					</tr>
+					<tr>
+						<td>101 - 200</td>
+						<td>1001 or more</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 15 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 15 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q15graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 15:
+			</para>
+
+			<informaltable xml:id="distribution-q15" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Number of Classes</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>1 - 10</td>
+						<td>33</td>
+					</tr>
+					<tr>
+						<td>11 - 100</td>
+						<td>46</td>
+					</tr>
+					<tr>
+						<td>101 - 200</td>
+						<td>0</td>
+					</tr>
+					<tr>
+						<td>300 - 500</td>
+						<td>0</td>
+					</tr>
+					<tr>
+						<td>501 - 1000</td>
+						<td>12</td>
+					</tr>
+					<tr>
+						<td>1000 or more</td>
+						<td>0</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="who-maintains-your-distance-learning software">
+			<title>
+				Who maintains your distance learning software?
+			</title>
+			<table xml:id="question16" rules="all" frame="box">
+				<caption>
+					16. Who maintains your distance learning software?
+					(Select all that apply.)
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							16. Who maintains your distance learning
+							software? (Select all that apply.)
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Faculty Development Center</td>
+						<td>
+							Dedicated distance learning support group
+						</td>
+					</tr>
+					<tr>
+						<td>Help Desk</td>
+						<td>Third Party (ASP or Hosted)</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td />
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 16 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 16 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q16graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 16:
+			</para>
+
+			<informaltable xml:id="distribution-q16" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Who Maintains</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Faculty Development Center</td>
+						<td>12</td>
+					</tr>
+					<tr>
+						<td>Dedicated</td>
+						<td>53</td>
+					</tr>
+					<tr>
+						<td>
+							Third Party
+							<sbr />
+							(ASP or Hosted)
+						</td>
+						<td>35</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="faculty-technical-support">
+			<title>
+				How do faculty get technical support for distance
+				learning software?
+			</title>
+			<table xml:id="question17" rules="all" frame="box">
+				<caption>
+					How do faculty get technical support for distance
+					learning software?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							17. How do faculty get technical support for
+							distance learning software? (Select all that
+							apply.)
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Email</td>
+						<td>In Person</td>
+					</tr>
+					<tr>
+						<td>Telephone</td>
+						<td>Synchronous Text Chat</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td />
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 17 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 17 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q17graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 17:
+			</para>
+
+			<informaltable xml:id="distribution-q17" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>
+							How is technical
+							<sbr />
+							support provided
+						</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Email</td>
+						<td>114</td>
+					</tr>
+					<tr>
+						<td>Telephone</td>
+						<td>116</td>
+					</tr>
+					<tr>
+						<td>In Person</td>
+						<td>107</td>
+					</tr>
+					<tr>
+						<td>Synchronous Text Chat</td>
+						<td>27</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td>0</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="faculty-technical-support-same-as-oncampus">
+			<title>
+				Is this the same group that offers general technical
+				support for faculty?
+			</title>
+			<table xml:id="question18" rules="all" frame="box">
+				<caption>
+					Is this the same group that offers general technical
+					support for faculty?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							18. Is this the same group that offers
+							general technical support for faculty?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Yes</td>
+						<td>No</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 18 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 18 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q18graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 18:
+			</para>
+
+			<informaltable xml:id="distribution-q18" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Is it the same as on-campus support</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Yes</td>
+						<td>78</td>
+					</tr>
+					<tr>
+						<td>No</td>
+						<td>51</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="faculty-pedagogical-support">
+			<title>
+				How do faculty get pedagogical support for distance
+				learning?
+			</title>
+			<table xml:id="question19" rules="all" frame="box">
+				<caption>
+					How do faculty get pedagogical support for distance
+					learning?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							19. How do faculty get pedagogical support
+							for distance learning? (Select all that
+							apply.)
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Email</td>
+						<td>In Person</td>
+					</tr>
+					<tr>
+						<td>Telephone</td>
+						<td>Synchronous Text Chat</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td />
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 19 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 19 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q19graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 19:
+			</para>
+
+			<informaltable xml:id="distribution-q19" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>
+							How is pedagogical
+							<sbr />
+							support provided
+						</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Email</td>
+						<td>89</td>
+					</tr>
+					<tr>
+						<td>Telephone</td>
+						<td>83</td>
+					</tr>
+					<tr>
+						<td>In Person</td>
+						<td>108</td>
+					</tr>
+					<tr>
+						<td>Synchronous Text Chat</td>
+						<td>18</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td>0</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="faculty-pedagogical-support-same-as-oncampus">
+			<title>
+				Is this the same group that offers general technical
+				support for faculty?
+			</title>
+			<table xml:id="question20" rules="all" frame="box">
+				<caption>
+					Is this the same group that offers general technical
+					support for faculty?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							19. How do faculty get pedagogical support
+							for distance learning? (Select all that
+							apply.)
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Yes</td>
+						<td>No</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 20 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 20 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q20graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 18:
+			</para>
+
+			<informaltable xml:id="distribution-q20" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Is it the same as on-campus support</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Yes</td>
+						<td>75</td>
+					</tr>
+					<tr>
+						<td>No</td>
+						<td>50</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="student-technical-support">
+			<title>
+				How do students get technical support for distance
+				learning?
+			</title>
+			<table xml:id="question21" rules="all" frame="box">
+				<caption>
+					How do faculty get technical support for distance
+					learning software?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							21. How do students get technical support
+							for distance learning? (Select all that
+							apply.)
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Telephone</td>
+						<td>Chat</td>
+					</tr>
+					<tr>
+						<td>Email</td>
+						<td>In Person</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td />
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 21 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 21 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q21graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 21:
+			</para>
+
+			<informaltable xml:id="distribution-q21" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>
+							How is student
+							<sbr />
+							support provided
+						</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Email</td>
+						<td>105</td>
+					</tr>
+					<tr>
+						<td>Telephone</td>
+						<td>111</td>
+					</tr>
+					<tr>
+						<td>In Person</td>
+						<td>34</td>
+					</tr>
+					<tr>
+						<td>Synchronous Text Chat</td>
+						<td>71</td>
+					</tr>
+					<tr>
+						<td>Other (please specify)</td>
+						<td>35</td>
+					</tr>
+				</tbody>
+			</informaltable>
+		</sect2>
+		<sect2 id="student-technical-support-same-as-oncampus">
+			<title>
+				Is it the same as general student technical support?
+			</title>
+			<table xml:id="question22" rules="all" frame="box">
+				<caption>
+					Is it the same as general student technical support?
+				</caption>
+				<thead>
+					<tr>
+						<td>
+							22. Is it the same as general student
+							technical support?
+						</td>
+						<td />
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Yes</td>
+						<td>No</td>
+					</tr>
+				</tbody>
+			</table>
+			<para />
+			<mediaobject>
+				<caption>
+					Graph Showing Results for Question 22 of the Survey
+				</caption>
+				<alt>
+					Graph Showing Results for Question 22 of the survey
+				</alt>
+				<imageobject>
+					<imagedata align="center" width="5in" height="4in"
+						format="PNG" fileref="./images/q22graph.png" />
+				</imageobject>
+				<textobject>
+					<para />
+				</textobject>
+			</mediaobject>
+			<para>
+				The the following were the responses to question 22:
+			</para>
+
+			<informaltable xml:id="distribution-q22" rules="all"
+				frame="box">
+				<tbody>
+					<tr>
+						<td>Is it the same as on-campus support</td>
+						<td>Responses</td>
+					</tr>
+					<tr>
+						<td>Yes</td>
+						<td>74</td>
+					</tr>
+					<tr>
+						<td>No</td>
+						<td>53</td>
+					</tr>
+				</tbody>
+			</informaltable>
+
+			<blockquote>
+				<para>
+					None systemic - from the professor by e-mail
+				</para>
+			</blockquote>
+			<para>
+				A surprising number of instructors find themselves also
+				having to fill the role of technical support for their
+				students. This may be tied to "lone ranger" faculty who
+				decided to implement synchronous solutions on their own.
+			</para>
+			<blockquote>
+				<para>
+					... website, take Intro to Online Learning course
+				</para>
+				<para>online tutorials and documentation</para>
+				<para>online knowledge base and documentation</para>
+			</blockquote>
+
+			<para>
+				Many responses include online resources as a means to
+				support students taking online courses. It would be
+				interesting to see what led to this kind of support and
+				what the difference would be with a traditional physical
+				help desk model
+			</para>
+		</sect2>
+	</sect1>
+</article>
