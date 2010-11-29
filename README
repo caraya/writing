@@ -1,0 +1,5 @@
+The code below is an attempt to create a Dcbook XML workflow. It will provide
+ANT scripts, and the Java tools that I use to create docbook documents. 
+
+It is not the only way to do it, XSLTProc is faster and more elegant, but 
+the Java tools are portable without requiring weird installation in Windows
